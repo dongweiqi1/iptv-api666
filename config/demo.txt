@@ -71,14 +71,14 @@ CCTV4K
 新疆卫视
 云南卫视
 ☘️北京频道,#genre#
-北京新闻HD
-北京生活HD
-北京影视HD
-北京文艺HD
-北京体育休闲HD
-北京纪实科教HD
-北京财经HD
-北京国际HD
+BTV新闻
+BTV北京卫视
+BTV文艺
+BTV科教
+BTV影视
+BTV财经
+BTV生活
+BTV体育
 ☘️香港频道,#genre#
 凤凰中文HD 1080p
 凤凰资讯HD 1080p
