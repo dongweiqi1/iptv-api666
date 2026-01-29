@@ -14,4 +14,5 @@ https://raw.githubusercontent.com/hst1189/iptv-m3u/refs/heads/main/m3u/7_YueChan
 https://raw.githubusercontent.com/alenin-zhang/IPTV/33e27d193254a705e156e6bebdd506d7fd9e3ec3/av
 https://raw.githubusercontent.com/spammnmail/iptv2/refs/heads/main/x.m3u
 https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
+https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u
 https://raw.githubusercontent.com/Cnmajun/IpTV/af7448af5c86ea78d1a0be6b86e1e3056fb8e4e7/fashionTV.m3u
