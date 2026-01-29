@@ -17,11 +17,11 @@ CCTV-13
 CCTV-14
 CCTV-15
 CCTV-17
-星影HD
-家庭影院HD
-动作影院HD
-IPTV经典电影HD
-IPTV热播剧场HD
+IPTV星影
+IPTV家庭影院
+IPTV经典电影
+IPTV动作影院
+IPTV热播剧场
 ☘️超高清频道,#genre#
 CCTV4K
 北京卫视4K
