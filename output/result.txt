@@ -1,30 +1,26 @@
 🕘️更新时间,#genre#
-2026-02-04 15:06:41,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-02-05 03:03:56,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 ☘️央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
-CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
-CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
 CCTV-2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-2,http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV-3
-CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV-3,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
-CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
 CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV-4,http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
@@ -91,8 +87,8 @@ CCTV-12,http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://23.237.228.134/live3/CCTV13.m3u8
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
-CCTV-13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
+CCTV-13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://tvlist.top/jd/index.php?id=cctv13&qt=183.224.122.114:8014
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -122,8 +118,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 广东卫视,https://iptv.catvod.com/catvod.php?id=gdws
 广东卫视,http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
-广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
 广东卫视,http://tvlist.top/jd/index.php?id=gdws&qt=118.212.78.251:8014
+广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -136,9 +132,9 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
+湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
 湖南卫视,http://27.41.245.32:801/hls/27/index.m3u8
-湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=183.224.122.114:8014
 湖南卫视,http://tvlist.top/jd/index.php?id=hunanws&qt=118.212.78.251:8014
@@ -306,9 +302,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 翡翠台1080p,http://74.91.26.218:82/live/jade.m3u8
 翡翠台1080p,http://rihou.cc:555/tv/[Pd]无线翡翠
 翡翠台4K,http://rihou.cc:555/tv/[PL]无线翡4k
-明珠台1080p,http://iptv.4666888.xyz/iptv2A.php?id=29
 明珠台1080p,http://rihou.cc:555/tv/[Pd]无线明珠
-TVBJ1 1080p,http://iptv.4666888.xyz/iptv2A.php?id=26
 TVB plus 1080p,http://74.91.26.218:82/live/j2.m3u8
 TVB星河720p,http://rihou.cc:555/tv/[Pd]无线星河
 TVB星河720p,http://rihou.cc:555/tv/[PL]无线星河
@@ -319,9 +313,7 @@ TVB娱乐新闻台720p,http://rihou.cc:555/tv/[PL]无线娱乐
 RHK31 1080p,http://rihou.cc:555/tv/[PL]RTHK-31
 HOY76 1080p,http://hls.168.us.kg/u/76/master.m3u8
 HOY77 1080p,http://hls.168.us.kg/u/77/master.m3u8
-HOY77 1080p,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY78 1080p,http://hls.168.us.kg/u/78/master.m3u8
-HOY78 1080p,http://iptv.4666888.xyz/iptv2A.php?id=31
 Global Fashion Channel (1080p),https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 Fashion CZ,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
@@ -334,44 +326,51 @@ Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/play
 PlayBoyHD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 PlayBoyHD,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
 PlayBoyHD,https://hyf000.eu.org/iptv/16
-PlayBoyHD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/527/index.m3u8
 PlayBoyHD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/527/index.m3u8
+PlayBoyHD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/527/index.m3u8
 Playboy Plus,https://hyf000.eu.org/iptv/102
+Playboy Plus,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6242/index.m3u8
-Playboy Plus,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6242/index.m3u8
 MetArt FHD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12160/index.m3u8
 MetArt FHD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/12160/index.m3u8
 SexArt,https://hyf000.eu.org/iptv/113
+SexArt,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6253/index.m3u8
 SexArt,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6165/index.m3u8
 SexArt,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6253/index.m3u8
 SexArt,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6253/index.m3u8
-SexArt,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6253/index.m3u8
 XY Max HD,https://hyf000.eu.org/iptv/146
-XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6286/index.m3u8
-XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6286/index.m3u8
 XY Max HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6286/index.m3u8
+XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6286/index.m3u8
+XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6286/index.m3u8
+XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6286/index.m3u8
 XY Mix HD,https://hyf000.eu.org/iptv/147
-XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6287/index.m3u8
-XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6287/index.m3u8
 XY Mix HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6287/index.m3u8
+XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6287/index.m3u8
+XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6287/index.m3u8
+XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6287/index.m3u8
 XY Plus HD,https://hyf000.eu.org/iptv/148
-XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6288/index.m3u8
-XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6288/index.m3u8
 XY Plus HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6288/index.m3u8
+XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6288/index.m3u8
+XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6288/index.m3u8
+XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6288/index.m3u8
 
 ☘️台湾频道,#genre#
 中天新聞720p,http://rihou.cc:555/tv/[Hk]%E4%B8%AD%E5%A4%A9%E6%96%B0%E8%81%9E
+中天新聞720p,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
 CTS華視新聞资讯1080p,http://74.91.26.218:82/live/ctsnews.m3u8
 CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 中視新聞HD 1080p,http://74.91.26.218:82/live/ctvnews.m3u8
 中視新聞HD 1080p,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 台视新闻HD 1080p,http://74.91.26.218:82/live/ttvnews.m3u8
 台视财经HD 1080P,http://74.91.26.218:82/live/ttvcj.m3u8
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
 民視新聞台1080p,http://74.91.26.218:82/live/ftvnews.m3u8
-非凡新聞HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=44
-TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
+年代新聞HD 1080p,http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
+中天娱乐HD 1080p,http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
+中天综合HD 1080p,http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
 华视HD 1080p,http://74.91.26.218:82/live/cts.m3u8
 中視HD 1080p,http://74.91.26.218:82/live/ctv.m3u8
 中視HD 1080p,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
@@ -381,12 +380,9 @@ TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 PopC电影,http://rihou.cc:555/tv/[Bx]pₒₚc电影
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 美亚电影台HD,http://74.91.26.218:82/live/mydy.m3u8
-美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台(国),http://74.91.26.218:82/live/mydy.m3u8
-美亚电影台(国),http://iptv.4666888.xyz/iptv2A.php?id=30
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 东森电影HD,https://live.saileitv.com/channel/n5502f4/index.m3u8?q=1768660386565&sign=097c2fa48ab623ba6c6327404a1375c9&ts=1768660887
-东森电影HD,http://iptv.4666888.xyz/iptv2A.php?id=48
 
 ☘️国际频道,#genre#
 CNN,https://jmp2.uk/stvp-ATBD800001VA
@@ -539,370 +535,376 @@ BTV Киска (+18),http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ
 香蕉台(125),http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 DMF,https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 Japan HDV,https://hyf000.eu.org/iptv/86
+Japan HDV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
 Japan HDV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6225/index.m3u8
 Japan HDV,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6225/index.m3u8
 Japan HDV,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
-Japan HDV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
 RK Prime,https://hyf000.eu.org/iptv/108
-RK Prime,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6248/index.m3u8
 RK Prime,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6248/index.m3u8
+RK Prime,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6248/index.m3u8
 RK TV,https://hyf000.eu.org/iptv/109
-RK TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6249/index.m3u8
 RK TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6249/index.m3u8
+RK TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6249/index.m3u8
 Hitzefrei HD,https://hyf000.eu.org/iptv/81
-Hitzefrei HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6220/index.m3u8
 Hitzefrei HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6220/index.m3u8
+Hitzefrei HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6220/index.m3u8
 Babes,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6171/index.m3u8
 Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-FemJoy,https://hyf000.eu.org/iptv/73
 FemJoy,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6212/index.m3u8
+FemJoy,https://hyf000.eu.org/iptv/73
+FemJoy,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6212/index.m3u8
 FemJoy,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6212/index.m3u8
 FemJoy,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6212/index.m3u8
-FemJoy,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6212/index.m3u8
-Brazzers,https://hyf000.eu.org/iptv/1
 Brazzers,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6182/index.m3u8
-Brazzers,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6182/index.m3u8
+Brazzers,https://hyf000.eu.org/iptv/1
 Brazzers,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6182/index.m3u8
+Brazzers,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6182/index.m3u8
 Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-Brazzers eXXtra,https://hyf000.eu.org/iptv/3
 Brazzers eXXtra,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6181/index.m3u8
-Brazzers eXXtra,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6181/index.m3u8
+Brazzers eXXtra,https://hyf000.eu.org/iptv/3
 Brazzers eXXtra,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6181/index.m3u8
-Brazzers HD,https://hyf000.eu.org/iptv/1
+Brazzers eXXtra,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6181/index.m3u8
 Brazzers HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6182/index.m3u8
-Brazzers HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6182/index.m3u8
+Brazzers HD,https://hyf000.eu.org/iptv/1
 Brazzers HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6182/index.m3u8
+Brazzers HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6182/index.m3u8
 Brazzers HD,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 Brazzers TV Europe,http://7inter2.cc:8080/15648640/1564564Kjs/18976
 Brazzers TV Europe,https://hyf000.eu.org/iptv/2
-Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12113/index.m3u8
 Brazzers TV Europe,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/910/index.m3u8
-EROCOM TV,https://hyf000.eu.org/iptv/190
+Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12113/index.m3u8
 EROCOM TV,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12128/index.m3u8
+EROCOM TV,https://hyf000.eu.org/iptv/190
 EROCOM TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12128/index.m3u8
-Extasy,https://hyf000.eu.org/iptv/63
-Extasy,https://hyf000.eu.org/iptv/167
 Extasy,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/11051/index.m3u8
 Extasy,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6201/index.m3u8
-Extasy,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6201/index.m3u8
+Extasy,https://hyf000.eu.org/iptv/63
+Extasy,https://hyf000.eu.org/iptv/167
 Extasy,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/11051/index.m3u8
 Extasy,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6201/index.m3u8
+Extasy,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6201/index.m3u8
 Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Erox,https://hyf000.eu.org/iptv/156
+Erox,http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/664
 Erox,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6296/index.m3u8
-Erox,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6296/index.m3u8
+Erox,https://hyf000.eu.org/iptv/156
 Erox,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6296/index.m3u8
+Erox,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6296/index.m3u8
 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-Dorcel Club,https://hyf000.eu.org/iptv/59
 Dorcel Club,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6197/index.m3u8
-Dorcel Club,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6197/index.m3u8
+Dorcel Club,https://hyf000.eu.org/iptv/59
 Dorcel Club,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6197/index.m3u8
-Dorcel HD orig,https://hyf000.eu.org/iptv/159
+Dorcel Club,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6197/index.m3u8
 Dorcel HD orig,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/9064/index.m3u8
+Dorcel HD orig,https://hyf000.eu.org/iptv/159
+Dorcel HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9064/index.m3u8
 Dorcel HD orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9064/index.m3u8
 Dorcel HD orig,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/9064/index.m3u8
-Dorcel HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9064/index.m3u8
 Dorcel TV HD,https://cdnsk003.panaccess.com/local/Dorcel/tracks-v1a1/mono.m3u8
-Dorcel TV HD,https://hyf000.eu.org/iptv/31
 Dorcel TV HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12131/index.m3u8
 Dorcel TV HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/245/index.m3u8
+Dorcel TV HD,https://hyf000.eu.org/iptv/31
+Dorcel TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/245/index.m3u8
 Dorcel TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/245/index.m3u8
 Dorcel TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/878/index.m3u8
 Dorcel TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12131/index.m3u8
 Dorcel TV HD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/245/index.m3u8
-Dorcel TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/245/index.m3u8
-Fake Taxi HD,https://hyf000.eu.org/iptv/64
 Fake Taxi HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6202/index.m3u8
-Fake Taxi HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6202/index.m3u8
+Fake Taxi HD,https://hyf000.eu.org/iptv/64
 Fake Taxi HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6202/index.m3u8
+Fake Taxi HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6202/index.m3u8
 Penthouse Gold HD,https://hyf000.eu.org/iptv/8
-Penthouse Gold HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5011/index.m3u8
-Penthouse Gold HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5011/index.m3u8
 Penthouse Gold HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5011/index.m3u8
+Penthouse Gold HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5011/index.m3u8
+Penthouse Gold HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5011/index.m3u8
+Penthouse Gold HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5011/index.m3u8
 Penthouse Quickies HD,https://hyf000.eu.org/iptv/9
-Penthouse Quickies HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5013/index.m3u8
 Penthouse Quickies HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5013/index.m3u8
+Penthouse Quickies HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5013/index.m3u8
 Playboy Plus,https://hyf000.eu.org/iptv/102
+Playboy Plus,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6242/index.m3u8
-Playboy Plus,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6242/index.m3u8
 PLAYBOY TV,https://hyf000.eu.org/iptv/197
+PLAYBOY TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12135/index.m3u8
 PLAYBOY TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/527/index.m3u8
 PLAYBOY TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/527/index.m3u8
 PLAYBOY TV,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/12135/index.m3u8
-PLAYBOY TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12135/index.m3u8
 Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Private HD,https://hyf000.eu.org/iptv/105
-Private HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6245/index.m3u8
 Private HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6245/index.m3u8
+Private HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6245/index.m3u8
 Private TV,https://hyf000.eu.org/iptv/28
-Private TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/243/index.m3u8
 Private TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/243/index.m3u8
-Evolved Fights,https://hyf000.eu.org/iptv/62
+Private TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/243/index.m3u8
 Evolved Fights,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6200/index.m3u8
-Evolved Fights,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6200/index.m3u8
+Evolved Fights,https://hyf000.eu.org/iptv/62
 Evolved Fights,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6200/index.m3u8
+Evolved Fights,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6200/index.m3u8
 VERAPORN 4K 2,https://hyf000.eu.org/iptv/200
 VERAPORN 4K 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12138/index.m3u8
 VERAPORN 4K,https://hyf000.eu.org/iptv/199
 VERAPORN 4K,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12137/index.m3u8
 Vivid Red HD,http://conecdg.me:80/Andrielly.Silva/Br131221/3920386
 Vivid Red HD,https://hyf000.eu.org/iptv/22
-Vivid Red HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2162/index.m3u8
 Vivid Red HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2162/index.m3u8
+Vivid Red HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2162/index.m3u8
 Vixen HD,https://hyf000.eu.org/iptv/125
+Vixen HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6265/index.m3u8
 Vixen HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6265/index.m3u8
 Vixen HD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6265/index.m3u8
-Vixen HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6265/index.m3u8
 HOTWIFE PREMIUM,https://hyf000.eu.org/iptv/244
 HOTWIFE PREMIUM,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12187/index.m3u8
 Hustler HD Europe,https://hyf000.eu.org/iptv/5
 Hustler HD Europe,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/244/index.m3u8
 Hustler HD orig,https://hyf000.eu.org/iptv/4
-Hustler HD orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9065/index.m3u8
 Hustler HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9065/index.m3u8
+Hustler HD orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9065/index.m3u8
 MAD SEX PARTY,https://hyf000.eu.org/iptv/251
 MAD SEX PARTY,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12194/index.m3u8
 MetArt HD,https://hyf000.eu.org/iptv/94
+MetArt HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6233/index.m3u8
 MetArt HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6233/index.m3u8
 MetArt HD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6233/index.m3u8
-MetArt HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6233/index.m3u8
 MILF TV,https://hyf000.eu.org/iptv/234
 MILF TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12173/index.m3u8
 Got MYLF,https://hyf000.eu.org/iptv/77
-Got MYLF,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6216/index.m3u8
 Got MYLF,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6216/index.m3u8
+Got MYLF,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6216/index.m3u8
 Monsters of Cock,https://hyf000.eu.org/iptv/96
-Monsters of Cock,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6235/index.m3u8
 Monsters of Cock,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6235/index.m3u8
+Monsters of Cock,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6235/index.m3u8
 Naughty America,https://hyf000.eu.org/iptv/12
+Naughty America,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6237/index.m3u8
 Naughty America,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6237/index.m3u8
 Naughty America,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6237/index.m3u8
-Naughty America,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6237/index.m3u8
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 Reality Kings,https://hyf000.eu.org/iptv/107
-Reality Kings,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6247/index.m3u8
 Reality Kings,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6247/index.m3u8
+Reality Kings,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6247/index.m3u8
 Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-Eroxxx,https://hyf000.eu.org/iptv/23
 Eroxxx,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/5015/index.m3u8
-Eroxxx,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5015/index.m3u8
+Eroxxx,https://hyf000.eu.org/iptv/23
 Eroxxx,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5015/index.m3u8
+Eroxxx,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5015/index.m3u8
+Eroxxx,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5015/index.m3u8
 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 21 Sextury,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12205/index.m3u8
+21 Sextury,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6164/index.m3u8
 21 Sextury,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6164/index.m3u8
 21 Sextury,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12205/index.m3u8
-21 Sextury,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6164/index.m3u8
-A3 Bikini,https://hyf000.eu.org/iptv/37
 A3 Bikini,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6165/index.m3u8
-A3 Bikini,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6165/index.m3u8
+A3 Bikini,https://hyf000.eu.org/iptv/37
 A3 Bikini,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6165/index.m3u8
-Adult Time,https://hyf000.eu.org/iptv/32
+A3 Bikini,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6165/index.m3u8
 Adult Time,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6166/index.m3u8
-Adult Time,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6166/index.m3u8
+Adult Time,https://hyf000.eu.org/iptv/32
 Adult Time,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6166/index.m3u8
+Adult Time,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6166/index.m3u8
+Alba 1 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12105/index.m3u8
 Alba 1 HD,https://hyf000.eu.org/iptv/169
 Alba 1 HD,https://hyf000.eu.org/iptv/170
-Alba 1 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12105/index.m3u8
-Alba 1 HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12105/index.m3u8
 Alba 1 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12105/index.m3u8
 Alba 1 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12106/index.m3u8
+Alba 1 HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12105/index.m3u8
+Alba 2 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2 HD,https://hyf000.eu.org/iptv/171
 Alba 2 HD,https://hyf000.eu.org/iptv/172
-Alba 2 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12107/index.m3u8
 Alba 2 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12108/index.m3u8
+Alba 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2,https://hyf000.eu.org/iptv/171
 Alba 2,https://hyf000.eu.org/iptv/172
-Alba 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12107/index.m3u8
 Alba 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12108/index.m3u8
-Alba 3,https://hyf000.eu.org/iptv/173
 Alba 3,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12109/index.m3u8
+Alba 3,https://hyf000.eu.org/iptv/173
 Alba 3,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12109/index.m3u8
-Alba 4,https://hyf000.eu.org/iptv/174
 Alba 4,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12110/index.m3u8
+Alba 4,https://hyf000.eu.org/iptv/174
 Alba 4,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12110/index.m3u8
-Alba 5,https://hyf000.eu.org/iptv/175
 Alba 5,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12111/index.m3u8
+Alba 5,https://hyf000.eu.org/iptv/175
 Alba 5,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12111/index.m3u8
-Analized HD,https://hyf000.eu.org/iptv/34
 Analized HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6168/index.m3u8
-Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
+Analized HD,https://hyf000.eu.org/iptv/34
 Analized HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6168/index.m3u8
-AST TV 2,https://hyf000.eu.org/iptv/36
+Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
 AST TV 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6170/index.m3u8
-AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6170/index.m3u8
+AST TV 2,https://hyf000.eu.org/iptv/36
 AST TV 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6170/index.m3u8
+AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6170/index.m3u8
 Babes TV HD,http://7inter2.cc:8080/15648640/1564564Kjs/64810
-Babes TV HD,https://hyf000.eu.org/iptv/38
 Babes TV HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6172/index.m3u8
+Babes TV HD,https://hyf000.eu.org/iptv/38
+Babes TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2161/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6172/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
-Babes TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
-Balkan Erotic,https://hyf000.eu.org/iptv/130
 Balkan Erotic,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6270/index.m3u8
+Balkan Erotic,https://hyf000.eu.org/iptv/130
+Balkan Erotic,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6270/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6270/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6270/index.m3u8
-Balkan Erotic,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6270/index.m3u8
-Bang Bros HD,https://hyf000.eu.org/iptv/39
 Bang Bros HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6173/index.m3u8
-Bang Bros HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6173/index.m3u8
+Bang Bros HD,https://hyf000.eu.org/iptv/39
 Bang Bros HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6173/index.m3u8
+Bang Bros HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6173/index.m3u8
 Bang U,http://7inter2.cc:8080/15648640/1564564Kjs/64811
 Bang U,https://hyf000.eu.org/iptv/178
-Bang U,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12114/index.m3u8
 Bang U,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12114/index.m3u8
-Bang!,https://hyf000.eu.org/iptv/40
+Bang U,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12114/index.m3u8
 Bang!,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6174/index.m3u8
-Bang!,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6174/index.m3u8
+Bang!,https://hyf000.eu.org/iptv/40
 Bang!,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6174/index.m3u8
-BANGBROS UHD 4K,https://hyf000.eu.org/iptv/241
+Bang!,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6174/index.m3u8
 BANGBROS UHD 4K,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12181/index.m3u8
+BANGBROS UHD 4K,https://hyf000.eu.org/iptv/241
 BANGBROS UHD 4K,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12181/index.m3u8
-Barely legal,https://hyf000.eu.org/iptv/29
 Barely legal,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/871/index.m3u8
-Barely legal,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/871/index.m3u8
+Barely legal,https://hyf000.eu.org/iptv/29
 Barely legal,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/871/index.m3u8
-Blacked HD,https://hyf000.eu.org/iptv/44
+Barely legal,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/871/index.m3u8
 Blacked HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6178/index.m3u8
+Blacked HD,https://hyf000.eu.org/iptv/44
+Blacked HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6178/index.m3u8
 Blacked HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6178/index.m3u8
 Blacked HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6178/index.m3u8
-Blacked HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6178/index.m3u8
-BLACKED TV ELITE,https://hyf000.eu.org/iptv/248
 BLACKED TV ELITE,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12191/index.m3u8
+BLACKED TV ELITE,https://hyf000.eu.org/iptv/248
 BLACKED TV ELITE,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12191/index.m3u8
-BLACKED TV PREMIUM,https://hyf000.eu.org/iptv/247
 BLACKED TV PREMIUM,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12190/index.m3u8
+BLACKED TV PREMIUM,https://hyf000.eu.org/iptv/247
 BLACKED TV PREMIUM,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12190/index.m3u8
 BTV Шелк тв HD (+18),http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14027/index.m3u8
-cento x cento,https://hyf000.eu.org/iptv/55
 cento x cento,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12129/index.m3u8
 cento x cento,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6184/index.m3u8
-cento x cento,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6184/index.m3u8
+cento x cento,https://hyf000.eu.org/iptv/55
 cento x cento,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6184/index.m3u8
-Cherry Pimps,https://hyf000.eu.org/iptv/48
+cento x cento,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6184/index.m3u8
 Cherry Pimps,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6185/index.m3u8
-Cherry Pimps,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
+Cherry Pimps,https://hyf000.eu.org/iptv/48
 Cherry Pimps,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6185/index.m3u8
-Club 17,https://hyf000.eu.org/iptv/49
+Cherry Pimps,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6185/index.m3u8
 Club 17,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6186/index.m3u8
+Club 17,https://hyf000.eu.org/iptv/49
 Club 17,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6186/index.m3u8
-Cum Louder,https://hyf000.eu.org/iptv/53
 Cum Louder,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6189/index.m3u8
-Cum Louder,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6189/index.m3u8
+Cum Louder,https://hyf000.eu.org/iptv/53
 Cum Louder,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6189/index.m3u8
-Day with a Pornstar,https://hyf000.eu.org/iptv/56
+Cum Louder,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6189/index.m3u8
 Day with a Pornstar,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6192/index.m3u8
-Day with a Pornstar,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6192/index.m3u8
+Day with a Pornstar,https://hyf000.eu.org/iptv/56
 Day with a Pornstar,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6192/index.m3u8
-DDF Busty,https://hyf000.eu.org/iptv/11
+Day with a Pornstar,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6192/index.m3u8
 DDF Busty,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6193/index.m3u8
+DDF Busty,https://hyf000.eu.org/iptv/11
+DDF Busty,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6193/index.m3u8
 DDF Busty,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6193/index.m3u8
 DDF Busty,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6193/index.m3u8
-DDF Busty,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6193/index.m3u8
-DDF Network,https://hyf000.eu.org/iptv/10
 DDF Network,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6194/index.m3u8
+DDF Network,https://hyf000.eu.org/iptv/10
+DDF Network,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6194/index.m3u8
 DDF Network,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6194/index.m3u8
 DDF Network,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6194/index.m3u8
-DDF Network,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6194/index.m3u8
 DESTINY TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12179/index.m3u8
-Digital Desire HD,https://hyf000.eu.org/iptv/57
 Digital Desire HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6195/index.m3u8
+Digital Desire HD,https://hyf000.eu.org/iptv/57
+Digital Desire HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6195/index.m3u8
 Digital Desire HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6195/index.m3u8
 Digital Desire HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6195/index.m3u8
-Digital Desire HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6195/index.m3u8
-DIRTY HOBBY,https://hyf000.eu.org/iptv/242
 DIRTY HOBBY,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12183/index.m3u8
+DIRTY HOBBY,https://hyf000.eu.org/iptv/242
 DIRTY HOBBY,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12183/index.m3u8
-DUSK TV,https://hyf000.eu.org/iptv/191
 DUSK TV,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12129/index.m3u8
+DUSK TV,https://hyf000.eu.org/iptv/191
+DUSK TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12129/index.m3u8
 DUSK TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12129/index.m3u8
 DUSK TV,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12129/index.m3u8
-DUSK TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12129/index.m3u8
+Dusk,http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/694
 Dusk,https://hyf000.eu.org/iptv/60
 Dusk,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6198/index.m3u8
-Emanuelle HD,https://hyf000.eu.org/iptv/132
 Emanuelle HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6272/index.m3u8
+Emanuelle HD,https://hyf000.eu.org/iptv/132
 Emanuelle HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6272/index.m3u8
-Erotic 2,https://hyf000.eu.org/iptv/150
 Erotic 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6290/index.m3u8
+Erotic 2,https://hyf000.eu.org/iptv/150
 Erotic 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6290/index.m3u8
-Erotic 3,https://hyf000.eu.org/iptv/151
 Erotic 3,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6291/index.m3u8
+Erotic 3,https://hyf000.eu.org/iptv/151
 Erotic 3,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6291/index.m3u8
-Erotic 4,https://hyf000.eu.org/iptv/152
 Erotic 4,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6292/index.m3u8
+Erotic 4,https://hyf000.eu.org/iptv/152
 Erotic 4,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6292/index.m3u8
-Erotic 6,https://hyf000.eu.org/iptv/153
 Erotic 6,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6293/index.m3u8
+Erotic 6,https://hyf000.eu.org/iptv/153
 Erotic 6,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6293/index.m3u8
-Erotic 7,https://hyf000.eu.org/iptv/154
 Erotic 7,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6294/index.m3u8
+Erotic 7,https://hyf000.eu.org/iptv/154
 Erotic 7,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6294/index.m3u8
-Erotic 8,https://hyf000.eu.org/iptv/155
 Erotic 8,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6295/index.m3u8
+Erotic 8,https://hyf000.eu.org/iptv/155
 Erotic 8,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6295/index.m3u8
-Erotic,https://hyf000.eu.org/iptv/149
 Erotic,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6289/index.m3u8
+Erotic,https://hyf000.eu.org/iptv/149
 Erotic,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6289/index.m3u8
-Eroxxx HD,https://hyf000.eu.org/iptv/23
 Eroxxx HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/5015/index.m3u8
-Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5015/index.m3u8
+Eroxxx HD,https://hyf000.eu.org/iptv/23
 Eroxxx HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5015/index.m3u8
+Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5015/index.m3u8
+Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5015/index.m3u8
 Eroxxx HD,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Evil Angel HD,https://hyf000.eu.org/iptv/61
 Evil Angel HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6199/index.m3u8
-Evil Angel HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6199/index.m3u8
+Evil Angel HD,https://hyf000.eu.org/iptv/61
 Evil Angel HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6199/index.m3u8
+Evil Angel HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6199/index.m3u8
 EXTACY 4K,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12182/index.m3u8
-Extasy 4K,https://hyf000.eu.org/iptv/27
 Extasy 4K,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/5014/index.m3u8
-Extasy 4K,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5014/index.m3u8
-Extasy 4K,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/5014/index.m3u8
+Extasy 4K,https://hyf000.eu.org/iptv/27
 Extasy 4K,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5014/index.m3u8
-EXTASY HD,https://hyf000.eu.org/iptv/63
-EXTASY HD,https://hyf000.eu.org/iptv/167
+Extasy 4K,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5014/index.m3u8
+Extasy 4K,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5014/index.m3u8
+Extasy 4K,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/5014/index.m3u8
 EXTASY HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/11051/index.m3u8
 EXTASY HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6201/index.m3u8
-EXTASY HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6201/index.m3u8
+EXTASY HD,https://hyf000.eu.org/iptv/63
+EXTASY HD,https://hyf000.eu.org/iptv/167
 EXTASY HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/11051/index.m3u8
 EXTASY HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6201/index.m3u8
+EXTASY HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6201/index.m3u8
 EXTASY HD,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-Extasy HD,https://hyf000.eu.org/iptv/63
-Extasy HD,https://hyf000.eu.org/iptv/167
 Extasy HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/11051/index.m3u8
 Extasy HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6201/index.m3u8
-Extasy HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6201/index.m3u8
+Extasy HD,https://hyf000.eu.org/iptv/63
+Extasy HD,https://hyf000.eu.org/iptv/167
 Extasy HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/11051/index.m3u8
 Extasy HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6201/index.m3u8
+Extasy HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6201/index.m3u8
 Extasy HD,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 Extreme,https://hyf000.eu.org/iptv/133
 Extreme,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6273/index.m3u8
-EXXXOTICA HD orig,https://hyf000.eu.org/iptv/164
 EXXXOTICA HD orig,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/9346/index.m3u8
-EXXXOTICA HD orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9346/index.m3u8
+EXXXOTICA HD orig,https://hyf000.eu.org/iptv/164
 EXXXOTICA HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9346/index.m3u8
-Fap TV 2,https://hyf000.eu.org/iptv/65
+EXXXOTICA HD orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9346/index.m3u8
 Fap TV 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6203/index.m3u8
-Fap TV 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6203/index.m3u8
+Fap TV 2,https://hyf000.eu.org/iptv/65
 Fap TV 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6203/index.m3u8
-FAST BOYZ GAY,https://hyf000.eu.org/iptv/253
+Fap TV 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6203/index.m3u8
 FAST BOYZ GAY,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12205/index.m3u8
+FAST BOYZ GAY,https://hyf000.eu.org/iptv/253
 FAST BOYZ GAY,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12205/index.m3u8
 Fast Boyz,https://hyf000.eu.org/iptv/134
 Fast Boyz,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6274/index.m3u8
 French Lover,https://hyf000.eu.org/iptv/20
 French Lover,https://hyf000.eu.org/iptv/188
-French Lover,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12124/index.m3u8
 French Lover,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12124/index.m3u8
 French Lover,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2160/index.m3u8
+French Lover,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12124/index.m3u8
 GANGBANG CREAMPIE,https://hyf000.eu.org/iptv/243
 GANGBANG CREAMPIE,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12184/index.m3u8
 GAY PREMIUM,https://hyf000.eu.org/iptv/252
@@ -912,96 +914,96 @@ GLORYHOLE LOVE FHD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K
 Hands on Hardcore,https://hyf000.eu.org/iptv/78
 Hands on Hardcore,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6217/index.m3u8
 Hard X,https://hyf000.eu.org/iptv/79
-Hard X,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6218/index.m3u8
 Hard X,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6218/index.m3u8
+Hard X,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6218/index.m3u8
 Holed,https://hyf000.eu.org/iptv/82
-Holed,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6221/index.m3u8
 Holed,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6221/index.m3u8
+Holed,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6221/index.m3u8
 Hot and Mean,https://hyf000.eu.org/iptv/83
-Hot and Mean,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6222/index.m3u8
 Hot and Mean,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6222/index.m3u8
+Hot and Mean,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6222/index.m3u8
 Hot Guys Fuck,https://hyf000.eu.org/iptv/84
-Hot Guys Fuck,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6223/index.m3u8
 Hot Guys Fuck,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6223/index.m3u8
+Hot Guys Fuck,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6223/index.m3u8
 Hot Pleasure,https://hyf000.eu.org/iptv/137
-Hot Pleasure,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6277/index.m3u8
 Hot Pleasure,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6277/index.m3u8
+Hot Pleasure,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6277/index.m3u8
 Kaloopy hd tv,https://hyf000.eu.org/iptv/257
 Kaloopy hd tv,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/16018/index.m3u8
 KinoXXX,https://hyf000.eu.org/iptv/166
 KinoXXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/11052/index.m3u8
 LEO TV FHD,https://hyf000.eu.org/iptv/187
-LEO TV FHD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12123/index.m3u8
 LEO TV FHD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12123/index.m3u8
+LEO TV FHD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12123/index.m3u8
 Lesbea,https://hyf000.eu.org/iptv/88
+Lesbea,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6227/index.m3u8
 Lesbea,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6227/index.m3u8
 Lesbea,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6227/index.m3u8
-Lesbea,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6227/index.m3u8
 Lethal Hardcore,https://hyf000.eu.org/iptv/90
-Lethal Hardcore,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6229/index.m3u8
 Lethal Hardcore,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6229/index.m3u8
+Lethal Hardcore,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6229/index.m3u8
 Little Asians HD,https://hyf000.eu.org/iptv/91
-Little Asians HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6230/index.m3u8
 Little Asians HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6230/index.m3u8
+Little Asians HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6230/index.m3u8
 Nubiles TV HD,https://hyf000.eu.org/iptv/98
+Nubiles TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6238/index.m3u8
 Nubiles TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6238/index.m3u8
 Nubiles TV HD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6238/index.m3u8
-Nubiles TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6238/index.m3u8
 O-la-la,https://hyf000.eu.org/iptv/26
 O-la-la,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2161/index.m3u8
 ox-ax HD,https://hyf000.eu.org/iptv/99
-ox-ax HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6239/index.m3u8
 ox-ax HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6239/index.m3u8
+ox-ax HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6239/index.m3u8
 Passion XXX orig,https://hyf000.eu.org/iptv/161
 Passion XXX orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9067/index.m3u8
 PASSION XXX,https://hyf000.eu.org/iptv/25
 PASSION XXX,https://hyf000.eu.org/iptv/184
-PASSION XXX,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12120/index.m3u8
 PASSION XXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12120/index.m3u8
 PASSION XXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/878/index.m3u8
+PASSION XXX,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12120/index.m3u8
 Playboy LA,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 Playboy LA,https://hyf000.eu.org/iptv/140
+Playboy LA,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6280/index.m3u8
 Playboy LA,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6280/index.m3u8
 Playboy LA,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12135/index.m3u8
 Playboy LA,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6280/index.m3u8
-Playboy LA,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6280/index.m3u8
 Lust Cinema,https://hyf000.eu.org/iptv/93
-Lust Cinema,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6232/index.m3u8
 Lust Cinema,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6232/index.m3u8
+Lust Cinema,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6232/index.m3u8
 Public Agent,https://hyf000.eu.org/iptv/106
-Public Agent,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6246/index.m3u8
 Public Agent,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6246/index.m3u8
+Public Agent,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6246/index.m3u8
 Red XXX,https://hyf000.eu.org/iptv/141
-Red XXX,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6281/index.m3u8
 Red XXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6281/index.m3u8
+Red XXX,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6281/index.m3u8
 Redlight HD,https://hyf000.eu.org/iptv/21
+Redlight HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/242/index.m3u8
 Redlight HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/242/index.m3u8
 Redlight HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/242/index.m3u8
-Redlight HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/242/index.m3u8
 ROCCO TV 7/24,https://hyf000.eu.org/iptv/246
 ROCCO TV 7/24,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12189/index.m3u8
 SELECT XXX VINTAGE,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12186/index.m3u8
 SELECT XXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12185/index.m3u8
 Sex With Muslims,https://hyf000.eu.org/iptv/112
-Sex With Muslims,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6252/index.m3u8
 Sex With Muslims,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6252/index.m3u8
+Sex With Muslims,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6252/index.m3u8
 SexArt,https://hyf000.eu.org/iptv/113
+SexArt,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6253/index.m3u8
 SexArt,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6165/index.m3u8
 SexArt,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6253/index.m3u8
 SexArt,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6253/index.m3u8
-SexArt,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6253/index.m3u8
 sext 6 senso,https://hyf000.eu.org/iptv/114
-sext 6 senso,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6254/index.m3u8
 sext 6 senso,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6254/index.m3u8
+sext 6 senso,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6254/index.m3u8
 Sexy Hot,http://7inter2.cc:8080/15648640/1564564Kjs/103220
 Sexy Hot,http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
 Sexy Hot,https://hyf000.eu.org/iptv/142
-Sexy Hot,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6282/index.m3u8
 Sexy Hot,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6282/index.m3u8
+Sexy Hot,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6282/index.m3u8
 Shalun TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12126/index.m3u8
 SINematica,https://hyf000.eu.org/iptv/115
-SINematica,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6255/index.m3u8
 SINematica,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6255/index.m3u8
+SINematica,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6255/index.m3u8
 SL EROTIC HD,https://hyf000.eu.org/iptv/221
 SL EROTIC HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12160/index.m3u8
 SL HOT 1 HD,https://hyf000.eu.org/iptv/222
@@ -1024,26 +1026,26 @@ SL HOT 9 HD,https://hyf000.eu.org/iptv/230
 SL HOT 9 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12169/index.m3u8
 Super one HD,https://hyf000.eu.org/iptv/158
 Super one HD,https://hyf000.eu.org/iptv/185
-Super one HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6298/index.m3u8
-Super one HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12121/index.m3u8
 Super one HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12121/index.m3u8
 Super one HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6298/index.m3u8
+Super one HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6298/index.m3u8
+Super one HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12121/index.m3u8
 SuperOne HD,https://hyf000.eu.org/iptv/158
 SuperOne HD,https://hyf000.eu.org/iptv/185
-SuperOne HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6298/index.m3u8
-SuperOne HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12121/index.m3u8
 SuperOne HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12121/index.m3u8
 SuperOne HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6298/index.m3u8
+SuperOne HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6298/index.m3u8
+SuperOne HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12121/index.m3u8
 TEEN TV,https://hyf000.eu.org/iptv/239
 TEEN TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12178/index.m3u8
 Tiny4K,https://hyf000.eu.org/iptv/118
-Tiny4K,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6258/index.m3u8
 Tiny4K,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6258/index.m3u8
+Tiny4K,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6258/index.m3u8
 TRANS PREMIUM,https://hyf000.eu.org/iptv/250
 TRANS PREMIUM,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12193/index.m3u8
 True Amateurs,https://hyf000.eu.org/iptv/120
-True Amateurs,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6260/index.m3u8
 True Amateurs,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6260/index.m3u8
+True Amateurs,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6260/index.m3u8
 TURK AMATOTLER,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12159/index.m3u8
 TURKCE ALTAZILI YENI,https://hyf000.eu.org/iptv/216
 TURKCE ALTAZILI YENI,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12154/index.m3u8
@@ -1056,76 +1058,79 @@ TURKCE ALTAZILI YENI 3,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGF
 TURKCE ALTAZILI YENI 4,https://hyf000.eu.org/iptv/220
 TURKCE ALTAZILI YENI 4,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12158/index.m3u8
 Tushy HD,https://hyf000.eu.org/iptv/121
+Tushy HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6261/index.m3u8
 Tushy HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6261/index.m3u8
 Tushy HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12188/index.m3u8
 Tushy HD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6261/index.m3u8
-Tushy HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6261/index.m3u8
 TushyRAW,https://hyf000.eu.org/iptv/122
+TushyRAW,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6262/index.m3u8
 TushyRAW,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6262/index.m3u8
 TushyRAW,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6262/index.m3u8
-TushyRAW,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6262/index.m3u8
 VERAPORN ANAL,https://hyf000.eu.org/iptv/205
 VERAPORN ANAL,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12143/index.m3u8
 VERAPORN GROUP SEX 2,https://hyf000.eu.org/iptv/204
-VERAPORN GROUP SEX 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12142/index.m3u8
 VERAPORN GROUP SEX 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12142/index.m3u8
+VERAPORN GROUP SEX 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12142/index.m3u8
 VERAPORN GROUP SEX,https://hyf000.eu.org/iptv/203
-VERAPORN GROUP SEX,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12141/index.m3u8
 VERAPORN GROUP SEX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12141/index.m3u8
+VERAPORN GROUP SEX,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12141/index.m3u8
 VERAPORN TEENS 2,https://hyf000.eu.org/iptv/202
 VERAPORN TEENS 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12140/index.m3u8
 VERAPORN TEENS,https://hyf000.eu.org/iptv/201
 VERAPORN TEENS,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12139/index.m3u8
 Visit-X TV,https://hyf000.eu.org/iptv/123
-Visit-X TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6263/index.m3u8
 Visit-X TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6263/index.m3u8
+Visit-X TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6263/index.m3u8
 We Live Together,https://hyf000.eu.org/iptv/126
-We Live Together,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6266/index.m3u8
 We Live Together,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6266/index.m3u8
+We Live Together,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6266/index.m3u8
 White Boxxx,https://hyf000.eu.org/iptv/127
+White Boxxx,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6267/index.m3u8
 White Boxxx,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6267/index.m3u8
 White Boxxx,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6267/index.m3u8
-White Boxxx,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6267/index.m3u8
 Wicked,https://hyf000.eu.org/iptv/128
+Wicked,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6268/index.m3u8
 Wicked,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6268/index.m3u8
 Wicked,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12133/index.m3u8
 Wicked,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6268/index.m3u8
-Wicked,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6268/index.m3u8
 X Plus Milf HD,https://hyf000.eu.org/iptv/192
 X Plus Milf HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12130/index.m3u8
 X1 TV,https://hyf000.eu.org/iptv/186
 X1 TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12122/index.m3u8
 XXL,https://hyf000.eu.org/iptv/24
-XXL,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5009/index.m3u8
 XXL,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5009/index.m3u8
+XXL,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/5009/index.m3u8
 XXX Love's Berry HD,https://hyf000.eu.org/iptv/254
-XXX Love's Berry HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/14140/index.m3u8
 XXX Love's Berry HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14140/index.m3u8
+XXX Love's Berry HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/14140/index.m3u8
 XY Max HD,https://hyf000.eu.org/iptv/146
-XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6286/index.m3u8
-XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6286/index.m3u8
 XY Max HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6286/index.m3u8
+XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6286/index.m3u8
+XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6286/index.m3u8
+XY Max HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6286/index.m3u8
 XY Mix HD,https://hyf000.eu.org/iptv/147
-XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6287/index.m3u8
-XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6287/index.m3u8
 XY Mix HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6287/index.m3u8
+XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6287/index.m3u8
+XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6287/index.m3u8
+XY Mix HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6287/index.m3u8
 XY Plus HD,https://hyf000.eu.org/iptv/148
-XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6288/index.m3u8
-XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6288/index.m3u8
 XY Plus HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6288/index.m3u8
+XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6288/index.m3u8
+XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6288/index.m3u8
+XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6288/index.m3u8
 YOSSO TV SEXY,https://hyf000.eu.org/iptv/255
+YOSSO TV SEXY,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14176/index.m3u8
 YOSSO TV SEXY,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/14176/index.m3u8
 YOSSO TV SEXY,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/14176/index.m3u8
-YOSSO TV SEXY,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/14176/index.m3u8
 Ню Арт HD orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9071/index.m3u8
 Нюарт TV,https://hyf000.eu.org/iptv/14
-Нюарт TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2057/index.m3u8
 Нюарт TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/2057/index.m3u8
+Нюарт TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2057/index.m3u8
 ОХ-АХ HD,https://hyf000.eu.org/iptv/165
 ОХ-АХ HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/11068/index.m3u8
 Русская ночь orig,https://hyf000.eu.org/iptv/50
-Русская ночь orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9344/index.m3u8
 Русская ночь orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9344/index.m3u8
+Русская ночь orig,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/9344/index.m3u8
 
 ☘️泰语频道,#genre#
 PORNBOX TRANS: TRANS EROTICA,http://xxip9.top:8080/atothf15@hotmail.com/PhzSUS2qbZ/159952
@@ -2401,112 +2406,112 @@ X4 | Elle Lee,http://tvmate.icu:8080/7ES2xf/934197/215793
 
 ☘️葡萄牙语频道,#genre#
 21 Sextury,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12205/index.m3u8
+21 Sextury,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6164/index.m3u8
 21 Sextury,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6164/index.m3u8
 21 Sextury,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12205/index.m3u8
-21 Sextury,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6164/index.m3u8
-Adult Time,https://hyf000.eu.org/iptv/32
 Adult Time,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6166/index.m3u8
-Adult Time,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6166/index.m3u8
+Adult Time,https://hyf000.eu.org/iptv/32
 Adult Time,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6166/index.m3u8
+Adult Time,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6166/index.m3u8
 AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
+Alba 1,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12105/index.m3u8
 Alba 1,https://hyf000.eu.org/iptv/169
 Alba 1,https://hyf000.eu.org/iptv/170
-Alba 1,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12105/index.m3u8
-Alba 1,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12105/index.m3u8
 Alba 1,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12105/index.m3u8
 Alba 1,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12106/index.m3u8
+Alba 1,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12105/index.m3u8
+Alba 1 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12105/index.m3u8
 Alba 1 HD,https://hyf000.eu.org/iptv/169
 Alba 1 HD,https://hyf000.eu.org/iptv/170
-Alba 1 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12105/index.m3u8
-Alba 1 HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12105/index.m3u8
 Alba 1 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12105/index.m3u8
 Alba 1 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12106/index.m3u8
+Alba 1 HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12105/index.m3u8
+Alba 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2,https://hyf000.eu.org/iptv/171
 Alba 2,https://hyf000.eu.org/iptv/172
-Alba 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12107/index.m3u8
 Alba 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12108/index.m3u8
+Alba 2 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2 HD,https://hyf000.eu.org/iptv/171
 Alba 2 HD,https://hyf000.eu.org/iptv/172
-Alba 2 HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12107/index.m3u8
 Alba 2 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12107/index.m3u8
 Alba 2 HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12108/index.m3u8
-Alba 3,https://hyf000.eu.org/iptv/173
 Alba 3,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12109/index.m3u8
+Alba 3,https://hyf000.eu.org/iptv/173
 Alba 3,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12109/index.m3u8
-Alba 4,https://hyf000.eu.org/iptv/174
 Alba 4,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12110/index.m3u8
+Alba 4,https://hyf000.eu.org/iptv/174
 Alba 4,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12110/index.m3u8
-Alba 5,https://hyf000.eu.org/iptv/175
 Alba 5,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12111/index.m3u8
+Alba 5,https://hyf000.eu.org/iptv/175
 Alba 5,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12111/index.m3u8
 Anal,http://live.mycamtv.com/anal.m3u8
 Anal,http://live.redtraffic.net/anal.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Anal Mom,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12189/index.m3u8
 Anal Mom,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12189/index.m3u8
-Anal Red TV,https://hyf000.eu.org/iptv/33
 Anal Red TV,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6167/index.m3u8
+Anal Red TV,https://hyf000.eu.org/iptv/33
 Anal Red TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6167/index.m3u8
 Anal4K,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12190/index.m3u8
 Anal4K,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12190/index.m3u8
-Analized,https://hyf000.eu.org/iptv/34
 Analized,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6168/index.m3u8
-Analized,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
+Analized,https://hyf000.eu.org/iptv/34
 Analized,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6168/index.m3u8
-Analized HD,https://hyf000.eu.org/iptv/34
+Analized,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
 Analized HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6168/index.m3u8
-Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
+Analized HD,https://hyf000.eu.org/iptv/34
 Analized HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6168/index.m3u8
-AST TV,https://hyf000.eu.org/iptv/35
+Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6168/index.m3u8
 AST TV,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6169/index.m3u8
-AST TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6169/index.m3u8
+AST TV,https://hyf000.eu.org/iptv/35
 AST TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6169/index.m3u8
-AST TV 2,https://hyf000.eu.org/iptv/36
+AST TV,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6169/index.m3u8
 AST TV 2,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6170/index.m3u8
-AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6170/index.m3u8
+AST TV 2,https://hyf000.eu.org/iptv/36
 AST TV 2,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6170/index.m3u8
+AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6170/index.m3u8
 Babes,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6171/index.m3u8
 Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 Babes TV HD,http://7inter2.cc:8080/15648640/1564564Kjs/64810
-Babes TV HD,https://hyf000.eu.org/iptv/38
 Babes TV HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6172/index.m3u8
+Babes TV HD,https://hyf000.eu.org/iptv/38
+Babes TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/2161/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6172/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
-Babes TV HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
 BAG U,https://hyf000.eu.org/iptv/231
 BAG U,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12170/index.m3u8
-Balkan Erotic,https://hyf000.eu.org/iptv/130
 Balkan Erotic,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6270/index.m3u8
+Balkan Erotic,https://hyf000.eu.org/iptv/130
+Balkan Erotic,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6270/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6270/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6270/index.m3u8
-Balkan Erotic,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6270/index.m3u8
-Bang Bros HD,https://hyf000.eu.org/iptv/39
 Bang Bros HD,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6173/index.m3u8
-Bang Bros HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6173/index.m3u8
+Bang Bros HD,https://hyf000.eu.org/iptv/39
 Bang Bros HD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6173/index.m3u8
+Bang Bros HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6173/index.m3u8
 Bang U,http://7inter2.cc:8080/15648640/1564564Kjs/64811
 Bang U,https://hyf000.eu.org/iptv/178
-Bang U,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12114/index.m3u8
 Bang U,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12114/index.m3u8
-Bang!,https://hyf000.eu.org/iptv/40
+Bang U,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12114/index.m3u8
 Bang!,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6174/index.m3u8
-Bang!,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6174/index.m3u8
+Bang!,https://hyf000.eu.org/iptv/40
 Bang!,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6174/index.m3u8
-Bangerz,https://hyf000.eu.org/iptv/131
+Bang!,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6174/index.m3u8
 Bangerz,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/6271/index.m3u8
+Bangerz,https://hyf000.eu.org/iptv/131
 Bangerz,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6271/index.m3u8
-BANGBROS UHD 4K,https://hyf000.eu.org/iptv/241
 BANGBROS UHD 4K,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12181/index.m3u8
+BANGBROS UHD 4K,https://hyf000.eu.org/iptv/241
 BANGBROS UHD 4K,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12181/index.m3u8
-Barely legal,https://hyf000.eu.org/iptv/29
 Barely legal,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/871/index.m3u8
-Barely legal,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/871/index.m3u8
+Barely legal,https://hyf000.eu.org/iptv/29
 Barely legal,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/871/index.m3u8
+Barely legal,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/871/index.m3u8
 BBC Pie,http://evzmum03.russtv.net/iptv/ESMHU7B3S7N5NW/12164/index.m3u8
 BBC Pie,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/12164/index.m3u8
-Beate UHSE TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12163/index.m3u8
 Beate UHSE TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12127/index.m3u8
+Beate UHSE TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12163/index.m3u8
