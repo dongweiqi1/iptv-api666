@@ -1,96 +1,92 @@
 🕘️更新时间,#genre#
-2026-02-21 14:57:33,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-02-22 02:51:17,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 ☘️央视频道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8
-CCTV-1,http://iptv.4666888.xyz/iptv2A.php?id=7
 CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2,http://27.41.245.32:801/hls/2/index.m3u8
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
-CCTV-2,http://iptv.4666888.xyz/iptv2A.php?id=8
 CCTV-2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-2,http://tvlist.top/jd/index.php?id=cctv2&qt=183.224.122.114:8014
+CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV-3
-CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-3,http://iptv.4666888.xyz/iptv2A.php?id=9
 CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV-3,http://tvlist.top/jd/index.php?id=cctv3&qt=183.224.122.114:8014
+CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
-CCTV-4,http://iptv.4666888.xyz/iptv2A.php?id=10
 CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV-4,http://tvlist.top/jd/index.php?id=cctv4&qt=183.224.122.114:8014
+CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5
-CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://27.41.245.32:801/hls/5/index.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
 CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV-5,http://tvlist.top/jd/index.php?id=cctv5&qt=183.224.122.114:8014
+CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5plus
-CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-5+,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-5+,http://tvlist.top/jd/index.php?id=cctv5p&qt=183.224.122.114:8014
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
-CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV-16,http://tvlist.top/jd/index.php?id=cctv16&qt=183.224.122.114:8014
-CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6,http://112.46.105.20:8009/hls/6/index.m3u8
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV-7
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV-7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
 CCTV-7,http://27.41.245.32:801/hls/7/index.m3u8
+CCTV-7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://112.46.105.20:8009/hls/504/index.m3u8
 CCTV-7,http://tvlist.top/jd/index.php?id=cctv7&qt=183.224.122.114:8014
+CCTV-7,http://112.46.105.20:8009/hls/504/index.m3u8
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV-8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-CCTV-8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
 CCTV-8,http://27.41.245.32:801/hls/8/index.m3u8
+CCTV-8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
 CCTV-8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV-8,http://tvlist.top/jd/index.php?id=cctv8&qt=118.212.78.251:8014
+CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV-9
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-CCTV-9,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
 CCTV-9,http://27.41.245.32:801/hls/9/index.m3u8
+CCTV-9,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8
 CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV-9,http://tvlist.top/jd/index.php?id=cctv9&qt=183.224.122.114:8014
+CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8
 CCTV-10,http://tvlist.top/jd/index.php?id=cctv10&qt=183.224.122.114:8014
+CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV-12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 CCTV-12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8
+CCTV-12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 CCTV-12,http://tvlist.top/jd/index.php?id=cctv12&qt=183.224.122.114:8014
+CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -133,12 +129,12 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 浙江卫视,http://tvlist.top/jd/index.php?id=zjws&qt=183.224.122.114:8014
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 湖南卫视,https://iptv.catvod.com/catvod.php?id=hunws
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
-湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
 湖南卫视,http://27.41.245.32:801/hls/27/index.m3u8
+湖南卫视,http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 湖南卫视,http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,https://iptv.catvod.com/catvod.php?id=bjws
@@ -298,16 +294,12 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 ☘️北京频道,#genre#
 
 ☘️香港频道,#genre#
-翡翠台1080p,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台1080p,http://74.91.26.218:82/live/jade.m3u8
-明珠台1080p,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVBJ1 1080p,http://iptv.4666888.xyz/iptv2A.php?id=26
+翡翠台1080p,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB plus 1080p,http://74.91.26.218:82/live/j2.m3u8
 TVB千禧经典540p,http://74.91.26.218:82/live/tvbjd.m3u8
 HOY76 1080p,http://hls.168.us.kg/u/76/master.m3u8
-HOY77 1080p,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY77 1080p,http://hls.168.us.kg/u/77/master.m3u8
-HOY78 1080p,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY78 1080p,http://hls.168.us.kg/u/78/master.m3u8
 Global Fashion Channel (1080p),https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
@@ -320,10 +312,10 @@ CARAC5（早7）,https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest
 Playboy TV Latin America (1080p),http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 PlayBoyHD,http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132488
 PlayBoyHD,http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+PlayBoyHD,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
 PlayBoyHD,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/527/index.m3u8
 PlayBoyHD,https://hyf000.eu.org/iptv/16
 PlayBoyHD,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/527/index.m3u8
-PlayBoyHD,http://sinalprivado.info:80/632035/GqGcFV4ntu/40000
 Playboy Plus,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6242/index.m3u8
 Playboy Plus,https://hyf000.eu.org/iptv/102
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6242/index.m3u8
@@ -360,8 +352,6 @@ CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8
 台视新闻HD 1080p,http://74.91.26.218:82/live/ttvnews.m3u8
 台视财经HD 1080P,http://74.91.26.218:82/live/ttvcj.m3u8
 民視新聞台1080p,http://74.91.26.218:82/live/ftvnews.m3u8
-非凡新聞HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=44
-TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 华视HD 1080p,http://74.91.26.218:82/live/cts.m3u8
 中視HD 1080p,http://74.91.26.218:82/live/ctv.m3u8
 中視HD 1080p,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
@@ -370,12 +360,9 @@ TVBS新聞台HD 1080p,http://iptv.4666888.xyz/iptv2A.php?id=43
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
 美亚电影台HD,http://74.91.26.218:82/live/mydy.m3u8
 美亚电影台HD,https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影台HD,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影台(国),http://74.91.26.218:82/live/mydy.m3u8
 美亚电影台(国),https://smt.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
-美亚电影台(国),http://iptv.4666888.xyz/iptv2A.php?id=30
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-东森电影HD,http://iptv.4666888.xyz/iptv2A.php?id=48
 
 ☘️国际频道,#genre#
 CNN,https://jmp2.uk/stvp-ATBD800001VA
@@ -946,6 +933,7 @@ ox-ax HD,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6239/index
 ox-ax HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/11068/index.m3u8
 Passion XXX orig,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/9067/index.m3u8
 Passion XXX orig,https://hyf000.eu.org/iptv/161
+PASSION XXX,http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198254
 PASSION XXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12120/index.m3u8
 PASSION XXX,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/878/index.m3u8
 PASSION XXX,https://hyf000.eu.org/iptv/25
@@ -986,11 +974,11 @@ SexArt,http://a0bn5xro.rostelekom.xyz/iptv/ESMHU7B3S7N5NW/6253/index.m3u8
 sext 6 senso,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6254/index.m3u8
 sext 6 senso,https://hyf000.eu.org/iptv/114
 sext 6 senso,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6254/index.m3u8
+Sexy Hot,http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
 Sexy Hot,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6282/index.m3u8
 Sexy Hot,https://hyf000.eu.org/iptv/142
 Sexy Hot,http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/6282/index.m3u8
 Sexy Hot,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6282/index.m3u8
-Sexy Hot,http://sinalprivado.info:80/632035/GqGcFV4ntu/40003
 Shalun TV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/12126/index.m3u8
 SINematica,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6255/index.m3u8
 SINematica,https://hyf000.eu.org/iptv/115
