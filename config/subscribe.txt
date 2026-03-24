@@ -17,3 +17,4 @@ https://raw.githubusercontent.com/spammnmail/iptv2/refs/heads/main/x.m3u
 https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/0108.m3u
 https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/adult.m3u
 https://raw.githubusercontent.com/atsushi444/iptv/refs/heads/main/nonload.m3u
+https://raw.githubusercontent.com/Cnmajun/IpTV/171dba781c48dd5f6fb2d2d9972ad1814248fb7d/fashionTV.m3u
