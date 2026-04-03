@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-03 15:24:46,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+2026-04-04 03:02:27,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 
 ☘️央视频道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -169,6 +169,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 海南卫视,https://iptv.catvod.com/catvod.php?id=hinws
+海南卫视,http://vapi.91kds.cc/live1/hitv.m3u8?id=lyws&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 河北卫视,https://iptv.catvod.com/catvod.php?id=hbws
 河北卫视,http://114.241.107.197:85/tsfile/live/44/1044_1.m3u8?key=txiptv
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -353,6 +354,7 @@ Al Jazeera,https://jmp2.uk/stvp-FR23000013B
 Al Jazeera,https://jmp2.uk/stvp-GB2300005ML
 Al Jazeera,https://jmp2.uk/stvp-IT23000034W
 LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
+ESPN,http://41.205.93.154/ESPN/index.m3u8
 BBC Series,https://jmp2.uk/stvp-AT2100004P1
 BBC Series,https://jmp2.uk/stvp-CH2100003MU
 BBC Series,https://jmp2.uk/stvp-DE21000031Z
@@ -496,12 +498,10 @@ Dorcel Club,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6197/index.m3u8
 Dorcel XXX,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12131/index.m3u8
 Private,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6245/index.m3u8
 Private,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6245/index.m3u8
-Private TV,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546
 Private TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/243/index.m3u8
 Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/244/index.m3u8
 Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/244/index.m3u8
 Blue Hustler,http://91.218.50.136:8080/Rose35torres/iB7101/2588
-Blue Hustler,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164502
 Blue Hustler,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1064/index.m3u8
 Playboy,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12135/index.m3u8
 Playboy,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12135/index.m3u8
@@ -523,38 +523,6 @@ Penthouse Passion,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5010/index.
 Penthouse Passion,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5010/index.m3u8
 Penthouse Reality TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5012/index.m3u8
 Penthouse Reality TV,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5013/index.m3u8
-Adultos Premium - 21 Naturals,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172814
-Adultos Premium - 21 Naturals,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172814
-Adultos Premium - AV Taxi,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172815
-Adultos Premium - AV Taxi,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172815
-Adultos Premium - Babes,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172818
-Adultos Premium - Babes,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172818
-Adultos Premium - BangBros,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172819
-Adultos Premium - BangBros,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172819
-Adultos Premium - Blacked,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172820
-Adultos Premium - Blacked,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172820
-Adultos Premium - Dorcel Club,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172830
-Adultos Premium - Dorcel Club,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172830
-Adultos Premium - Evil Angel,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172824
-Adultos Premium - Evil Angel,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172824
-Adultos Premium - Fake Hub,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172836
-Adultos Premium - Fake Hub,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172836
-Adultos Premium - Fake Taxi,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173019
-Adultos Premium - Fake Taxi,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173019
-Adultos Premium - Family Strokes,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172823
-Adultos Premium - Family Strokes,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172823
-Adultos Premium - Inka Sex,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172835
-Adultos Premium - Inka Sex,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172835
-Adultos Premium - Mofos,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172834
-Adultos Premium - Mofos,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172834
-Adultos Premium - Private,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172832
-Adultos Premium - Private,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172832
-Adultos Premium - Public Agent,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172833
-Adultos Premium - Public Agent,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172833
-Adultos Premium - Sexmex,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172821
-Adultos Premium - Sexmex,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172821
-Adultos Premium - Team Skeet,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172822
-Adultos Premium - Team Skeet,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172822
 Adult Time,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6166/index.m3u8
 Adult Time,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6166/index.m3u8
 Naughty America,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6237/index.m3u8
@@ -704,7 +672,6 @@ Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5015/index.m3u8
 Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5015/index.m3u8
 Eroxxx HD,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-Extasy TV,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164513
 Extasy HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
 Extasy HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11051/index.m3u8
 Extasy HD,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
@@ -2549,13 +2516,11 @@ Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6168/index.m3u8
 Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6168/index.m3u8
 AST TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
-Athena Faris,http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175357
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6172/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6172/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6171/index.m3u8
 Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-Babes TV HD,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164496
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2161/index.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6172/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6270/index.m3u8

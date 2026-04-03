@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-03 15:24:46
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-04 03:02:27
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
@@ -331,6 +331,8 @@ http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://iptv.catvod.com/catvod.php?id=hinws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://vapi.91kds.cc/live1/hitv.m3u8?id=lyws&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://iptv.catvod.com/catvod.php?id=hbws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
@@ -683,6 +685,8 @@ https://jmp2.uk/stvp-GB2300005ML
 https://jmp2.uk/stvp-IT23000034W
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/LiveNOW from FOX.png" group-title="☘️国际频道",LiveNOW from FOX
 https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ESPN.png" group-title="☘️国际频道",ESPN
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-AT2100004P1
 #EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
@@ -966,8 +970,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6245/index.m3u8
 #EXTINF:-1 tvg-name="Private" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private.png" group-title="☘️俄语频道",Private
 http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6245/index.m3u8
 #EXTINF:-1 tvg-name="Private TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private TV.png" group-title="☘️俄语频道",Private TV
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546
-#EXTINF:-1 tvg-name="Private TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private TV.png" group-title="☘️俄语频道",Private TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/243/index.m3u8
 #EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hustler HD.png" group-title="☘️俄语频道",Hustler HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/244/index.m3u8
@@ -975,8 +977,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/244/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/244/index.m3u8
 #EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️俄语频道",Blue Hustler
 http://91.218.50.136:8080/Rose35torres/iB7101/2588
-#EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️俄语频道",Blue Hustler
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164502
 #EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️俄语频道",Blue Hustler
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1064/index.m3u8
 #EXTINF:-1 tvg-name="Playboy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy.png" group-title="☘️俄语频道",Playboy
@@ -1019,70 +1019,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/5010/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5012/index.m3u8
 #EXTINF:-1 tvg-name="Penthouse Reality TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Reality TV.png" group-title="☘️俄语频道",Penthouse Reality TV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5013/index.m3u8
-#EXTINF:-1 tvg-name="Adultos Premium - 21 Naturals" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - 21 Naturals.png" group-title="☘️俄语频道",Adultos Premium - 21 Naturals
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172814
-#EXTINF:-1 tvg-name="Adultos Premium - 21 Naturals" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - 21 Naturals.png" group-title="☘️俄语频道",Adultos Premium - 21 Naturals
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172814
-#EXTINF:-1 tvg-name="Adultos Premium - AV Taxi" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - AV Taxi.png" group-title="☘️俄语频道",Adultos Premium - AV Taxi
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172815
-#EXTINF:-1 tvg-name="Adultos Premium - AV Taxi" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - AV Taxi.png" group-title="☘️俄语频道",Adultos Premium - AV Taxi
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172815
-#EXTINF:-1 tvg-name="Adultos Premium - Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Babes.png" group-title="☘️俄语频道",Adultos Premium - Babes
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172818
-#EXTINF:-1 tvg-name="Adultos Premium - Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Babes.png" group-title="☘️俄语频道",Adultos Premium - Babes
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172818
-#EXTINF:-1 tvg-name="Adultos Premium - BangBros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - BangBros.png" group-title="☘️俄语频道",Adultos Premium - BangBros
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172819
-#EXTINF:-1 tvg-name="Adultos Premium - BangBros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - BangBros.png" group-title="☘️俄语频道",Adultos Premium - BangBros
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172819
-#EXTINF:-1 tvg-name="Adultos Premium - Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Blacked.png" group-title="☘️俄语频道",Adultos Premium - Blacked
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172820
-#EXTINF:-1 tvg-name="Adultos Premium - Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Blacked.png" group-title="☘️俄语频道",Adultos Premium - Blacked
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172820
-#EXTINF:-1 tvg-name="Adultos Premium - Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Dorcel Club.png" group-title="☘️俄语频道",Adultos Premium - Dorcel Club
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172830
-#EXTINF:-1 tvg-name="Adultos Premium - Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Dorcel Club.png" group-title="☘️俄语频道",Adultos Premium - Dorcel Club
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172830
-#EXTINF:-1 tvg-name="Adultos Premium - Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Evil Angel.png" group-title="☘️俄语频道",Adultos Premium - Evil Angel
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172824
-#EXTINF:-1 tvg-name="Adultos Premium - Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Evil Angel.png" group-title="☘️俄语频道",Adultos Premium - Evil Angel
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172824
-#EXTINF:-1 tvg-name="Adultos Premium - Fake Hub" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Fake Hub.png" group-title="☘️俄语频道",Adultos Premium - Fake Hub
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172836
-#EXTINF:-1 tvg-name="Adultos Premium - Fake Hub" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Fake Hub.png" group-title="☘️俄语频道",Adultos Premium - Fake Hub
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172836
-#EXTINF:-1 tvg-name="Adultos Premium - Fake Taxi" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Fake Taxi.png" group-title="☘️俄语频道",Adultos Premium - Fake Taxi
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173019
-#EXTINF:-1 tvg-name="Adultos Premium - Fake Taxi" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Fake Taxi.png" group-title="☘️俄语频道",Adultos Premium - Fake Taxi
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/173019
-#EXTINF:-1 tvg-name="Adultos Premium - Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Family Strokes.png" group-title="☘️俄语频道",Adultos Premium - Family Strokes
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172823
-#EXTINF:-1 tvg-name="Adultos Premium - Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Family Strokes.png" group-title="☘️俄语频道",Adultos Premium - Family Strokes
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172823
-#EXTINF:-1 tvg-name="Adultos Premium - Inka Sex" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Inka Sex.png" group-title="☘️俄语频道",Adultos Premium - Inka Sex
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172835
-#EXTINF:-1 tvg-name="Adultos Premium - Inka Sex" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Inka Sex.png" group-title="☘️俄语频道",Adultos Premium - Inka Sex
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172835
-#EXTINF:-1 tvg-name="Adultos Premium - Mofos" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Mofos.png" group-title="☘️俄语频道",Adultos Premium - Mofos
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172834
-#EXTINF:-1 tvg-name="Adultos Premium - Mofos" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Mofos.png" group-title="☘️俄语频道",Adultos Premium - Mofos
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172834
-#EXTINF:-1 tvg-name="Adultos Premium - Private" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Private.png" group-title="☘️俄语频道",Adultos Premium - Private
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172832
-#EXTINF:-1 tvg-name="Adultos Premium - Private" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Private.png" group-title="☘️俄语频道",Adultos Premium - Private
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172832
-#EXTINF:-1 tvg-name="Adultos Premium - Public Agent" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Public Agent.png" group-title="☘️俄语频道",Adultos Premium - Public Agent
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172833
-#EXTINF:-1 tvg-name="Adultos Premium - Public Agent" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Public Agent.png" group-title="☘️俄语频道",Adultos Premium - Public Agent
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172833
-#EXTINF:-1 tvg-name="Adultos Premium - Sexmex" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Sexmex.png" group-title="☘️俄语频道",Adultos Premium - Sexmex
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172821
-#EXTINF:-1 tvg-name="Adultos Premium - Sexmex" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Sexmex.png" group-title="☘️俄语频道",Adultos Premium - Sexmex
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172821
-#EXTINF:-1 tvg-name="Adultos Premium - Team Skeet" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Team Skeet.png" group-title="☘️俄语频道",Adultos Premium - Team Skeet
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172822
-#EXTINF:-1 tvg-name="Adultos Premium - Team Skeet" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Team Skeet.png" group-title="☘️俄语频道",Adultos Premium - Team Skeet
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/172822
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️俄语频道",Adult Time
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6166/index.m3u8
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️俄语频道",Adult Time
@@ -1381,8 +1317,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5015/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5015/index.m3u8
 #EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️俄语频道",Eroxxx HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Extasy TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy TV.png" group-title="☘️俄语频道",Extasy TV
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164513
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️俄语频道",Extasy HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️俄语频道",Extasy HD
@@ -5063,8 +4997,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6168/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 #EXTINF:-1 tvg-name="AST TV 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV 2.png" group-title="☘️葡萄牙语频道",AST TV 2
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
-#EXTINF:-1 tvg-name="Athena Faris" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Athena Faris.png" group-title="☘️葡萄牙语频道",Athena Faris
-http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/175357
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6171/index.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
@@ -5075,8 +5007,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6172/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6171/index.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
-http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164496
 #EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2161/index.m3u8
 #EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
