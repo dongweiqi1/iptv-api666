@@ -1,14 +1,12 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-04 03:13:41
-http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-05-04 16:42:33
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
+http://39.152.103.17:8089/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://112.46.105.20:8009/hls/501/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
@@ -16,155 +14,129 @@ http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
-http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0002_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV2.png" group-title="☘️央视频道",CCTV-2
 http://112.46.105.20:8009/hls/502/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV-3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://112.46.105.20:8009/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
+http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://112.46.105.20:8009/hls/4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 https://iptv.catvod.com/live.php?id=CCTV-5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://74.91.26.218:82/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://112.46.105.20:8009/hls/503/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 https://iptv.catvod.com/live.php?id=CCTV-5plus
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 https://iptv.catvod.com/live.php?id=CCTV-16
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
+http://223.72.123.30:9901/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://112.46.105.20:8009/hls/6/index.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 https://iptv.catvod.com/live.php?id=CCTV-7
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
+http://223.72.123.30:9901/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://112.46.105.20:8009/hls/504/index.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 https://iptv.catvod.com/live.php?id=CCTV-8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
-http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
-http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
+http://223.72.123.30:9901/tsfile/live/0008_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
 http://112.46.105.20:8009/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="☘️央视频道",CCTV-8
+http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 https://iptv.catvod.com/live.php?id=CCTV-9
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://74.91.26.218:82/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
+http://223.72.123.30:9901/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://112.46.105.20:8009/hls/509/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 https://iptv.catvod.com/live.php?id=CCTV-10
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://112.46.105.20:8009/hls/506/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
-http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 https://iptv.catvod.com/live.php?id=CCTV-12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
-http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0012_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
 http://112.46.105.20:8009/hls/507/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 https://iptv.catvod.com/live.php?id=CCTV-13
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
+http://223.72.123.30:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://74.91.26.218:82/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 https://iptv.catvod.com/live.php?id=CCTV-14
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://74.91.26.218:82/live/cctv15hd.m3u8
+http://223.72.123.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://223.72.123.30:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 https://iptv.catvod.com/live.php?id=CCTV-17
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -172,45 +144,37 @@ https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://iptv.catvod.com/catvod.php?id=gdws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+http://222.214.208.34:59901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://223.72.123.30:9901/tsfile/live/0125_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://iptv.catvod.com/catvod.php?id=zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://223.72.123.30:9901/tsfile/live/1028_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 https://iptv.catvod.com/catvod.php?id=hunws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://74.91.26.218:82/live/hnwshd.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
+http://222.214.208.34:59901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://223.72.123.30:9901/tsfile/live/1027_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 https://iptv.catvod.com/catvod.php?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
@@ -218,45 +182,33 @@ https://iptv.catvod.com/catvod.php?id=hubws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://38.75.136.137:98/gslb/dsdqpub/hbwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1040_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://iptv.catvod.com/catvod.php?id=hljws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://38.75.136.137:98/gslb/dsdqpub/hljwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 https://iptv.catvod.com/catvod.php?id=ahws
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1030_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://iptv.catvod.com/catvod.php?id=cqws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
+http://223.72.123.30:9901/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://iptv.catvod.com/catvod.php?id=dfws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1041_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://iptv.catvod.com/catvod.php?id=dnws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
+http://223.72.123.30:9901/tsfile/live/0137_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
@@ -268,15 +220,15 @@ https://iptv.catvod.com/catvod.php?id=gxws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://223.72.123.30:9901/tsfile/live/0113_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="📡卫视频道",广西卫视
 rtmp://live.gxrb.com.cn/hls/a23
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 https://iptv.catvod.com/catvod.php?id=gzws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1038_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://iptv.catvod.com/catvod.php?id=hinws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
@@ -284,15 +236,13 @@ http://vapi.91kds.cc/live1/hitv.m3u8?id=lyws&apiKey=e9ed154875a88c5a5998f6f0d3bb
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://iptv.catvod.com/catvod.php?id=hbws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
+http://223.72.123.30:9901/tsfile/live/0117_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://iptv.catvod.com/catvod.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/1034_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
@@ -300,19 +250,19 @@ https://iptv.catvod.com/catvod.php?id=jlws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0116_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1029_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 https://iptv.catvod.com/catvod.php?id=jxws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://38.75.136.137:98/gslb/dsdqpub/jxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.72.123.30:9901/tsfile/live/0138_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
@@ -320,59 +270,45 @@ https://iptv.catvod.com/catvod.php?id=lnws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1032_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 https://iptv.catvod.com/catvod.php?id=nmws
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 https://iptv.catvod.com/catvod.php?id=nxws
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://iptv.catvod.com/catvod.php?id=qhws
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="📡卫视频道",青海卫视
-http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
 https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
 https://iptv.catvod.com/catvod.php?id=sdws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://iptv.catvod.com/catvod.php?id=sxiws
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://iptv.catvod.com/catvod.php?id=sxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
 https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
 https://iptv.catvod.com/catvod.php?id=scws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://223.72.123.30:9901/tsfile/live/0123_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 https://iptv.catvod.com/catvod.php?id=szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1039_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/三沙卫视.png" group-title="📡卫视频道",三沙卫视
 https://iptv.catvod.com/catvod.php?id=ssws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
@@ -382,9 +318,7 @@ https://iptv.catvod.com/catvod.php?id=tjws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
+http://223.72.123.30:9901/tsfile/live/1031_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 https://iptv.catvod.com/catvod.php?id=xzws
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/新疆卫视.png" group-title="📡卫视频道",新疆卫视
@@ -393,16 +327,18 @@ https://iptv.catvod.com/catvod.php?id=xjws
 https://iptv.catvod.com/catvod.php?id=ynws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://38.75.136.137:98/gslb/dsdqpub/ynwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV新闻" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV新闻.png" group-title="☘️北京频道",BTV新闻
+http://223.72.123.30:9901/tsfile/live/1025_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="BTV北京卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV北京卫视.png" group-title="☘️北京频道",BTV北京卫视
+http://223.72.123.30:9901/tsfile/live/1017_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="BTV文艺" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV文艺.png" group-title="☘️北京频道",BTV文艺
+http://223.72.123.30:9901/tsfile/live/1018_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="BTV科教" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV科教.png" group-title="☘️北京频道",BTV科教
+http://223.72.123.30:9901/tsfile/live/1019_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="BTV影视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV影视.png" group-title="☘️北京频道",BTV影视
+http://223.72.123.30:9901/tsfile/live/1020_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="翡翠台1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台1080p.png" group-title="☘️香港频道",翡翠台1080p
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-name="翡翠台1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台1080p.png" group-title="☘️香港频道",翡翠台1080p
-http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="TVB plus 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB plus 1080p.png" group-title="☘️香港频道",TVB plus 1080p
-http://74.91.26.218:82/live/j2.m3u8
-#EXTINF:-1 tvg-name="TVB千禧经典540p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB千禧经典540p.png" group-title="☘️香港频道",TVB千禧经典540p
-http://74.91.26.218:82/live/tvbjd.m3u8
 #EXTINF:-1 tvg-name="Kaloopy TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Kaloopy TV.png" group-title="☘️香港频道",Kaloopy TV
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/16018/index.m3u
 #EXTINF:-1 tvg-name="CARAC1（早7）" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CARAC1（早7）.png" group-title="☘️香港频道",CARAC1（早7）
@@ -414,21 +350,25 @@ https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-name="PlayBoyHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PlayBoyHD.png" group-title="☘️香港频道",PlayBoyHD
 http://bgdc.live:25461/rodneys3888/3888/204284
 #EXTINF:-1 tvg-name="PlayBoyHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PlayBoyHD.png" group-title="☘️香港频道",PlayBoyHD
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12135/index.m3u8
-#EXTINF:-1 tvg-name="PlayBoyHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PlayBoyHD.png" group-title="☘️香港频道",PlayBoyHD
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/527/index.m3u
+#EXTINF:-1 tvg-name="PlayBoyHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PlayBoyHD.png" group-title="☘️香港频道",PlayBoyHD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12135/index.m3u8
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️香港频道",Playboy Plus
 http://lunar.pm:8080/leslie/snook/131339
+#EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️香港频道",Playboy Plus
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6242/index.m3u
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️香港频道",Playboy Plus
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6242/index.m3u8
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️香港频道",Playboy Plus
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6242/index.m3u8
-#EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️香港频道",Playboy Plus
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6242/index.m3u
-#EXTINF:-1 tvg-name="MetArt FHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MetArt FHD.png" group-title="☘️香港频道",MetArt FHD
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12160/index.m3u8
 #EXTINF:-1 tvg-name="MetArt FHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MetArt FHD.png" group-title="☘️香港频道",MetArt FHD
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12160/index.m3u
+#EXTINF:-1 tvg-name="MetArt FHD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MetArt FHD.png" group-title="☘️香港频道",MetArt FHD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12160/index.m3u8
+#EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6165/index.m3u
+#EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6253/index.m3u
 #EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6165/index.m3u8
 #EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
@@ -437,72 +377,46 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6253/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6165/index.m3u8
 #EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6253/index.m3u8
-#EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6165/index.m3u
-#EXTINF:-1 tvg-name="SexArt" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/SexArt.png" group-title="☘️香港频道",SexArt
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6253/index.m3u
+#EXTINF:-1 tvg-name="XY Max HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max HD.png" group-title="☘️香港频道",XY Max HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6286/index.m3u
 #EXTINF:-1 tvg-name="XY Max HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max HD.png" group-title="☘️香港频道",XY Max HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6286/index.m3u8
 #EXTINF:-1 tvg-name="XY Max HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max HD.png" group-title="☘️香港频道",XY Max HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6286/index.m3u8
-#EXTINF:-1 tvg-name="XY Max HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max HD.png" group-title="☘️香港频道",XY Max HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6286/index.m3u
+#EXTINF:-1 tvg-name="XY Mix HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix HD.png" group-title="☘️香港频道",XY Mix HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6287/index.m3u
 #EXTINF:-1 tvg-name="XY Mix HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix HD.png" group-title="☘️香港频道",XY Mix HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6287/index.m3u8
 #EXTINF:-1 tvg-name="XY Mix HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix HD.png" group-title="☘️香港频道",XY Mix HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6287/index.m3u8
-#EXTINF:-1 tvg-name="XY Mix HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix HD.png" group-title="☘️香港频道",XY Mix HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6287/index.m3u
+#EXTINF:-1 tvg-name="XY Plus HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus HD.png" group-title="☘️香港频道",XY Plus HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6288/index.m3u
 #EXTINF:-1 tvg-name="XY Plus HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus HD.png" group-title="☘️香港频道",XY Plus HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6288/index.m3u8
 #EXTINF:-1 tvg-name="XY Plus HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus HD.png" group-title="☘️香港频道",XY Plus HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6288/index.m3u8
-#EXTINF:-1 tvg-name="XY Plus HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus HD.png" group-title="☘️香港频道",XY Plus HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6288/index.m3u
 #EXTINF:-1 tvg-name="中天新聞720p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞720p.png" group-title="☘️台湾频道",中天新聞720p
 http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="CTS華視新聞资讯1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CTS華視新聞资讯1080p.png" group-title="☘️台湾频道",CTS華視新聞资讯1080p
 http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="CTS華視新聞资讯1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CTS華視新聞资讯1080p.png" group-title="☘️台湾频道",CTS華視新聞资讯1080p
-http://74.91.26.218:82/live/ctsnews.m3u8
 #EXTINF:-1 tvg-name="中視新聞HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視新聞HD 1080p.png" group-title="☘️台湾频道",中視新聞HD 1080p
 http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視新聞HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視新聞HD 1080p.png" group-title="☘️台湾频道",中視新聞HD 1080p
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 tvg-name="台视新闻HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻HD 1080p.png" group-title="☘️台湾频道",台视新闻HD 1080p
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 tvg-name="台视财经HD 1080P" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视财经HD 1080P.png" group-title="☘️台湾频道",台视财经HD 1080P
-http://74.91.26.218:82/live/ttvcj.m3u8
 #EXTINF:-1 tvg-name="東森新聞台HD 720p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森新聞台HD 720p.png" group-title="☘️台湾频道",東森新聞台HD 720p
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
 #EXTINF:-1 tvg-name="東森新聞台HD 720p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森新聞台HD 720p.png" group-title="☘️台湾频道",東森新聞台HD 720p
 http://free.cnlive.club/channel/n88aa83.m3u8?q=111.170.171.148
-#EXTINF:-1 tvg-name="民視新聞台1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視新聞台1080p.png" group-title="☘️台湾频道",民視新聞台1080p
-http://74.91.26.218:82/live/ftvnews.m3u8
 #EXTINF:-1 tvg-name="年代新聞HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/年代新聞HD 1080p.png" group-title="☘️台湾频道",年代新聞HD 1080p
 http://free.cnlive.club/channel/49184630.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="中天娱乐HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐HD 1080p.png" group-title="☘️台湾频道",中天娱乐HD 1080p
 http://free.cnlive.club/channel/41d6f491.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="中天综合HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合HD 1080p.png" group-title="☘️台湾频道",中天综合HD 1080p
 http://free.cnlive.club/channel/41db6ede.m3u8?q=111.170.171.148
-#EXTINF:-1 tvg-name="华视HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视HD 1080p.png" group-title="☘️台湾频道",华视HD 1080p
-http://74.91.26.218:82/live/cts.m3u8
 #EXTINF:-1 tvg-name="中視HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視HD 1080p.png" group-title="☘️台湾频道",中視HD 1080p
 http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="中視HD 1080p" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視HD 1080p.png" group-title="☘️台湾频道",中視HD 1080p
-http://74.91.26.218:82/live/ctv.m3u8
 #EXTINF:-1 tvg-name="台視HD 1080P" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/台視HD 1080P.png" group-title="☘️台湾频道",台視HD 1080P
 http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
-#EXTINF:-1 tvg-name="台視HD 1080P" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/台視HD 1080P.png" group-title="☘️台湾频道",台視HD 1080P
-http://74.91.26.218:82/live/ttv.m3u8
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰电影.png" group-title="☘️台湾频道",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
-#EXTINF:-1 tvg-name="美亚电影台HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台HD.png" group-title="☘️台湾频道",美亚电影台HD
-http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-name="美亚电影台(国)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台(国).png" group-title="☘️台湾频道",美亚电影台(国)
-http://74.91.26.218:82/live/mydy.m3u8
-#EXTINF:-1 tvg-name="华数电影" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数电影.png" group-title="☘️台湾频道",华数电影
-http://hmfs.f3322.net:3388/hls/40/index.m3u8
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
 https://jmp2.uk/stvp-ATBD800001VA
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
@@ -581,6 +495,8 @@ https://jmp2.uk/stvp-GB2300005ML
 https://jmp2.uk/stvp-IT23000034W
 #EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/LiveNOW from FOX.png" group-title="☘️国际频道",LiveNOW from FOX
 https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ESPN.png" group-title="☘️国际频道",ESPN
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
 https://jmp2.uk/stvp-AT2100004P1
 #EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
@@ -610,8 +526,6 @@ https://jmp2.uk/stvp-US700005ID
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBA TV.png" group-title="☘️国际频道",NBA TV
 http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-ATBD1500003ES
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-CH4700001E1
@@ -623,6 +537,8 @@ https://jmp2.uk/stvp-ES3800001V1
 https://jmp2.uk/stvp-GBBD2300003IK
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 https://jmp2.uk/stvp-IT38000070T
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-name="American Idol" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/American Idol.png" group-title="☘️国际频道",American Idol
 https://jmp2.uk/stvp-GBBC2300001X5
 #EXTINF:-1 tvg-name="MTV Teen Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
@@ -744,29 +660,29 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
 #EXTINF:-1 tvg-name="Fake Hostel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Fake Hostel.png" group-title="☘️台湾文艺",Fake Hostel
 http://lunar.pm:8080/leslie/snook/131310
 #EXTINF:-1 tvg-name="Hitzefrei HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hitzefrei HD.png" group-title="☘️台湾文艺",Hitzefrei HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6220/index.m3u
+#EXTINF:-1 tvg-name="Hitzefrei HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hitzefrei HD.png" group-title="☘️台湾文艺",Hitzefrei HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6220/index.m3u8
 #EXTINF:-1 tvg-name="Hitzefrei HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hitzefrei HD.png" group-title="☘️台湾文艺",Hitzefrei HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6220/index.m3u8
-#EXTINF:-1 tvg-name="Hitzefrei HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hitzefrei HD.png" group-title="☘️台湾文艺",Hitzefrei HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6220/index.m3u
+#EXTINF:-1 tvg-name="Русская Ночь" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Русская Ночь.png" group-title="☘️台湾文艺",Русская Ночь
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/147/index.m3u
 #EXTINF:-1 tvg-name="Русская Ночь" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Русская Ночь.png" group-title="☘️台湾文艺",Русская Ночь
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/147/index.m3u8
 #EXTINF:-1 tvg-name="Русская Ночь" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Русская Ночь.png" group-title="☘️台湾文艺",Русская Ночь
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/2057/index.m3u8
-#EXTINF:-1 tvg-name="Русская Ночь" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Русская Ночь.png" group-title="☘️台湾文艺",Русская Ночь
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/147/index.m3u
 #EXTINF:-1 tvg-name="Liberty Эротика" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Liberty Эротика.png" group-title="☘️台湾文艺",Liberty Эротика
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/16069/index.m3u8
+#EXTINF:-1 tvg-name="YOSSO TV SEXY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/YOSSO TV SEXY.png" group-title="☘️台湾文艺",YOSSO TV SEXY
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/14176/index.m3u
 #EXTINF:-1 tvg-name="YOSSO TV SEXY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/YOSSO TV SEXY.png" group-title="☘️台湾文艺",YOSSO TV SEXY
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/14176/index.m3u8
 #EXTINF:-1 tvg-name="YOSSO TV SEXY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/YOSSO TV SEXY.png" group-title="☘️台湾文艺",YOSSO TV SEXY
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/14176/index.m3u8
-#EXTINF:-1 tvg-name="YOSSO TV SEXY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/YOSSO TV SEXY.png" group-title="☘️台湾文艺",YOSSO TV SEXY
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/14176/index.m3u
-#EXTINF:-1 tvg-name="KinoXXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/KinoXXX.png" group-title="☘️台湾文艺",KinoXXX
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11052/index.m3u8
 #EXTINF:-1 tvg-name="KinoXXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/KinoXXX.png" group-title="☘️台湾文艺",KinoXXX
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/11052/index.m3u
+#EXTINF:-1 tvg-name="KinoXXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/KinoXXX.png" group-title="☘️台湾文艺",KinoXXX
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11052/index.m3u8
 #EXTINF:-1 tvg-name="Tviksel Кино 18+ HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tviksel Кино 18+ HD.png" group-title="☘️台湾文艺",Tviksel Кино 18+ HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/18075/index.m3u8
 #EXTINF:-1 tvg-name="Tviksel Кино 18+ HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tviksel Кино 18+ HD.png" group-title="☘️台湾文艺",Tviksel Кино 18+ HD
@@ -776,35 +692,35 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/18076/index.m3u8
 #EXTINF:-1 tvg-name="Tviksel Кино 18+ International" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tviksel Кино 18+ International.png" group-title="☘️台湾文艺",Tviksel Кино 18+ International
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/18076/index.m3u8
 #EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BCU Charm HD.png" group-title="☘️台湾文艺",BCU Charm HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/18053/index.m3u
+#EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BCU Charm HD.png" group-title="☘️台湾文艺",BCU Charm HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/18053/index.m3u8
 #EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BCU Charm HD.png" group-title="☘️台湾文艺",BCU Charm HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/18053/index.m3u8
-#EXTINF:-1 tvg-name="BCU Charm HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BCU Charm HD.png" group-title="☘️台湾文艺",BCU Charm HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/18053/index.m3u
+#EXTINF:-1 tvg-name="XY Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus.png" group-title="☘️台湾文艺",XY Plus
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6288/index.m3u
 #EXTINF:-1 tvg-name="XY Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus.png" group-title="☘️台湾文艺",XY Plus
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6288/index.m3u8
 #EXTINF:-1 tvg-name="XY Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus.png" group-title="☘️台湾文艺",XY Plus
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6288/index.m3u8
-#EXTINF:-1 tvg-name="XY Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Plus.png" group-title="☘️台湾文艺",XY Plus
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6288/index.m3u
+#EXTINF:-1 tvg-name="XY Max" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max.png" group-title="☘️台湾文艺",XY Max
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6286/index.m3u
 #EXTINF:-1 tvg-name="XY Max" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max.png" group-title="☘️台湾文艺",XY Max
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6286/index.m3u8
 #EXTINF:-1 tvg-name="XY Max" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max.png" group-title="☘️台湾文艺",XY Max
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6286/index.m3u8
-#EXTINF:-1 tvg-name="XY Max" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Max.png" group-title="☘️台湾文艺",XY Max
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6286/index.m3u
+#EXTINF:-1 tvg-name="XY Mix" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix.png" group-title="☘️台湾文艺",XY Mix
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6287/index.m3u
 #EXTINF:-1 tvg-name="XY Mix" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix.png" group-title="☘️台湾文艺",XY Mix
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6287/index.m3u8
 #EXTINF:-1 tvg-name="XY Mix" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix.png" group-title="☘️台湾文艺",XY Mix
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6287/index.m3u8
-#EXTINF:-1 tvg-name="XY Mix" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XY Mix.png" group-title="☘️台湾文艺",XY Mix
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6287/index.m3u
 #EXTINF:-1 tvg-name="Playboy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy.png" group-title="☘️欧美MBB",Playboy
 http://bgdc.live:25461/rodneys3888/3888/204284
 #EXTINF:-1 tvg-name="Playboy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy.png" group-title="☘️欧美MBB",Playboy
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12135/index.m3u8
-#EXTINF:-1 tvg-name="Playboy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy.png" group-title="☘️欧美MBB",Playboy
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/527/index.m3u
+#EXTINF:-1 tvg-name="Playboy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy.png" group-title="☘️欧美MBB",Playboy
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12135/index.m3u8
 #EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy TV.png" group-title="☘️欧美MBB",Playboy TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
 #EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy TV.png" group-title="☘️欧美MBB",Playboy TV
@@ -812,57 +728,57 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/527/index.m3u8
 #EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6280/index.m3u8
-#EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6280/index.m3u
+#EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6280/index.m3u8
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
 http://lunar.pm:8080/leslie/snook/131339
+#EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6242/index.m3u
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6242/index.m3u8
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6242/index.m3u8
-#EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6242/index.m3u
 #EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hustler HD.png" group-title="☘️欧美MBB",Hustler HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/244/index.m3u8
 #EXTINF:-1 tvg-name="Hustler HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hustler HD.png" group-title="☘️欧美MBB",Hustler HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/244/index.m3u8
+#EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️欧美MBB",Blue Hustler
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/1064/index.m3u
 #EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️欧美MBB",Blue Hustler
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1064/index.m3u8
 #EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️欧美MBB",Blue Hustler
 http://tv.zapping.life:8080/Cybertlacuilo/9dddd3ba3c3f/164502
 #EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️欧美MBB",Blue Hustler
 http://91.218.50.136:8080/Rose35torres/iB7101/2588
-#EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️欧美MBB",Blue Hustler
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/1064/index.m3u
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
 http://lunar.pm:8080/leslie/snook/131303
+#EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6182/index.m3u
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6182/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6182/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6182/index.m3u
-#EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12113/index.m3u8
-#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12113/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12113/index.m3u
 #EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/910/index.m3u
+#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12113/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12113/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers TV Europe Россия" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe Россия.png" group-title="☘️欧美MBB",Brazzers TV Europe Россия
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/910/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers TV Europe Россия" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe Россия.png" group-title="☘️欧美MBB",Brazzers TV Europe Россия
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/910/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers eXXtra" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers eXXtra.png" group-title="☘️欧美MBB",Brazzers eXXtra
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6181/index.m3u
+#EXTINF:-1 tvg-name="Brazzers eXXtra" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers eXXtra.png" group-title="☘️欧美MBB",Brazzers eXXtra
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6181/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers eXXtra" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers eXXtra.png" group-title="☘️欧美MBB",Brazzers eXXtra
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6181/index.m3u8
-#EXTINF:-1 tvg-name="Brazzers eXXtra" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers eXXtra.png" group-title="☘️欧美MBB",Brazzers eXXtra
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6181/index.m3u
 #EXTINF:-1 tvg-name="XXX BRAZZERS 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX BRAZZERS 1.png" group-title="☘️欧美MBB",XXX BRAZZERS 1
 http://conecdg.me:80/Andrielly.Silva/Br131221/3954314
 #EXTINF:-1 tvg-name="XXX BRAZZERS 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX BRAZZERS 2.png" group-title="☘️欧美MBB",XXX BRAZZERS 2
@@ -876,77 +792,83 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3959204
 #EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
 http://lunar.pm:8080/leslie/snook/131345
 #EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6247/index.m3u
+#EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6247/index.m3u8
 #EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6247/index.m3u8
-#EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6247/index.m3u
 #EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Reality Kings TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings TV.png" group-title="☘️欧美MBB",Reality Kings TV
 http://bgdc.live:25461/rodneys3888/3888/204289
 #EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK Prime.png" group-title="☘️欧美MBB",RK Prime
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6248/index.m3u
+#EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK Prime.png" group-title="☘️欧美MBB",RK Prime
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6248/index.m3u8
 #EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK Prime.png" group-title="☘️欧美MBB",RK Prime
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6248/index.m3u8
-#EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK Prime.png" group-title="☘️欧美MBB",RK Prime
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6248/index.m3u
+#EXTINF:-1 tvg-name="RK TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK TV.png" group-title="☘️欧美MBB",RK TV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6249/index.m3u
 #EXTINF:-1 tvg-name="RK TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK TV.png" group-title="☘️欧美MBB",RK TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6249/index.m3u8
 #EXTINF:-1 tvg-name="RK TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK TV.png" group-title="☘️欧美MBB",RK TV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6249/index.m3u8
-#EXTINF:-1 tvg-name="RK TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK TV.png" group-title="☘️欧美MBB",RK TV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6249/index.m3u
 #EXTINF:-1 tvg-name="XXX REALITY KINGS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX REALITY KINGS.png" group-title="☘️欧美MBB",XXX REALITY KINGS
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935070
 #EXTINF:-1 tvg-name="Private" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private.png" group-title="☘️欧美MBB",Private
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6245/index.m3u8
-#EXTINF:-1 tvg-name="Private" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private.png" group-title="☘️欧美MBB",Private
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6245/index.m3u
+#EXTINF:-1 tvg-name="Private" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private.png" group-title="☘️欧美MBB",Private
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6245/index.m3u8
+#EXTINF:-1 tvg-name="Private TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private TV.png" group-title="☘️欧美MBB",Private TV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/243/index.m3u
 #EXTINF:-1 tvg-name="Private TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private TV.png" group-title="☘️欧美MBB",Private TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/243/index.m3u8
 #EXTINF:-1 tvg-name="Private TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private TV.png" group-title="☘️欧美MBB",Private TV
 http://tv.zapping.life:8080/Cybertlacuilo/9dddd3ba3c3f/164546
-#EXTINF:-1 tvg-name="Private TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Private TV.png" group-title="☘️欧美MBB",Private TV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/243/index.m3u
+#EXTINF:-1 tvg-name="Naughty America" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Naughty America.png" group-title="☘️欧美MBB",Naughty America
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6237/index.m3u
 #EXTINF:-1 tvg-name="Naughty America" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Naughty America.png" group-title="☘️欧美MBB",Naughty America
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6237/index.m3u8
 #EXTINF:-1 tvg-name="Naughty America" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Naughty America.png" group-title="☘️欧美MBB",Naughty America
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6237/index.m3u8
-#EXTINF:-1 tvg-name="Naughty America" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Naughty America.png" group-title="☘️欧美MBB",Naughty America
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6237/index.m3u
+#EXTINF:-1 tvg-name="Digital Playground" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Playground.png" group-title="☘️欧美MBB",Digital Playground
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6196/index.m3u
 #EXTINF:-1 tvg-name="Digital Playground" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Playground.png" group-title="☘️欧美MBB",Digital Playground
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6196/index.m3u8
 #EXTINF:-1 tvg-name="Digital Playground" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Playground.png" group-title="☘️欧美MBB",Digital Playground
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6196/index.m3u8
-#EXTINF:-1 tvg-name="Digital Playground" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Playground.png" group-title="☘️欧美MBB",Digital Playground
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6196/index.m3u
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️欧美MBB",Adult Time
 http://lunar.pm:8080/leslie/snook/131296
+#EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️欧美MBB",Adult Time
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6166/index.m3u
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️欧美MBB",Adult Time
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6166/index.m3u8
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️欧美MBB",Adult Time
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6166/index.m3u8
-#EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️欧美MBB",Adult Time
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6166/index.m3u
+#EXTINF:-1 tvg-name="Wicked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Wicked.png" group-title="☘️欧美MBB",Wicked
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6268/index.m3u
 #EXTINF:-1 tvg-name="Wicked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Wicked.png" group-title="☘️欧美MBB",Wicked
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6268/index.m3u8
 #EXTINF:-1 tvg-name="Wicked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Wicked.png" group-title="☘️欧美MBB",Wicked
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12133/index.m3u8
 #EXTINF:-1 tvg-name="Wicked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Wicked.png" group-title="☘️欧美MBB",Wicked
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6268/index.m3u8
-#EXTINF:-1 tvg-name="Wicked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Wicked.png" group-title="☘️欧美MBB",Wicked
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6268/index.m3u
+#EXTINF:-1 tvg-name="Vivid TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid TV Europe.png" group-title="☘️欧美MBB",Vivid TV Europe
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6264/index.m3u
 #EXTINF:-1 tvg-name="Vivid TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid TV Europe.png" group-title="☘️欧美MBB",Vivid TV Europe
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6264/index.m3u8
 #EXTINF:-1 tvg-name="Vivid TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid TV Europe.png" group-title="☘️欧美MBB",Vivid TV Europe
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6264/index.m3u
+http://xplatinproject.com:8080/Dedicadonet/mBG5Z0Ld9bvAADw2JvCzhaDaogziWN/74378
+#EXTINF:-1 tvg-name="Vivid Red" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red.png" group-title="☘️欧美MBB",Vivid Red
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/2162/index.m3u
 #EXTINF:-1 tvg-name="Vivid Red" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red.png" group-title="☘️欧美MBB",Vivid Red
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2162/index.m3u8
 #EXTINF:-1 tvg-name="Vivid Red" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red.png" group-title="☘️欧美MBB",Vivid Red
 http://91.218.50.136:8080/Rose35torres/iB7101/2590
-#EXTINF:-1 tvg-name="Vivid Red" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vivid Red.png" group-title="☘️欧美MBB",Vivid Red
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/2162/index.m3u
+#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/245/index.m3u
+#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12131/index.m3u
 #EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/245/index.m3u8
 #EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
@@ -955,18 +877,14 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/878/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12131/index.m3u8
 #EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/245/index.m3u8
-#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/245/index.m3u
-#EXTINF:-1 tvg-name="Dorcel TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel TV.png" group-title="☘️欧美MBB",Dorcel TV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12131/index.m3u
 #EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel Club.png" group-title="☘️欧美MBB",Dorcel Club
 http://lunar.pm:8080/leslie/snook/131307
+#EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel Club.png" group-title="☘️欧美MBB",Dorcel Club
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6197/index.m3u
 #EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel Club.png" group-title="☘️欧美MBB",Dorcel Club
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6197/index.m3u8
 #EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel Club.png" group-title="☘️欧美MBB",Dorcel Club
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6197/index.m3u8
-#EXTINF:-1 tvg-name="Dorcel Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel Club.png" group-title="☘️欧美MBB",Dorcel Club
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6197/index.m3u
 #EXTINF:-1 tvg-name="Dorcel XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel XXX.png" group-title="☘️欧美MBB",Dorcel XXX
 http://bgdc.live:25461/rodneys3888/3888/204226
 #EXTINF:-1 tvg-name="Dorcel XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dorcel XXX.png" group-title="☘️欧美MBB",Dorcel XXX
@@ -976,77 +894,77 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3935067
 #EXTINF:-1 tvg-name="XXX DORCEL 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX DORCEL 2.png" group-title="☘️欧美MBB",XXX DORCEL 2
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935068
 #EXTINF:-1 tvg-name="Eromania 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eromania 4K.png" group-title="☘️4K Channels",Eromania 4K
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/10049/index.m3u
+#EXTINF:-1 tvg-name="Eromania 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eromania 4K.png" group-title="☘️4K Channels",Eromania 4K
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/10049/index.m3u8
 #EXTINF:-1 tvg-name="Eromania 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eromania 4K.png" group-title="☘️4K Channels",Eromania 4K
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/10049/index.m3u8
-#EXTINF:-1 tvg-name="Eromania 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eromania 4K.png" group-title="☘️4K Channels",Eromania 4K
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/10049/index.m3u
+#EXTINF:-1 tvg-name="Extasy 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy 4K.png" group-title="☘️4K Channels",Extasy 4K
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5014/index.m3u
 #EXTINF:-1 tvg-name="Extasy 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy 4K.png" group-title="☘️4K Channels",Extasy 4K
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5014/index.m3u8
 #EXTINF:-1 tvg-name="Extasy 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy 4K.png" group-title="☘️4K Channels",Extasy 4K
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5014/index.m3u8
-#EXTINF:-1 tvg-name="Extasy 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy 4K.png" group-title="☘️4K Channels",Extasy 4K
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5014/index.m3u
+#EXTINF:-1 tvg-name="Anal 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal 4K.png" group-title="☘️4K Channels",Anal 4K
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12190/index.m3u
 #EXTINF:-1 tvg-name="Anal 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal 4K.png" group-title="☘️4K Channels",Anal 4K
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12190/index.m3u8
 #EXTINF:-1 tvg-name="Anal 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal 4K.png" group-title="☘️4K Channels",Anal 4K
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12190/index.m3u8
-#EXTINF:-1 tvg-name="Anal 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal 4K.png" group-title="☘️4K Channels",Anal 4K
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12190/index.m3u
 #EXTINF:-1 tvg-name="Tiny 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tiny 4K.png" group-title="☘️4K Channels",Tiny 4K
 http://lunar.pm:8080/leslie/snook/131352
+#EXTINF:-1 tvg-name="Tiny 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tiny 4K.png" group-title="☘️4K Channels",Tiny 4K
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6258/index.m3u
 #EXTINF:-1 tvg-name="Tiny 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tiny 4K.png" group-title="☘️4K Channels",Tiny 4K
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6258/index.m3u8
 #EXTINF:-1 tvg-name="Tiny 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tiny 4K.png" group-title="☘️4K Channels",Tiny 4K
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6258/index.m3u8
-#EXTINF:-1 tvg-name="Tiny 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tiny 4K.png" group-title="☘️4K Channels",Tiny 4K
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6258/index.m3u
+#EXTINF:-1 tvg-name="Exotic4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Exotic4k.png" group-title="☘️4K Channels",Exotic4k
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12107/index.m3u
 #EXTINF:-1 tvg-name="Exotic4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Exotic4k.png" group-title="☘️4K Channels",Exotic4k
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12107/index.m3u8
 #EXTINF:-1 tvg-name="Exotic4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Exotic4k.png" group-title="☘️4K Channels",Exotic4k
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12107/index.m3u8
-#EXTINF:-1 tvg-name="Exotic4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Exotic4k.png" group-title="☘️4K Channels",Exotic4k
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12107/index.m3u
 #EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cum4k.png" group-title="☘️4K Channels",Cum4k
 http://lunar.pm:8080/leslie/snook/131306
+#EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cum4k.png" group-title="☘️4K Channels",Cum4k
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6190/index.m3u
 #EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cum4k.png" group-title="☘️4K Channels",Cum4k
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6190/index.m3u8
 #EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cum4k.png" group-title="☘️4K Channels",Cum4k
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6190/index.m3u8
 #EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cum4k.png" group-title="☘️4K Channels",Cum4k
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12157/index.m3u8
-#EXTINF:-1 tvg-name="Cum4k" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cum4k.png" group-title="☘️4K Channels",Cum4k
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6190/index.m3u
 #EXTINF:-1 tvg-name="MYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MYLF.png" group-title="☘️MILF Channels",MYLF
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6236/index.m3u8
+#EXTINF:-1 tvg-name="Got MYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Got MYLF.png" group-title="☘️MILF Channels",Got MYLF
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6216/index.m3u
 #EXTINF:-1 tvg-name="Got MYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Got MYLF.png" group-title="☘️MILF Channels",Got MYLF
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6216/index.m3u8
 #EXTINF:-1 tvg-name="Got MYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Got MYLF.png" group-title="☘️MILF Channels",Got MYLF
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6216/index.m3u8
-#EXTINF:-1 tvg-name="Got MYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Got MYLF.png" group-title="☘️MILF Channels",Got MYLF
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6216/index.m3u
 #EXTINF:-1 tvg-name="Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Family Strokes.png" group-title="☘️MILF Channels",Family Strokes
 http://lunar.pm:8080/leslie/snook/131313
+#EXTINF:-1 tvg-name="Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Family Strokes.png" group-title="☘️MILF Channels",Family Strokes
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12156/index.m3u
 #EXTINF:-1 tvg-name="Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Family Strokes.png" group-title="☘️MILF Channels",Family Strokes
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12156/index.m3u8
 #EXTINF:-1 tvg-name="Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Family Strokes.png" group-title="☘️MILF Channels",Family Strokes
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12156/index.m3u8
-#EXTINF:-1 tvg-name="Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Family Strokes.png" group-title="☘️MILF Channels",Family Strokes
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12156/index.m3u
 #EXTINF:-1 tvg-name="Family Swap XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Family Swap XXX.png" group-title="☘️MILF Channels",Family Swap XXX
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12155/index.m3u8
+#EXTINF:-1 tvg-name="Dirty Wives Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dirty Wives Club.png" group-title="☘️MILF Channels",Dirty Wives Club
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12122/index.m3u
 #EXTINF:-1 tvg-name="Dirty Wives Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dirty Wives Club.png" group-title="☘️MILF Channels",Dirty Wives Club
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12122/index.m3u8
 #EXTINF:-1 tvg-name="Dirty Wives Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dirty Wives Club.png" group-title="☘️MILF Channels",Dirty Wives Club
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12122/index.m3u8
-#EXTINF:-1 tvg-name="Dirty Wives Club" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dirty Wives Club.png" group-title="☘️MILF Channels",Dirty Wives Club
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12122/index.m3u
+#EXTINF:-1 tvg-name="Dad Crush" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dad Crush.png" group-title="☘️MILF Channels",Dad Crush
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12154/index.m3u
 #EXTINF:-1 tvg-name="Dad Crush" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dad Crush.png" group-title="☘️MILF Channels",Dad Crush
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12154/index.m3u8
 #EXTINF:-1 tvg-name="Dad Crush" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dad Crush.png" group-title="☘️MILF Channels",Dad Crush
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12154/index.m3u8
-#EXTINF:-1 tvg-name="Dad Crush" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dad Crush.png" group-title="☘️MILF Channels",Dad Crush
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12154/index.m3u
 #EXTINF:-1 tvg-name="Adultos Premium - Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Family Strokes.png" group-title="☘️MILF Channels",Adultos Premium - Family Strokes
 http://tv.diablotv.net:8080/W81.Rodriguez19/txUrW76sLL/172823
 #EXTINF:-1 tvg-name="Adultos Premium - Family Strokes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adultos Premium - Family Strokes.png" group-title="☘️MILF Channels",Adultos Premium - Family Strokes
@@ -1056,91 +974,91 @@ http://tv.zapping.life:8080/Cybertlacuilo/9dddd3ba3c3f/172823
 #EXTINF:-1 tvg-name="XXX SIS LOVES ME" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX SIS LOVES ME.png" group-title="☘️MILF Channels",XXX SIS LOVES ME
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935072
 #EXTINF:-1 tvg-name="Anal Only" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Only.png" group-title="☘️Anal Specialty",Anal Only
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12184/index.m3u
+#EXTINF:-1 tvg-name="Anal Only" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Only.png" group-title="☘️Anal Specialty",Anal Only
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12184/index.m3u8
 #EXTINF:-1 tvg-name="Anal Only" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Only.png" group-title="☘️Anal Specialty",Anal Only
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12184/index.m3u8
-#EXTINF:-1 tvg-name="Anal Only" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Only.png" group-title="☘️Anal Specialty",Anal Only
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12184/index.m3u
+#EXTINF:-1 tvg-name="Anal Teen Angels" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Teen Angels.png" group-title="☘️Anal Specialty",Anal Teen Angels
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12183/index.m3u
 #EXTINF:-1 tvg-name="Anal Teen Angels" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Teen Angels.png" group-title="☘️Anal Specialty",Anal Teen Angels
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12183/index.m3u8
 #EXTINF:-1 tvg-name="Anal Teen Angels" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Teen Angels.png" group-title="☘️Anal Specialty",Anal Teen Angels
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12183/index.m3u8
-#EXTINF:-1 tvg-name="Anal Teen Angels" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Teen Angels.png" group-title="☘️Anal Specialty",Anal Teen Angels
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12183/index.m3u
+#EXTINF:-1 tvg-name="Anal Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Time.png" group-title="☘️Anal Specialty",Anal Time
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12181/index.m3u
 #EXTINF:-1 tvg-name="Anal Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Time.png" group-title="☘️Anal Specialty",Anal Time
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12181/index.m3u8
 #EXTINF:-1 tvg-name="Anal Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Time.png" group-title="☘️Anal Specialty",Anal Time
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12181/index.m3u8
-#EXTINF:-1 tvg-name="Anal Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Time.png" group-title="☘️Anal Specialty",Anal Time
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12181/index.m3u
+#EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️Anal Specialty",Anal Mom
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12189/index.m3u
 #EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️Anal Specialty",Anal Mom
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12189/index.m3u8
 #EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️Anal Specialty",Anal Mom
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12189/index.m3u8
-#EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️Anal Specialty",Anal Mom
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12189/index.m3u
 #EXTINF:-1 tvg-name="Analized" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Analized.png" group-title="☘️Anal Specialty",Analized
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6168/index.m3u8
 #EXTINF:-1 tvg-name="Analized" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Analized.png" group-title="☘️Anal Specialty",Analized
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6168/index.m3u8
 #EXTINF:-1 tvg-name="Asshole Fever" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Asshole Fever.png" group-title="☘️Anal Specialty",Asshole Fever
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12169/index.m3u
+#EXTINF:-1 tvg-name="Asshole Fever" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Asshole Fever.png" group-title="☘️Anal Specialty",Asshole Fever
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12169/index.m3u8
 #EXTINF:-1 tvg-name="Asshole Fever" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Asshole Fever.png" group-title="☘️Anal Specialty",Asshole Fever
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12169/index.m3u8
-#EXTINF:-1 tvg-name="Asshole Fever" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Asshole Fever.png" group-title="☘️Anal Specialty",Asshole Fever
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12169/index.m3u
+#EXTINF:-1 tvg-name="All Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/All Anal.png" group-title="☘️Anal Specialty",All Anal
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12192/index.m3u
 #EXTINF:-1 tvg-name="All Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/All Anal.png" group-title="☘️Anal Specialty",All Anal
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12192/index.m3u8
 #EXTINF:-1 tvg-name="All Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/All Anal.png" group-title="☘️Anal Specialty",All Anal
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12192/index.m3u8
-#EXTINF:-1 tvg-name="All Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/All Anal.png" group-title="☘️Anal Specialty",All Anal
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12192/index.m3u
 #EXTINF:-1 tvg-name="Holed" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Holed.png" group-title="☘️Anal Specialty",Holed
 http://lunar.pm:8080/leslie/snook/131318
+#EXTINF:-1 tvg-name="Holed" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Holed.png" group-title="☘️Anal Specialty",Holed
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6221/index.m3u
 #EXTINF:-1 tvg-name="Holed" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Holed.png" group-title="☘️Anal Specialty",Holed
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6221/index.m3u8
 #EXTINF:-1 tvg-name="Holed" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Holed.png" group-title="☘️Anal Specialty",Holed
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6221/index.m3u8
-#EXTINF:-1 tvg-name="Holed" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Holed.png" group-title="☘️Anal Specialty",Holed
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6221/index.m3u
+#EXTINF:-1 tvg-name="Hard X" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hard X.png" group-title="☘️Anal Specialty",Hard X
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6218/index.m3u
 #EXTINF:-1 tvg-name="Hard X" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hard X.png" group-title="☘️Anal Specialty",Hard X
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6218/index.m3u8
 #EXTINF:-1 tvg-name="Hard X" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hard X.png" group-title="☘️Anal Specialty",Hard X
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6218/index.m3u8
-#EXTINF:-1 tvg-name="Hard X" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hard X.png" group-title="☘️Anal Specialty",Hard X
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6218/index.m3u
+#EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️Anal Specialty",BBC Pie
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12164/index.m3u
 #EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️Anal Specialty",BBC Pie
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12164/index.m3u8
 #EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️Anal Specialty",BBC Pie
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12164/index.m3u8
-#EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️Anal Specialty",BBC Pie
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12164/index.m3u
 #EXTINF:-1 tvg-name="Penthouse Gold" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Gold.png" group-title="☘️老牌经典",Penthouse Gold
 http://lunar.pm:8080/leslie/snook/131338
+#EXTINF:-1 tvg-name="Penthouse Gold" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Gold.png" group-title="☘️老牌经典",Penthouse Gold
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5011/index.m3u
 #EXTINF:-1 tvg-name="Penthouse Gold" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Gold.png" group-title="☘️老牌经典",Penthouse Gold
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5011/index.m3u8
 #EXTINF:-1 tvg-name="Penthouse Gold" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Gold.png" group-title="☘️老牌经典",Penthouse Gold
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5011/index.m3u8
-#EXTINF:-1 tvg-name="Penthouse Gold" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Gold.png" group-title="☘️老牌经典",Penthouse Gold
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5011/index.m3u
-#EXTINF:-1 tvg-name="Penthouse Passion" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Passion.png" group-title="☘️老牌经典",Penthouse Passion
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1073/index.m3u8
-#EXTINF:-1 tvg-name="Penthouse Passion" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Passion.png" group-title="☘️老牌经典",Penthouse Passion
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5010/index.m3u8
 #EXTINF:-1 tvg-name="Penthouse Passion" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Passion.png" group-title="☘️老牌经典",Penthouse Passion
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/1073/index.m3u
 #EXTINF:-1 tvg-name="Penthouse Passion" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Passion.png" group-title="☘️老牌经典",Penthouse Passion
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5010/index.m3u
+#EXTINF:-1 tvg-name="Penthouse Passion" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Passion.png" group-title="☘️老牌经典",Penthouse Passion
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1073/index.m3u8
+#EXTINF:-1 tvg-name="Penthouse Passion" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Passion.png" group-title="☘️老牌经典",Penthouse Passion
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5010/index.m3u8
+#EXTINF:-1 tvg-name="Penthouse Reality TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Reality TV.png" group-title="☘️老牌经典",Penthouse Reality TV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5012/index.m3u
 #EXTINF:-1 tvg-name="Penthouse Reality TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Reality TV.png" group-title="☘️老牌经典",Penthouse Reality TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5012/index.m3u8
 #EXTINF:-1 tvg-name="Penthouse Reality TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Reality TV.png" group-title="☘️老牌经典",Penthouse Reality TV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5013/index.m3u8
-#EXTINF:-1 tvg-name="Penthouse Reality TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Penthouse Reality TV.png" group-title="☘️老牌经典",Penthouse Reality TV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5012/index.m3u
-#EXTINF:-1 tvg-name="Beate Uhse TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beate Uhse TV.png" group-title="☘️老牌经典",Beate Uhse TV
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12163/index.m3u8
 #EXTINF:-1 tvg-name="Beate Uhse TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beate Uhse TV.png" group-title="☘️老牌经典",Beate Uhse TV
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12127/index.m3u
+#EXTINF:-1 tvg-name="Beate Uhse TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beate Uhse TV.png" group-title="☘️老牌经典",Beate Uhse TV
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12163/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 1.png" group-title="☘️老牌经典",Pink Erotic 1
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6289/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 1.png" group-title="☘️老牌经典",Pink Erotic 1
@@ -1154,6 +1072,8 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12147/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 2.png" group-title="☘️老牌经典",Pink Erotic 2
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12147/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 3.png" group-title="☘️老牌经典",Pink Erotic 3
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6240/index.m3u
+#EXTINF:-1 tvg-name="Pink Erotic 3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 3.png" group-title="☘️老牌经典",Pink Erotic 3
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6240/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 3.png" group-title="☘️老牌经典",Pink Erotic 3
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6291/index.m3u8
@@ -1161,8 +1081,8 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6291/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12148/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 3.png" group-title="☘️老牌经典",Pink Erotic 3
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12148/index.m3u8
-#EXTINF:-1 tvg-name="Pink Erotic 3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 3.png" group-title="☘️老牌经典",Pink Erotic 3
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6240/index.m3u
+#EXTINF:-1 tvg-name="Pink Erotic 4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 4.png" group-title="☘️老牌经典",Pink Erotic 4
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6241/index.m3u
 #EXTINF:-1 tvg-name="Pink Erotic 4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 4.png" group-title="☘️老牌经典",Pink Erotic 4
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6241/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 4.png" group-title="☘️老牌经典",Pink Erotic 4
@@ -1171,8 +1091,6 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6292/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12149/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 4.png" group-title="☘️老牌经典",Pink Erotic 4
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12149/index.m3u8
-#EXTINF:-1 tvg-name="Pink Erotic 4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 4.png" group-title="☘️老牌经典",Pink Erotic 4
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6241/index.m3u
 #EXTINF:-1 tvg-name="Pink Erotic 5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 5.png" group-title="☘️老牌经典",Pink Erotic 5
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12150/index.m3u8
 #EXTINF:-1 tvg-name="Pink Erotic 5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Pink Erotic 5.png" group-title="☘️老牌经典",Pink Erotic 5
@@ -1202,31 +1120,31 @@ https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 #EXTINF:-1 tvg-name="CARAC2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CARAC2.png" group-title="☘️老牌经典",CARAC2
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
 #EXTINF:-1 tvg-name="Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hot.png" group-title="☘️老牌经典",Hot
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6275/index.m3u
+#EXTINF:-1 tvg-name="Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hot.png" group-title="☘️老牌经典",Hot
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6275/index.m3u8
 #EXTINF:-1 tvg-name="Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hot.png" group-title="☘️老牌经典",Hot
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6275/index.m3u8
-#EXTINF:-1 tvg-name="Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hot.png" group-title="☘️老牌经典",Hot
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6275/index.m3u
+#EXTINF:-1 tvg-name="Sexy Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sexy Hot.png" group-title="☘️老牌经典",Sexy Hot
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6282/index.m3u
 #EXTINF:-1 tvg-name="Sexy Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sexy Hot.png" group-title="☘️老牌经典",Sexy Hot
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6282/index.m3u8
 #EXTINF:-1 tvg-name="Sexy Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sexy Hot.png" group-title="☘️老牌经典",Sexy Hot
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6282/index.m3u8
-#EXTINF:-1 tvg-name="Sexy Hot" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sexy Hot.png" group-title="☘️老牌经典",Sexy Hot
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6282/index.m3u
-#EXTINF:-1 tvg-name="Venus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Venus.png" group-title="☘️老牌经典",Venus
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6284/index.m3u8
-#EXTINF:-1 tvg-name="Venus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Venus.png" group-title="☘️老牌经典",Venus
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6284/index.m3u8
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Venus.png" group-title="☘️老牌经典",Venus
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12133/index.m3u
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Venus.png" group-title="☘️老牌经典",Venus
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6284/index.m3u
+#EXTINF:-1 tvg-name="Venus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Venus.png" group-title="☘️老牌经典",Venus
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6284/index.m3u8
+#EXTINF:-1 tvg-name="Venus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Venus.png" group-title="☘️老牌经典",Venus
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6284/index.m3u8
+#EXTINF:-1 tvg-name="Meiden van Holland" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Meiden van Holland.png" group-title="☘️European Local",Meiden van Holland
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12125/index.m3u
 #EXTINF:-1 tvg-name="Meiden van Holland" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Meiden van Holland.png" group-title="☘️European Local",Meiden van Holland
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12125/index.m3u8
 #EXTINF:-1 tvg-name="Meiden van Holland" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Meiden van Holland.png" group-title="☘️European Local",Meiden van Holland
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12125/index.m3u8
-#EXTINF:-1 tvg-name="Meiden van Holland" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Meiden van Holland.png" group-title="☘️European Local",Meiden van Holland
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12125/index.m3u
 #EXTINF:-1 tvg-name="Passie XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Passie XXX.png" group-title="☘️European Local",Passie XXX
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12136/index.m3u8
 #EXTINF:-1 tvg-name="Dusk" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Dusk.png" group-title="☘️European Local",Dusk
@@ -1238,11 +1156,11 @@ http://bgdc.live:25461/rodneys3888/3888/204283
 #EXTINF:-1 tvg-name="CentoXCento TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CentoXCento TV.png" group-title="☘️European Local",CentoXCento TV
 http://91.218.50.136:8080/Rose35torres/iB7101/2601
 #EXTINF:-1 tvg-name="Leo TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Leo TV.png" group-title="☘️European Local",Leo TV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6272/index.m3u
+#EXTINF:-1 tvg-name="Leo TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Leo TV.png" group-title="☘️European Local",Leo TV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6272/index.m3u8
 #EXTINF:-1 tvg-name="Leo TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Leo TV.png" group-title="☘️European Local",Leo TV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6272/index.m3u8
-#EXTINF:-1 tvg-name="Leo TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Leo TV.png" group-title="☘️European Local",Leo TV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6272/index.m3u
 #EXTINF:-1 tvg-name="Alba XXX HD1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD1.png" group-title="☘️European Local",Alba XXX HD1
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12106/index.m3u8
 #EXTINF:-1 tvg-name="Alba XXX HD1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD1.png" group-title="☘️European Local",Alba XXX HD1
@@ -1250,25 +1168,25 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12204/index.m3u8
 #EXTINF:-1 tvg-name="Alba XXX HD1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD1.png" group-title="☘️European Local",Alba XXX HD1
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12106/index.m3u8
 #EXTINF:-1 tvg-name="Alba XXX HD2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD2.png" group-title="☘️European Local",Alba XXX HD2
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12194/index.m3u
+#EXTINF:-1 tvg-name="Alba XXX HD2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD2.png" group-title="☘️European Local",Alba XXX HD2
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12194/index.m3u8
 #EXTINF:-1 tvg-name="Alba XXX HD2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD2.png" group-title="☘️European Local",Alba XXX HD2
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12194/index.m3u8
-#EXTINF:-1 tvg-name="Alba XXX HD2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba XXX HD2.png" group-title="☘️European Local",Alba XXX HD2
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12194/index.m3u
-#EXTINF:-1 tvg-name="French Lover" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/French Lover.png" group-title="☘️European Local",French Lover
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12124/index.m3u8
-#EXTINF:-1 tvg-name="French Lover" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/French Lover.png" group-title="☘️European Local",French Lover
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12124/index.m3u8
 #EXTINF:-1 tvg-name="French Lover" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/French Lover.png" group-title="☘️European Local",French Lover
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12124/index.m3u
 #EXTINF:-1 tvg-name="French Lover" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/French Lover.png" group-title="☘️European Local",French Lover
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/2160/index.m3u
+#EXTINF:-1 tvg-name="French Lover" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/French Lover.png" group-title="☘️European Local",French Lover
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12124/index.m3u8
+#EXTINF:-1 tvg-name="French Lover" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/French Lover.png" group-title="☘️European Local",French Lover
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12124/index.m3u8
+#EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️European Local",Balkan Erotic
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6270/index.m3u
 #EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️European Local",Balkan Erotic
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6270/index.m3u8
 #EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️European Local",Balkan Erotic
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6270/index.m3u8
-#EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️European Local",Balkan Erotic
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6270/index.m3u
 #EXTINF:-1 tvg-name="Sex Prive" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sex Prive.png" group-title="☘️European Local",Sex Prive
 http://91.218.50.136:8080/Rose35torres/iB7101/46045
 #EXTINF:-1 tvg-name="Sextreme" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sextreme.png" group-title="☘️European Local",Sextreme
@@ -1276,47 +1194,47 @@ http://bgdc.live:25461/rodneys3888/3888/204295
 #EXTINF:-1 tvg-name="Extasy TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy TV.png" group-title="☘️European Local",Extasy TV
 http://tv.zapping.life:8080/Cybertlacuilo/9dddd3ba3c3f/164513
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
-#EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11051/index.m3u8
-#EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/11051/index.m3u
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6201/index.m3u
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
+#EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11051/index.m3u8
+#EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Redlight HD.png" group-title="☘️European Local",Redlight HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/242/index.m3u
 #EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Redlight HD.png" group-title="☘️European Local",Redlight HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/242/index.m3u8
 #EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Redlight HD.png" group-title="☘️European Local",Redlight HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/242/index.m3u8
-#EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Redlight HD.png" group-title="☘️European Local",Redlight HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/242/index.m3u
+#EXTINF:-1 tvg-name="Red Lips" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Lips.png" group-title="☘️European Local",Red Lips
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6271/index.m3u
 #EXTINF:-1 tvg-name="Red Lips" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Lips.png" group-title="☘️European Local",Red Lips
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6271/index.m3u8
 #EXTINF:-1 tvg-name="Red Lips" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Lips.png" group-title="☘️European Local",Red Lips
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6271/index.m3u8
-#EXTINF:-1 tvg-name="Red Lips" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Lips.png" group-title="☘️European Local",Red Lips
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6271/index.m3u
+#EXTINF:-1 tvg-name="Red XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red XXX.png" group-title="☘️European Local",Red XXX
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6281/index.m3u
 #EXTINF:-1 tvg-name="Red XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red XXX.png" group-title="☘️European Local",Red XXX
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6281/index.m3u8
 #EXTINF:-1 tvg-name="Red XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red XXX.png" group-title="☘️European Local",Red XXX
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6281/index.m3u8
-#EXTINF:-1 tvg-name="Red XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red XXX.png" group-title="☘️European Local",Red XXX
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6281/index.m3u
+#EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6296/index.m3u
 #EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6296/index.m3u8
 #EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6296/index.m3u8
 #EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6296/index.m3u
-#EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5015/index.m3u
 #EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5015/index.m3u8
 #EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5015/index.m3u8
-#EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/5015/index.m3u
 #EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Secret Circle" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Secret Circle.png" group-title="☘️European Local",Secret Circle
@@ -1344,6 +1262,8 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3932772
 #EXTINF:-1 tvg-name="XXX Sammy Corazon" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX Sammy Corazon.png" group-title="☘️明星 / 特定系列",XXX Sammy Corazon
 http://conecdg.me:80/Andrielly.Silva/Br131221/3932768
 #EXTINF:-1 tvg-name="Tushy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy.png" group-title="☘️其他 / 混合类型",Tushy
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6261/index.m3u
+#EXTINF:-1 tvg-name="Tushy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy.png" group-title="☘️其他 / 混合类型",Tushy
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6261/index.m3u8
 #EXTINF:-1 tvg-name="Tushy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy.png" group-title="☘️其他 / 混合类型",Tushy
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12188/index.m3u8
@@ -1351,92 +1271,90 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12188/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6261/index.m3u8
 #EXTINF:-1 tvg-name="Tushy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy.png" group-title="☘️其他 / 混合类型",Tushy
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12188/index.m3u8
-#EXTINF:-1 tvg-name="Tushy" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy.png" group-title="☘️其他 / 混合类型",Tushy
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6261/index.m3u
+#EXTINF:-1 tvg-name="Tushy Raw" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy Raw.png" group-title="☘️其他 / 混合类型",Tushy Raw
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6262/index.m3u
 #EXTINF:-1 tvg-name="Tushy Raw" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy Raw.png" group-title="☘️其他 / 混合类型",Tushy Raw
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6262/index.m3u8
 #EXTINF:-1 tvg-name="Tushy Raw" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy Raw.png" group-title="☘️其他 / 混合类型",Tushy Raw
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6262/index.m3u8
-#EXTINF:-1 tvg-name="Tushy Raw" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Tushy Raw.png" group-title="☘️其他 / 混合类型",Tushy Raw
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6262/index.m3u
 #EXTINF:-1 tvg-name="Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blacked.png" group-title="☘️其他 / 混合类型",Blacked
 http://lunar.pm:8080/leslie/snook/131300
+#EXTINF:-1 tvg-name="Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blacked.png" group-title="☘️其他 / 混合类型",Blacked
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6178/index.m3u
 #EXTINF:-1 tvg-name="Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blacked.png" group-title="☘️其他 / 混合类型",Blacked
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6178/index.m3u8
 #EXTINF:-1 tvg-name="Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blacked.png" group-title="☘️其他 / 混合类型",Blacked
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6178/index.m3u8
-#EXTINF:-1 tvg-name="Blacked" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blacked.png" group-title="☘️其他 / 混合类型",Blacked
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6178/index.m3u
 #EXTINF:-1 tvg-name="Bang Bros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros.png" group-title="☘️其他 / 混合类型",Bang Bros
 http://lunar.pm:8080/leslie/snook/131299
+#EXTINF:-1 tvg-name="Bang Bros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros.png" group-title="☘️其他 / 混合类型",Bang Bros
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6173/index.m3u
 #EXTINF:-1 tvg-name="Bang Bros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros.png" group-title="☘️其他 / 混合类型",Bang Bros
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6173/index.m3u8
 #EXTINF:-1 tvg-name="Bang Bros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros.png" group-title="☘️其他 / 混合类型",Bang Bros
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6173/index.m3u8
-#EXTINF:-1 tvg-name="Bang Bros" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros.png" group-title="☘️其他 / 混合类型",Bang Bros
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6173/index.m3u
+#EXTINF:-1 tvg-name="Bang Bus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bus.png" group-title="☘️其他 / 混合类型",Bang Bus
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12167/index.m3u
 #EXTINF:-1 tvg-name="Bang Bus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bus.png" group-title="☘️其他 / 混合类型",Bang Bus
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12167/index.m3u8
 #EXTINF:-1 tvg-name="Bang Bus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bus.png" group-title="☘️其他 / 混合类型",Bang Bus
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12167/index.m3u8
-#EXTINF:-1 tvg-name="Bang Bus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bus.png" group-title="☘️其他 / 混合类型",Bang Bus
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12167/index.m3u
+#EXTINF:-1 tvg-name="Bang POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang POV.png" group-title="☘️其他 / 混合类型",Bang POV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12166/index.m3u
 #EXTINF:-1 tvg-name="Bang POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang POV.png" group-title="☘️其他 / 混合类型",Bang POV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12166/index.m3u8
 #EXTINF:-1 tvg-name="Bang POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang POV.png" group-title="☘️其他 / 混合类型",Bang POV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12166/index.m3u8
-#EXTINF:-1 tvg-name="Bang POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang POV.png" group-title="☘️其他 / 混合类型",Bang POV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12166/index.m3u
+#EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️其他 / 混合类型",Bang!
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6174/index.m3u
 #EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️其他 / 混合类型",Bang!
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6174/index.m3u8
 #EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️其他 / 混合类型",Bang!
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6174/index.m3u8
-#EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️其他 / 混合类型",Bang!
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6174/index.m3u
 #EXTINF:-1 tvg-name="XXX BANGBROS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX BANGBROS.png" group-title="☘️其他 / 混合类型",XXX BANGBROS
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935089
 #EXTINF:-1 tvg-name="Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Evil Angel.png" group-title="☘️其他 / 混合类型",Evil Angel
 http://lunar.pm:8080/leslie/snook/131309
 #EXTINF:-1 tvg-name="Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Evil Angel.png" group-title="☘️其他 / 混合类型",Evil Angel
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6199/index.m3u
+#EXTINF:-1 tvg-name="Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Evil Angel.png" group-title="☘️其他 / 混合类型",Evil Angel
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6199/index.m3u8
 #EXTINF:-1 tvg-name="Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Evil Angel.png" group-title="☘️其他 / 混合类型",Evil Angel
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6199/index.m3u8
-#EXTINF:-1 tvg-name="Evil Angel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Evil Angel.png" group-title="☘️其他 / 混合类型",Evil Angel
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6199/index.m3u
+#EXTINF:-1 tvg-name="Devils Film" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Devils Film.png" group-title="☘️其他 / 混合类型",Devils Film
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12137/index.m3u
 #EXTINF:-1 tvg-name="Devils Film" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Devils Film.png" group-title="☘️其他 / 混合类型",Devils Film
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12137/index.m3u8
 #EXTINF:-1 tvg-name="Devils Film" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Devils Film.png" group-title="☘️其他 / 混合类型",Devils Film
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12137/index.m3u8
-#EXTINF:-1 tvg-name="Devils Film" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Devils Film.png" group-title="☘️其他 / 混合类型",Devils Film
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12137/index.m3u
 #EXTINF:-1 tvg-name="XXX TEAM SKEET" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX TEAM SKEET.png" group-title="☘️其他 / 混合类型",XXX TEAM SKEET
 http://conecdg.me:80/Andrielly.Silva/Br131221/3935071
 #EXTINF:-1 tvg-name="Nubiles" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Nubiles.png" group-title="☘️其他 / 混合类型",Nubiles
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6238/index.m3u8
 #EXTINF:-1 tvg-name="True Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/True Amateurs.png" group-title="☘️其他 / 混合类型",True Amateurs
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6260/index.m3u
+#EXTINF:-1 tvg-name="True Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/True Amateurs.png" group-title="☘️其他 / 混合类型",True Amateurs
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6260/index.m3u8
 #EXTINF:-1 tvg-name="True Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/True Amateurs.png" group-title="☘️其他 / 混合类型",True Amateurs
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6260/index.m3u8
-#EXTINF:-1 tvg-name="True Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/True Amateurs.png" group-title="☘️其他 / 混合类型",True Amateurs
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6260/index.m3u
+#EXTINF:-1 tvg-name="Cherry Pimps" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cherry Pimps.png" group-title="☘️其他 / 混合类型",Cherry Pimps
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6185/index.m3u
 #EXTINF:-1 tvg-name="Cherry Pimps" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cherry Pimps.png" group-title="☘️其他 / 混合类型",Cherry Pimps
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6185/index.m3u8
 #EXTINF:-1 tvg-name="Cherry Pimps" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cherry Pimps.png" group-title="☘️其他 / 混合类型",Cherry Pimps
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6185/index.m3u8
-#EXTINF:-1 tvg-name="Cherry Pimps" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cherry Pimps.png" group-title="☘️其他 / 混合类型",Cherry Pimps
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6185/index.m3u
+#EXTINF:-1 tvg-name="Digital Desire" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Desire.png" group-title="☘️其他 / 混合类型",Digital Desire
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6195/index.m3u
 #EXTINF:-1 tvg-name="Digital Desire" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Desire.png" group-title="☘️其他 / 混合类型",Digital Desire
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6195/index.m3u8
 #EXTINF:-1 tvg-name="Digital Desire" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Desire.png" group-title="☘️其他 / 混合类型",Digital Desire
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6195/index.m3u8
-#EXTINF:-1 tvg-name="Digital Desire" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Digital Desire.png" group-title="☘️其他 / 混合类型",Digital Desire
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6195/index.m3u
+#EXTINF:-1 tvg-name="Lust Cinema" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Lust Cinema.png" group-title="☘️其他 / 混合类型",Lust Cinema
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6232/index.m3u
 #EXTINF:-1 tvg-name="Lust Cinema" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Lust Cinema.png" group-title="☘️其他 / 混合类型",Lust Cinema
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6232/index.m3u8
 #EXTINF:-1 tvg-name="Lust Cinema" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Lust Cinema.png" group-title="☘️其他 / 混合类型",Lust Cinema
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6232/index.m3u8
-#EXTINF:-1 tvg-name="Lust Cinema" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Lust Cinema.png" group-title="☘️其他 / 混合类型",Lust Cinema
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6232/index.m3u
 #EXTINF:-1 tvg-name="EroLuxe Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/EroLuxe Anal.png" group-title="☘️其他 / 混合类型",EroLuxe Anal
 http://bgdc.live:25461/rodneys3888/3888/204229
 #EXTINF:-1 tvg-name="EroLuxe Babysitter" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/EroLuxe Babysitter.png" group-title="☘️其他 / 混合类型",EroLuxe Babysitter
@@ -1462,33 +1380,33 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3935069
 #EXTINF:-1 tvg-name="XXX LETSDOEIT" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX LETSDOEIT.png" group-title="☘️其他 / 混合类型",XXX LETSDOEIT
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965464
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12205/index.m3u
+#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6164/index.m3u
+#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6164/index.m3u8
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12205/index.m3u8
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12205/index.m3u8
-#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12205/index.m3u
-#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️其他 / 混合类型",21 Sextury
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6164/index.m3u
 #EXTINF:-1 tvg-name="DMF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/DMF.png" group-title="☘️其他 / 混合类型",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
+#EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12121/index.m3u
+#EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6298/index.m3u
 #EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6298/index.m3u8
 #EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12121/index.m3u8
 #EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6298/index.m3u8
-#EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12121/index.m3u
-#EXTINF:-1 tvg-name="Super One HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Super One HD.png" group-title="☘️其他 / 混合类型",Super One HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6298/index.m3u
+#EXTINF:-1 tvg-name="Ass Parade" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Ass Parade.png" group-title="☘️其他 / 混合类型",Ass Parade
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12178/index.m3u
 #EXTINF:-1 tvg-name="Ass Parade" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Ass Parade.png" group-title="☘️其他 / 混合类型",Ass Parade
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12178/index.m3u8
 #EXTINF:-1 tvg-name="Ass Parade" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Ass Parade.png" group-title="☘️其他 / 混合类型",Ass Parade
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12178/index.m3u8
-#EXTINF:-1 tvg-name="Ass Parade" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Ass Parade.png" group-title="☘️其他 / 混合类型",Ass Parade
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12178/index.m3u
 #EXTINF:-1 tvg-name="Barely Legal TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Barely Legal TV.png" group-title="☘️其他 / 混合类型",Barely Legal TV
 http://bgdc.live:25461/rodneys3888/3888/204220
 #EXTINF:-1 tvg-name="Barely Legal TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Barely Legal TV.png" group-title="☘️其他 / 混合类型",Barely Legal TV
@@ -1498,23 +1416,23 @@ http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/871/index.m3u
 #EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bratty Sis.png" group-title="☘️其他 / 混合类型",Bratty Sis
 http://lunar.pm:8080/leslie/snook/131302
 #EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bratty Sis.png" group-title="☘️其他 / 混合类型",Bratty Sis
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12161/index.m3u
+#EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bratty Sis.png" group-title="☘️其他 / 混合类型",Bratty Sis
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12161/index.m3u8
 #EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bratty Sis.png" group-title="☘️其他 / 混合类型",Bratty Sis
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12161/index.m3u8
-#EXTINF:-1 tvg-name="Bratty Sis" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bratty Sis.png" group-title="☘️其他 / 混合类型",Bratty Sis
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12161/index.m3u
+#EXTINF:-1 tvg-name="Brand New Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brand New Amateurs.png" group-title="☘️其他 / 混合类型",Brand New Amateurs
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12162/index.m3u
 #EXTINF:-1 tvg-name="Brand New Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brand New Amateurs.png" group-title="☘️其他 / 混合类型",Brand New Amateurs
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12162/index.m3u8
 #EXTINF:-1 tvg-name="Brand New Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brand New Amateurs.png" group-title="☘️其他 / 混合类型",Brand New Amateurs
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12162/index.m3u8
-#EXTINF:-1 tvg-name="Brand New Amateurs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brand New Amateurs.png" group-title="☘️其他 / 混合类型",Brand New Amateurs
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12162/index.m3u
+#EXTINF:-1 tvg-name="Japan HDV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Japan HDV.png" group-title="☘️其他 / 混合类型",Japan HDV
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6225/index.m3u
 #EXTINF:-1 tvg-name="Japan HDV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Japan HDV.png" group-title="☘️其他 / 混合类型",Japan HDV
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6225/index.m3u8
 #EXTINF:-1 tvg-name="Japan HDV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Japan HDV.png" group-title="☘️其他 / 混合类型",Japan HDV
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6225/index.m3u8
-#EXTINF:-1 tvg-name="Japan HDV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Japan HDV.png" group-title="☘️其他 / 混合类型",Japan HDV
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6225/index.m3u
 #EXTINF:-1 tvg-name="XXX Public Agent" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX Public Agent.png" group-title="☘️其他 / 混合类型",XXX Public Agent
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965389
 #EXTINF:-1 tvg-name="XXX WICKED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX WICKED.png" group-title="☘️其他 / 混合类型",XXX WICKED
@@ -1704,63 +1622,63 @@ http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138909
 #EXTINF:-1 tvg-name="PORNBOX: X CHIMERA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: X CHIMERA.png" group-title="☘️泰语频道",PORNBOX: X CHIMERA
 http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138910
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12205/index.m3u
+#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6164/index.m3u
+#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6164/index.m3u8
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12205/index.m3u8
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12205/index.m3u8
-#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12205/index.m3u
-#EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6164/index.m3u
 #EXTINF:-1 tvg-name="A Girl Knows" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/A Girl Knows.png" group-title="☘️葡萄牙语频道",A Girl Knows
 http://lunar.pm:8080/leslie/snook/131295
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️葡萄牙语频道",Adult Time
 http://lunar.pm:8080/leslie/snook/131296
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️葡萄牙语频道",Adult Time
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6166/index.m3u
+#EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️葡萄牙语频道",Adult Time
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6166/index.m3u8
 #EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️葡萄牙语频道",Adult Time
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6166/index.m3u8
-#EXTINF:-1 tvg-name="Adult Time" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Adult Time.png" group-title="☘️葡萄牙语频道",Adult Time
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6166/index.m3u
 #EXTINF:-1 tvg-name="AdultIPTV.net Asian" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AdultIPTV.net Asian.png" group-title="☘️葡萄牙语频道",AdultIPTV.net Asian
 http://cdn.adultiptv.net/asian.m3u8
 #EXTINF:-1 tvg-name="Alba 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1.png" group-title="☘️葡萄牙语频道",Alba 1
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12105/index.m3u8
-#EXTINF:-1 tvg-name="Alba 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1.png" group-title="☘️葡萄牙语频道",Alba 1
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12105/index.m3u
 #EXTINF:-1 tvg-name="Alba 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1.png" group-title="☘️葡萄牙语频道",Alba 1
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12106/index.m3u
-#EXTINF:-1 tvg-name="Alba 1 HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1 HD.png" group-title="☘️葡萄牙语频道",Alba 1 HD
+#EXTINF:-1 tvg-name="Alba 1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1.png" group-title="☘️葡萄牙语频道",Alba 1
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12105/index.m3u8
 #EXTINF:-1 tvg-name="Alba 1 HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1 HD.png" group-title="☘️葡萄牙语频道",Alba 1 HD
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12105/index.m3u
 #EXTINF:-1 tvg-name="Alba 1 HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1 HD.png" group-title="☘️葡萄牙语频道",Alba 1 HD
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12106/index.m3u
+#EXTINF:-1 tvg-name="Alba 1 HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Alba 1 HD.png" group-title="☘️葡萄牙语频道",Alba 1 HD
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12105/index.m3u8
 #EXTINF:-1 tvg-name="All Group Sex" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/All Group Sex.png" group-title="☘️葡萄牙语频道",All Group Sex
 http://lunar.pm:8080/leslie/snook/131297
 #EXTINF:-1 tvg-name="Amber Moore" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Amber Moore.png" group-title="☘️葡萄牙语频道",Amber Moore
 https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/5kporn/8kt/1/output.m3u8
 #EXTINF:-1 tvg-name="Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal.png" group-title="☘️葡萄牙语频道",Anal
-http://live.mycamtv.com/anal.m3u8
-#EXTINF:-1 tvg-name="Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal.png" group-title="☘️葡萄牙语频道",Anal
 http://live.redtraffic.net/anal.m3u8
 #EXTINF:-1 tvg-name="Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal.png" group-title="☘️葡萄牙语频道",Anal
+http://live.mycamtv.com/anal.m3u8
+#EXTINF:-1 tvg-name="Anal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal.png" group-title="☘️葡萄牙语频道",Anal
 http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️葡萄牙语频道",Anal Mom
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12189/index.m3u
 #EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️葡萄牙语频道",Anal Mom
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12189/index.m3u8
 #EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️葡萄牙语频道",Anal Mom
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12189/index.m3u8
-#EXTINF:-1 tvg-name="Anal Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Mom.png" group-title="☘️葡萄牙语频道",Anal Mom
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12189/index.m3u
 #EXTINF:-1 tvg-name="Anal Red TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal Red TV.png" group-title="☘️葡萄牙语频道",Anal Red TV
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6167/index.m3u
+#EXTINF:-1 tvg-name="Anal4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal4K.png" group-title="☘️葡萄牙语频道",Anal4K
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12190/index.m3u
 #EXTINF:-1 tvg-name="Anal4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal4K.png" group-title="☘️葡萄牙语频道",Anal4K
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12190/index.m3u8
 #EXTINF:-1 tvg-name="Anal4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal4K.png" group-title="☘️葡萄牙语频道",Anal4K
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12190/index.m3u8
-#EXTINF:-1 tvg-name="Anal4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Anal4K.png" group-title="☘️葡萄牙语频道",Anal4K
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12190/index.m3u
 #EXTINF:-1 tvg-name="Analized" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Analized.png" group-title="☘️葡萄牙语频道",Analized
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6168/index.m3u8
 #EXTINF:-1 tvg-name="Analized" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Analized.png" group-title="☘️葡萄牙语频道",Analized
@@ -1769,14 +1687,14 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6168/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6168/index.m3u8
 #EXTINF:-1 tvg-name="Analized HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Analized HD.png" group-title="☘️葡萄牙语频道",Analized HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6168/index.m3u8
-#EXTINF:-1 tvg-name="AST TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV.png" group-title="☘️葡萄牙语频道",AST TV
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 #EXTINF:-1 tvg-name="AST TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV.png" group-title="☘️葡萄牙语频道",AST TV
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6169/index.m3u
-#EXTINF:-1 tvg-name="AST TV 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV 2.png" group-title="☘️葡萄牙语频道",AST TV 2
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
+#EXTINF:-1 tvg-name="AST TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV.png" group-title="☘️葡萄牙语频道",AST TV
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 #EXTINF:-1 tvg-name="AST TV 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV 2.png" group-title="☘️葡萄牙语频道",AST TV 2
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6170/index.m3u
+#EXTINF:-1 tvg-name="AST TV 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV 2.png" group-title="☘️葡萄牙语频道",AST TV 2
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
 #EXTINF:-1 tvg-name="Athena Faris" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Athena Faris.png" group-title="☘️葡萄牙语频道",Athena Faris
 http://tv.diablotv.net:8080/W81.Rodriguez19/txUrW76sLL/175357
 #EXTINF:-1 tvg-name="Athena Faris" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Athena Faris.png" group-title="☘️葡萄牙语频道",Athena Faris
@@ -1792,48 +1710,48 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6172/index.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6172/index.m3u
+#EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2161/index.m3u8
 #EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
 http://tv.zapping.life:8080/Cybertlacuilo/9dddd3ba3c3f/164496
-#EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6172/index.m3u
 #EXTINF:-1 tvg-name="BAG U" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BAG U.png" group-title="☘️葡萄牙语频道",BAG U
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12170/index.m3u
+#EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️葡萄牙语频道",Balkan Erotic
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6270/index.m3u
 #EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️葡萄牙语频道",Balkan Erotic
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6270/index.m3u8
 #EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️葡萄牙语频道",Balkan Erotic
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6270/index.m3u8
-#EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️葡萄牙语频道",Balkan Erotic
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6270/index.m3u
 #EXTINF:-1 tvg-name="Bang Bros HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros HD.png" group-title="☘️葡萄牙语频道",Bang Bros HD
 http://lunar.pm:8080/leslie/snook/131299
+#EXTINF:-1 tvg-name="Bang Bros HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros HD.png" group-title="☘️葡萄牙语频道",Bang Bros HD
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6173/index.m3u
 #EXTINF:-1 tvg-name="Bang Bros HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros HD.png" group-title="☘️葡萄牙语频道",Bang Bros HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6173/index.m3u8
 #EXTINF:-1 tvg-name="Bang Bros HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros HD.png" group-title="☘️葡萄牙语频道",Bang Bros HD
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6173/index.m3u8
-#EXTINF:-1 tvg-name="Bang Bros HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang Bros HD.png" group-title="☘️葡萄牙语频道",Bang Bros HD
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6173/index.m3u
 #EXTINF:-1 tvg-name="Bang U" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang U.png" group-title="☘️葡萄牙语频道",Bang U
 http://bgdc.live:25461/rodneys3888/3888/204219
 #EXTINF:-1 tvg-name="Bang U" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang U.png" group-title="☘️葡萄牙语频道",Bang U
-http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12114/index.m3u8
-#EXTINF:-1 tvg-name="Bang U" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang U.png" group-title="☘️葡萄牙语频道",Bang U
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12114/index.m3u
+#EXTINF:-1 tvg-name="Bang U" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang U.png" group-title="☘️葡萄牙语频道",Bang U
+http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12114/index.m3u8
+#EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️葡萄牙语频道",Bang!
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6174/index.m3u
 #EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️葡萄牙语频道",Bang!
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6174/index.m3u8
 #EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️葡萄牙语频道",Bang!
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6174/index.m3u8
-#EXTINF:-1 tvg-name="Bang!" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bang!.png" group-title="☘️葡萄牙语频道",Bang!
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6174/index.m3u
 #EXTINF:-1 tvg-name="Barely legal" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Barely legal.png" group-title="☘️葡萄牙语频道",Barely legal
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/871/index.m3u8
+#EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️葡萄牙语频道",BBC Pie
+http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12164/index.m3u
 #EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️葡萄牙语频道",BBC Pie
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12164/index.m3u8
 #EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️葡萄牙语频道",BBC Pie
 http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12164/index.m3u8
-#EXTINF:-1 tvg-name="BBC Pie" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Pie.png" group-title="☘️葡萄牙语频道",BBC Pie
-http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12164/index.m3u
-#EXTINF:-1 tvg-name="Beate UHSE TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beate UHSE TV.png" group-title="☘️葡萄牙语频道",Beate UHSE TV
-http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12163/index.m3u8
 #EXTINF:-1 tvg-name="Beate UHSE TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beate UHSE TV.png" group-title="☘️葡萄牙语频道",Beate UHSE TV
 http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12127/index.m3u
+#EXTINF:-1 tvg-name="Beate UHSE TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Beate UHSE TV.png" group-title="☘️葡萄牙语频道",Beate UHSE TV
+http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12163/index.m3u8
