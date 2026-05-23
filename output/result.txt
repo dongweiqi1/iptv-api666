@@ -1,78 +1,74 @@
 🕘️更新时间,#genre#
-2026-05-23 04:02:32,http://207.56.13.146:81/cdnlive/cctv1.m3u8
+2026-05-23 16:31:05,http://112.46.105.20:8009/hls/501/index.m3u8
 
 ☘️央视频道,#genre#
+CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV-1,http://207.56.13.146:81/cdnlive/cctv1.m3u8
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
+CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-2,https://live.ottiptv.cc/mcp/cctv2.m3u8?userid=5559462299&sign=84b340c32ad78dbc6e3fd16cb6c1dd393ef2f572296dc7c91587599b2e35423d3ec04b966a482ff9078d007cc3d3b965e4d4f26243c311f6a454e224692ba216c4ba04245bcc0516f3c7c08389&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-2,http://207.56.13.146:81/cdnlive/cctv2.m3u8
 CCTV-2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-3,https://iptv.catvod.com/live.php?id=CCTV-3
+CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV-3,https://live.ottiptv.cc/mcp/cctv3.m3u8?userid=5559462299&sign=c1775a06415d046d518bedb6b1d4f0082caeab73afe738bcfd90f6012c30d40317156b3669d509f89ae3a15829f5245d8bfbdac4e424150e8cb2b04a792de1a854537b74bb2aa3dd0af6e81981&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-3,http://207.56.13.146:81/cdnlive/cctv3.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
+CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV-4,http://207.56.13.146:81/cdnlive/cctv4.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
-CCTV-4,http://223.105.252.60/PLTV/4/224/3221228228/index.m3u8?servicetype=1
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5
-CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903
+CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV-5,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=5559462299&sign=4637dcd03b9b95f920898a418d0a1a14dd7146d61d81890f2e062bb61b2516c7302f7835441735ed227df4c9e251b282e4f95c43777bbc17126d91ae59f3d313a1deaea8677fc42f659dfe8c22ed&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-5,http://207.56.13.146:81/cdnlive/cctv5.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV-5plus
-CCTV-5+,https://live.264788.xyz/channel/cctv5p?streamid=5abeb9f5977d817ac6912946fd8a363c&livekey=01Whq5ncXSAY4QR6pxFecNJPn2TD9XzQG6tPi
 CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
 CCTV-16,http://207.56.13.146:81/cdnlive/cctv16.m3u8
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV-6,http://112.46.105.20:8009/hls/6/index.m3u8
 CCTV-6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=5559462299&sign=c83da64a4afab8742707e0f6b8ac4b8641b4db06e5b96d7f65f5674de9e5949c161a3cfaf2fdf106284be4e4e0372823086365e60515b9401daca2c2e33859a58c14bb3aa206f6d6d930397c8b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-6,http://207.56.13.146:81/cdnlive/cctv6.m3u8
 CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://112.46.105.20:8009/hls/6/index.m3u8
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV-7
 CCTV-7,http://222.214.208.34:59901/tsfile/live/0007_1.m3u8
+CCTV-7,http://112.46.105.20:8009/hls/504/index.m3u8
 CCTV-7,http://207.56.13.146:81/cdnlive/cctv7.m3u8
 CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://112.46.105.20:8009/hls/504/index.m3u8
 CCTV-8,https://iptv.catvod.com/live.php?id=CCTV-8
 CCTV-8,http://222.214.208.34:59901/tsfile/live/0008_1.m3u8
+CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV-8,http://207.56.13.146:81/cdnlive/cctv8.m3u8
 CCTV-8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV-9,https://iptv.catvod.com/live.php?id=CCTV-9
 CCTV-9,http://222.214.208.34:59901/tsfile/live/0009_1.m3u8
+CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV-9,https://live.ottiptv.cc/mcp/cctv9.m3u8?userid=5559462299&sign=87f8e948dbba190dcf666e44fd339d885644ada1350bb1f9550d17f0976f881cf0c7216cd2401f817c88bb147b98ee7147558799b9e104a14bc365549d4113ea7351369e8c2db3197cd01cd6d2&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-9,http://207.56.13.146:81/cdnlive/cctv9.m3u8
 CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10
+CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8
 CCTV-10,http://207.56.13.146:81/cdnlive/cctv10.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8
 CCTV-11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=5559462299&sign=88f62f6e3221789cb03913d47e7bd44e0f4658aed00f7a5288f8bfb958365bcc1104a6ac308e3a27c51191cfc3db61e54b095fe4f9dee511ef0ce7b2b45972c01c8b3f0b5fe8aa44c75235978cbe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 CCTV-11,http://207.56.13.146:81/cdnlive/cctv11.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
-CCTV-12,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 CCTV-12,http://222.214.208.34:59901/tsfile/live/0012_1.m3u8
+CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV-12,http://207.56.13.146:81/cdnlive/cctv12.m3u8
 CCTV-12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
 CCTV-13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 CCTV-13,http://39.165.39.49:19901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -84,7 +80,6 @@ CCTV-14,http://207.56.13.146:81/cdnlive/cctv14.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-15,http://222.214.208.34:59901/tsfile/live/0015_1.m3u8
-CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV-15,http://207.56.13.146:81/cdnlive/cctv15.m3u8
 CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -100,8 +95,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 广东卫视,http://207.56.13.146:81/cdnlive/gdws.m3u8
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
 浙江卫视,https://iptv.catvod.com/catvod.php?id=zjws
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://207.56.13.146:81/cdnlive/zjws.m3u8
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
@@ -143,8 +136,8 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 贵州卫视,http://207.56.13.146:81/cdnlive/gzws.m3u8
 贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,https://iptv.catvod.com/catvod.php?id=hinws
-海南卫视,http://vapi.91kds.cc/live1/hitv.m3u8?id=lyws&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 海南卫视,http://207.56.13.146:81/cdnlive/lyws.m3u8
+海南卫视,http://vapi.91kds.cc/live1/hitv.m3u8?id=lyws&apiKey=e9ed154875a88c5a5998f6f0d3bbcdf0
 河北卫视,https://iptv.catvod.com/catvod.php?id=hbws
 河北卫视,http://207.56.13.146:81/cdnlive/hews.m3u8
 河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -199,7 +192,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 西藏卫视,https://iptv.catvod.com/catvod.php?id=xzws
 西藏卫视,http://207.56.13.146:81/cdnlive/xzws.m3u8
 新疆卫视,https://iptv.catvod.com/catvod.php?id=xjws
-新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=783b1084dc2de64a377e2eccaf9de045&livekey=01Whq5ncXSAY4QR6pxFecNJPn2TD9XzQG6tPi
 新疆卫视,http://207.56.13.146:81/cdnlive/xjws.m3u8
 云南卫视,https://iptv.catvod.com/catvod.php?id=ynws
 云南卫视,http://207.56.13.146:81/cdnlive/ynws.m3u8
@@ -243,10 +235,10 @@ XY Plus HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6288/index.m3u8
 
 ☘️台湾频道,#genre#
 中天新聞720p,http://free.cnlive.club/channel/41d5ac2a.m3u8?q=111.170.171.148
-CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 CTS華視新聞资讯1080p,http://74.91.26.218:82/live/ctsnews.m3u8
-中視新聞HD 1080p,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+CTS華視新聞资讯1080p,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 中視新聞HD 1080p,http://74.91.26.218:82/live/ctvnews.m3u8
+中視新聞HD 1080p,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 台视新闻HD 1080p,http://74.91.26.218:82/live/ttvnews.m3u8
 台视财经HD 1080P,http://74.91.26.218:82/live/ttvcj.m3u8
 東森新聞台HD 720p,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
@@ -260,8 +252,8 @@ CTS華視新聞资讯1080p,http://74.91.26.218:82/live/ctsnews.m3u8
 中視HD 1080p,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
 台視HD 1080P,http://74.91.26.218:82/live/ttv.m3u8
 台視HD 1080P,http://165.154.226.214:50007/li-4gtv-4gtv066/index.m3u8?proxy=true
-TVBS精采台HD,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 TVBS精采台HD,http://165.154.226.214:50007/li-4gtv-4gtv067/index.m3u8?proxy=true
+TVBS精采台HD,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 AMC电影台,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
 AMC电影台,http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
 凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1
@@ -270,116 +262,15 @@ AMC电影台,http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 
 ☘️国际频道,#genre#
-CNN,https://jmp2.uk/stvp-ATBD800001VA
-CNN,https://jmp2.uk/stvp-CHBD800001D0
-CNN,https://jmp2.uk/stvp-DEBD800001S4
-CNN,https://jmp2.uk/stvp-GBBD8000016N
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-BBC News,https://jmp2.uk/stvp-US4000033L
-ABC News Live,https://jmp2.uk/stvp-USBC39000171G
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-FRANCE 24 FAST,https://jmp2.uk/stvp-ATBD1100002TA
-FRANCE 24 FAST,https://jmp2.uk/stvp-CHBD1100003CW
-FRANCE 24 FAST,https://jmp2.uk/stvp-DEBD1100002II
-FRANCE 24 FAST,https://jmp2.uk/stvp-ESBD1100001PQ
-FRANCE 24 FAST,https://jmp2.uk/stvp-GBBD1100002L5
-FRANCE 24 FAST,https://jmp2.uk/stvp-ITBD1100002WX
-Bloomberg TV+,https://jmp2.uk/stvp-ATBA3300018K1
-Bloomberg TV+,https://jmp2.uk/stvp-CHBA3300018TD
-Bloomberg TV+,https://jmp2.uk/stvp-DEBA3300027ZJ
-Bloomberg TV+,https://jmp2.uk/stvp-ESBA3300024AJ
-Bloomberg TV+,https://jmp2.uk/stvp-FR1400004VF
-Bloomberg TV+,https://jmp2.uk/stvp-GBBA3300033C2
-Bloomberg TV+,https://jmp2.uk/stvp-ITBA3300025F5
-Bloomberg TV+,https://jmp2.uk/stvp-USAJ3400011A8
-Sky News,https://jmp2.uk/stvp-GB3300002NF
-Sky News,https://jmp2.uk/stvp-USBB52000022Q
-CBC News,https://jmp2.uk/stvp-CABC2300009KD
-CBC News,https://jmp2.uk/stvp-USBC4400003OU
 CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-NBC News NOW,https://jmp2.uk/stvp-CAAJ2700011IF
-NBC News NOW,https://jmp2.uk/stvp-ESBC400003YM
-NBC News NOW,https://jmp2.uk/stvp-GBBB1500004LG
-NBC News NOW,https://jmp2.uk/stvp-ITBC4000028E
-NBC News NOW,https://jmp2.uk/stvp-USBB2200014DK
-DW,https://jmp2.uk/stvp-ES1300001QC
-DW,https://jmp2.uk/stvp-GB1300001RX
 DW,http://220.135.64.124:5050/4gtv-live071/index.m3u8?proxy=true
-Al Jazeera,https://jmp2.uk/stvp-ES2300004XW
-Al Jazeera,https://jmp2.uk/stvp-FR23000013B
-Al Jazeera,https://jmp2.uk/stvp-GB2300005ML
-Al Jazeera,https://jmp2.uk/stvp-IT23000034W
 Al Jazeera,http://220.135.64.124:5050/4gtv-live157/index.m3u8?proxy=true
-LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
 ESPN,http://41.205.93.154/ESPN/index.m3u8
-BBC Series,https://jmp2.uk/stvp-AT2100004P1
-BBC Series,https://jmp2.uk/stvp-CH2100003MU
-BBC Series,https://jmp2.uk/stvp-DE21000031Z
-BBC Series,https://jmp2.uk/stvp-ES2900001DQ
-BBC Series,https://jmp2.uk/stvp-FR2900001UF
-BBC Series,https://jmp2.uk/stvp-IT2900001B5
-BBC Earth,https://jmp2.uk/stvp-DE3200001RI
-BBC Earth,https://jmp2.uk/stvp-ES3200001F1
-BBC Earth,https://jmp2.uk/stvp-FR3200001NQ
-BBC Earth,https://jmp2.uk/stvp-IT3200002L5
-BBC Travel,https://jmp2.uk/stvp-DE2900001W0
-Discovery,https://jmp2.uk/stvp-IT31000026G
-WWE Superstar Central,https://jmp2.uk/stvp-US700005ID
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Red Bull TV,https://jmp2.uk/stvp-ATBD1500003ES
-Red Bull TV,https://jmp2.uk/stvp-CH4700001E1
-Red Bull TV,https://jmp2.uk/stvp-DEBC2300001EU
-Red Bull TV,https://jmp2.uk/stvp-ES3800001V1
-Red Bull TV,https://jmp2.uk/stvp-GBBD2300003IK
-Red Bull TV,https://jmp2.uk/stvp-IT38000070T
-American Idol,https://jmp2.uk/stvp-GBBC2300001X5
-MTV Teen Mom,https://jmp2.uk/stvp-ATAJ7000105F
-MTV Teen Mom,https://jmp2.uk/stvp-CHAJ700010NR
-MTV Teen Mom,https://jmp2.uk/stvp-DEAJ7000105I
-MTV Pluto TV,https://jmp2.uk/stvp-ATAJ700002OG
-MTV Pluto TV,https://jmp2.uk/stvp-CHAJ700002UB
-MTV Pluto TV,https://jmp2.uk/stvp-DEAJ7000033P
-MTV Pluto TV,https://jmp2.uk/stvp-USBA3000093U
-MTV Catfish,https://jmp2.uk/stvp-ATAK3504517A
-MTV Catfish,https://jmp2.uk/stvp-CHAK3504517A
-MTV Catfish,https://jmp2.uk/stvp-DEAK3504502A
-MTV Catfish,https://jmp2.uk/stvp-ESAJ3800003LX
-MTV Catfish,https://jmp2.uk/stvp-FRAJ38000050Z
-MTV Cribs,https://jmp2.uk/stvp-ESAJ3800006TT
-AMC Stories,https://jmp2.uk/stvp-AT3000006M1
-AMC Stories,https://jmp2.uk/stvp-DE3000009SE
-Stories by AMC,https://jmp2.uk/stvp-USBD2500018X6
-Vevo Pop,https://jmp2.uk/stvp-CABC52000180Z
-Vevo Pop,https://jmp2.uk/stvp-DEBC2100001ZJ
-Vevo Pop,https://jmp2.uk/stvp-ESBC2100001IU
-Vevo Pop,https://jmp2.uk/stvp-FRBC2100001YY
-Vevo Pop,https://jmp2.uk/stvp-GBBC19000017V
-Vevo Pop,https://jmp2.uk/stvp-ITBC2100001G9
-Vevo Pop,https://jmp2.uk/stvp-USBC3600008WY
-Vevo Latino,https://jmp2.uk/stvp-ESBC2100002LV
-Vevo Latino,https://jmp2.uk/stvp-USBC3600015GF
-Vevo Hip-Hop,https://jmp2.uk/stvp-USBC3600002EK
-K-POP by CJ ENM,https://jmp2.uk/stvp-CA3900002PM
-K-POP by CJ ENM,https://jmp2.uk/stvp-DE3900002R1
-K-POP by CJ ENM,https://jmp2.uk/stvp-ES3900001QG
-K-POP by CJ ENM,https://jmp2.uk/stvp-FR3900001AC
-K-POP by CJ ENM,https://jmp2.uk/stvp-GB3900001TM
-K-POP by CJ ENM,https://jmp2.uk/stvp-IN3800006RD
-K-POP by CJ ENM,https://jmp2.uk/stvp-IT39000028R
-K-POP by CJ ENM,https://jmp2.uk/stvp-US39000038W
-NEW KPOP,https://jmp2.uk/stvp-CA1800004L7
-NEW KPOP,https://jmp2.uk/stvp-DE17000032I
-NEW KPOP,https://jmp2.uk/stvp-ES1700005ME
-NEW KPOP,https://jmp2.uk/stvp-FR1700002OZ
-NEW KPOP,https://jmp2.uk/stvp-GB17000088V
-NEW KPOP,https://jmp2.uk/stvp-IT1700002R5
-NEW KPOP,https://jmp2.uk/stvp-USAJ3000013FJ
-Hallmark Movies & More,https://jmp2.uk/stvp-USBD270001633
-MovieSphere by Lionsgate,https://jmp2.uk/stvp-DE4000002I3
-MovieSphere by Lionsgate,https://jmp2.uk/stvp-GBBA33000557H
-Shades of Black,https://jmp2.uk/stvp-USBC1000004G8
 BTV Киска (+18),http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/14003/index.m3u
 
 ☘️台湾文艺,#genre#
@@ -395,7 +286,6 @@ BTV Киска (+18),http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/14003/i
 松視2台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
 松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 松視3台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
-松視3台,https://z3.ubtvfans.com/live/rx3/404/480fe5db5808b25f8ea2d51ccea17233/index.m3u8
 Fake Hostel,http://lunar.pm:8080/leslie/snook/131310
 Hitzefrei HD,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6220/index.m3u
 Hitzefrei HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6220/index.m3u8
@@ -441,10 +331,9 @@ Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6242/index.m3u8
 Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/244/index.m3u8
 Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/244/index.m3u8
-Blue Hustler,https://z3.ubtvfans.com/live/rx4/3077/a17d8a372ba2c3c1923bd06c669a663e/index.m3u8
+Blue Hustler,http://46.151.196.243:80/play/jyK5NyO1TlnamgfsZ0fQiFTvOHroR-ZiO3-7yzwyFJU
 Blue Hustler,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/1064/index.m3u
 Blue Hustler,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1064/index.m3u8
-Blue Hustler,http://46.151.196.243:80/play/jyK5NyO1TlnamgfsZ0fQiFTvOHroR-ZiO3-7yzwyFJU
 Blue Hustler,http://91.218.50.136:8080/Rose35torres/iB7101/2588
 Brazzers,http://lunar.pm:8080/leslie/snook/131303
 Brazzers,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6182/index.m3u
@@ -479,9 +368,9 @@ RK TV,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6249/index.m3u8
 XXX REALITY KINGS,http://conecdg.me:80/Andrielly.Silva/Br131221/3935070
 Private,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6245/index.m3u
 Private,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6245/index.m3u8
+Private TV,http://kulis2026.xyz:8080/can35cn/cankmsucan/231218
 Private TV,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/243/index.m3u
 Private TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/243/index.m3u8
-Private TV,http://kulis2026.xyz:8080/can35cn/cankmsucan/231218
 Naughty America,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6237/index.m3u
 Naughty America,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6237/index.m3u8
 Naughty America,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6237/index.m3u8
@@ -511,8 +400,8 @@ Dorcel Club,http://lunar.pm:8080/leslie/snook/131307
 Dorcel Club,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6197/index.m3u
 Dorcel Club,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6197/index.m3u8
 Dorcel Club,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6197/index.m3u8
-Dorcel XXX,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12132/index.m3u
 Dorcel XXX,http://kulis2026.xyz:8080/can35cn/cankmsucan/231280
+Dorcel XXX,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12132/index.m3u
 XXX DORCEL,http://conecdg.me:80/Andrielly.Silva/Br131221/3935067
 XXX DORCEL 2,http://conecdg.me:80/Andrielly.Silva/Br131221/3935068
 
@@ -649,8 +538,8 @@ Meiden van Holland,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12125/ind
 Meiden van Holland,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12125/index.m3u8
 Meiden van Holland,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12125/index.m3u8
 Passie XXX,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12136/index.m3u8
-Dusk,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6198/index.m3u
 Dusk,http://kulis2026.xyz:8080/can35cn/cankmsucan/231291
+Dusk,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6198/index.m3u
 CentoXCento TV,http://91.218.50.136:8080/Rose35torres/iB7101/2601
 Leo TV,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6272/index.m3u
 Leo TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6272/index.m3u8
@@ -683,7 +572,6 @@ Red Lips,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6271/index.m3u8
 Red XXX,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6281/index.m3u
 Red XXX,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6281/index.m3u8
 Red XXX,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6281/index.m3u8
-Erox HD,https://z3.ubtvfans.com/live/rx4/3079/5e7d86b8132fec2fa9c3efeeded38f23/index.m3u8
 Erox HD,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6296/index.m3u
 Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6296/index.m3u8
 Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6296/index.m3u8
@@ -781,9 +669,9 @@ Super One HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6298/index.m3u8
 Ass Parade,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12178/index.m3u
 Ass Parade,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12178/index.m3u8
 Ass Parade,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12178/index.m3u8
+Barely Legal TV,http://kulis2026.xyz:8080/can35cn/cankmsucan/231304
 Barely Legal TV,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12165/index.m3u
 Barely Legal TV,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/871/index.m3u
-Barely Legal TV,http://kulis2026.xyz:8080/can35cn/cankmsucan/231304
 Bratty Sis,http://lunar.pm:8080/leslie/snook/131302
 Bratty Sis,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12161/index.m3u
 Bratty Sis,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12161/index.m3u8
@@ -911,9 +799,9 @@ Alba 1 HD,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12106/index.m3u
 Alba 1 HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12105/index.m3u8
 All Group Sex,http://lunar.pm:8080/leslie/snook/131297
 Amber Moore,https://raw.githubusercontent.com/atsushi444/hls/refs/heads/main/5kporn/8kt/1/output.m3u8
-Anal,http://cdn.adultiptv.net/anal.m3u8
 Anal,http://live.redtraffic.net/anal.m3u8
 Anal,http://live.mycamtv.com/anal.m3u8
+Anal,http://cdn.adultiptv.net/anal.m3u8
 Anal Mom,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12189/index.m3u
 Anal Mom,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12189/index.m3u8
 Anal Mom,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12189/index.m3u8
@@ -930,7 +818,6 @@ AST TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 AST TV 2,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6170/index.m3u
 AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
 Babes,http://lunar.pm:8080/leslie/snook/131298
-Babes,https://z3.ubtvfans.com/live/rx4/3088/dd5c30f75c5d6b18d32dfd9c97a3b09e/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6172/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6172/index.m3u8
@@ -945,9 +832,9 @@ Bang Bros HD,http://lunar.pm:8080/leslie/snook/131299
 Bang Bros HD,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6173/index.m3u
 Bang Bros HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6173/index.m3u8
 Bang Bros HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6173/index.m3u8
+Bang U,http://46.151.196.243:80/play/jyK5NyO1TlnamgfsZ0fQiOYBy_oUVVHtUZIqYzfI83c
 Bang U,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/12114/index.m3u
 Bang U,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12114/index.m3u8
-Bang U,http://46.151.196.243:80/play/jyK5NyO1TlnamgfsZ0fQiOYBy_oUVVHtUZIqYzfI83c
 Bang!,http://213.226.69.130/iptv/QNKP368YM8HMHKUU6G9EDBSL/6174/index.m3u
 Bang!,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6174/index.m3u8
 Bang!,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6174/index.m3u8
