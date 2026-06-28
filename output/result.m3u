@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-28 17:25:47
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-06-29 03:42:27
 http://114.241.105.149:85/tsfile/live/1/1001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://114.241.105.149:85/tsfile/live/1/1001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://118.193.115.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
-http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
@@ -28,9 +28,9 @@ http://114.241.105.149:85/tsfile/live/3/1003_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://118.193.115.2:9901/tsfile/live/0003_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
-http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
+http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="☘️央视频道",CCTV-3
@@ -40,9 +40,9 @@ http://114.241.105.149:85/tsfile/live/4/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://118.193.115.2:9901/tsfile/live/0004_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
-http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
+http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
 http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="☘️央视频道",CCTV-4
@@ -52,9 +52,9 @@ http://114.241.105.149:85/tsfile/live/5/1005_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://118.193.115.2:9901/tsfile/live/0005_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://74.91.26.218:82/live/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
 http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="☘️央视频道",CCTV-5
@@ -64,21 +64,21 @@ http://114.241.105.149:85/tsfile/live/23/1023_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://118.193.115.2:9901/tsfile/live/0141_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
-http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
 http://74.91.26.218:82/live/cctv5p.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png" group-title="☘️央视频道",CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
 http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="☘️央视频道",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://114.241.105.149:85/tsfile/live/6/1006_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://118.193.115.2:9901/tsfile/live/0006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
-http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
+http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
 http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV6.png" group-title="☘️央视频道",CCTV-6
@@ -88,9 +88,9 @@ http://114.241.105.149:85/tsfile/live/7/1007_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://118.193.115.2:9901/tsfile/live/0007_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
-http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
+http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
 http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7.png" group-title="☘️央视频道",CCTV-7
@@ -110,9 +110,9 @@ http://114.241.105.149:85/tsfile/live/9/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://118.193.115.2:9901/tsfile/live/0009_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
-http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
+http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
 http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="☘️央视频道",CCTV-9
@@ -122,9 +122,9 @@ http://114.241.105.149:85/tsfile/live/10/1010_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://118.193.115.2:9901/tsfile/live/0010_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
-http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
+http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
 http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="☘️央视频道",CCTV-10
@@ -134,9 +134,9 @@ http://114.241.105.149:85/tsfile/live/11/1011_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://118.193.115.2:9901/tsfile/live/0011_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="☘️央视频道",CCTV-11
 http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="☘️央视频道",CCTV-12
@@ -154,9 +154,9 @@ http://114.241.105.149:85/tsfile/live/13/1013_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://118.193.115.2:9901/tsfile/live/0013_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
-http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="☘️央视频道",CCTV-13
 http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
@@ -164,9 +164,9 @@ http://114.241.105.149:85/tsfile/live/14/1014_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://118.193.115.2:9901/tsfile/live/0014_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="☘️央视频道",CCTV-14
 http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
@@ -174,17 +174,17 @@ http://114.241.105.149:85/tsfile/live/15/1015_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://118.193.115.2:9901/tsfile/live/0015_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
+http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="☘️央视频道",CCTV-15
 http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 http://118.193.115.2:9901/tsfile/live/0128_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
 http://74.91.26.218:82/live/cctv17hd.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="☘️央视频道",CCTV-17
+http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://iptv.catvod.com/catvod.php?id=gdws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -198,6 +198,10 @@ http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 https://iptv.catvod.com/catvod.php?id=zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://114.241.105.149:85/tsfile/live/27/1027_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://118.193.115.2:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
@@ -205,10 +209,6 @@ http://118.193.115.2:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;
 http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
@@ -218,9 +218,9 @@ http://114.241.105.149:85/tsfile/live/26/1026_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://118.193.115.2:9901/tsfile/live/0128_2.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://74.91.26.218:82/live/hnwshd.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -448,11 +448,11 @@ http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 https://iptv.catvod.com/catvod.php?id=szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://114.241.105.149:85/tsfile/live/39/1039_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://118.193.115.2:9901/tsfile/live/0126_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
@@ -1287,6 +1287,190 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6225/index.m3u8
 http://conecdg.me:80/Andrielly.Silva/Br131221/3965389
 #EXTINF:-1 tvg-name="XXX WICKED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX WICKED.png" group-title="☘️其他 / 混合类型",XXX WICKED
 http://conecdg.me:80/Andrielly.Silva/Br131221/3933281
+#EXTINF:-1 tvg-name="PORNBOX TRANS: TRANS EROTICA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX TRANS: TRANS EROTICA.png" group-title="☘️泰语频道",PORNBOX TRANS: TRANS EROTICA
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138815
+#EXTINF:-1 tvg-name="PORNBOX: A GIRL KNOWS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: A GIRL KNOWS.png" group-title="☘️泰语频道",PORNBOX: A GIRL KNOWS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138816
+#EXTINF:-1 tvg-name="PORNBOX: ALL BLACK X" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: ALL BLACK X.png" group-title="☘️泰语频道",PORNBOX: ALL BLACK X
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138818
+#EXTINF:-1 tvg-name="PORNBOX: ALL GROUP SEX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: ALL GROUP SEX.png" group-title="☘️泰语频道",PORNBOX: ALL GROUP SEX
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138819
+#EXTINF:-1 tvg-name="PORNBOX: AMATEUR EURO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: AMATEUR EURO.png" group-title="☘️泰语频道",PORNBOX: AMATEUR EURO
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138820
+#EXTINF:-1 tvg-name="PORNBOX: ANALIZED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: ANALIZED.png" group-title="☘️泰语频道",PORNBOX: ANALIZED
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138821
+#EXTINF:-1 tvg-name="PORNBOX: BABES" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BABES.png" group-title="☘️泰语频道",PORNBOX: BABES
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138822
+#EXTINF:-1 tvg-name="PORNBOX: BANG BROS NETWORK" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BANG BROS NETWORK.png" group-title="☘️泰语频道",PORNBOX: BANG BROS NETWORK
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138823
+#EXTINF:-1 tvg-name="PORNBOX: BIPHORIA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BIPHORIA.png" group-title="☘️泰语频道",PORNBOX: BIPHORIA
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138824
+#EXTINF:-1 tvg-name="PORNBOX: BLACKED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BLACKED.png" group-title="☘️泰语频道",PORNBOX: BLACKED
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138825
+#EXTINF:-1 tvg-name="PORNBOX: BLOW ME POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BLOW ME POV.png" group-title="☘️泰语频道",PORNBOX: BLOW ME POV
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138826
+#EXTINF:-1 tvg-name="PORNBOX: BOX OF PORN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BOX OF PORN.png" group-title="☘️泰语频道",PORNBOX: BOX OF PORN
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138827
+#EXTINF:-1 tvg-name="PORNBOX: BRATTY SIS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BRATTY SIS.png" group-title="☘️泰语频道",PORNBOX: BRATTY SIS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138828
+#EXTINF:-1 tvg-name="PORNBOX: BRAZZERS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BRAZZERS.png" group-title="☘️泰语频道",PORNBOX: BRAZZERS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138829
+#EXTINF:-1 tvg-name="PORNBOX: BUMS BUS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: BUMS BUS.png" group-title="☘️泰语频道",PORNBOX: BUMS BUS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138830
+#EXTINF:-1 tvg-name="PORNBOX: CASTING COUCH" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: CASTING COUCH.png" group-title="☘️泰语频道",PORNBOX: CASTING COUCH
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138831
+#EXTINF:-1 tvg-name="PORNBOX: CUM 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: CUM 4K.png" group-title="☘️泰语频道",PORNBOX: CUM 4K
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138832
+#EXTINF:-1 tvg-name="PORNBOX: DAGFS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DAGFS.png" group-title="☘️泰语频道",PORNBOX: DAGFS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138833
+#EXTINF:-1 tvg-name="PORNBOX: DDF BUSTY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DDF BUSTY.png" group-title="☘️泰语频道",PORNBOX: DDF BUSTY
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138834
+#EXTINF:-1 tvg-name="PORNBOX: DIABOLIC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DIABOLIC.png" group-title="☘️泰语频道",PORNBOX: DIABOLIC
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138835
+#EXTINF:-1 tvg-name="PORNBOX: DIGITAL PLAYGROUND" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DIGITAL PLAYGROUND.png" group-title="☘️泰语频道",PORNBOX: DIGITAL PLAYGROUND
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138836
+#EXTINF:-1 tvg-name="PORNBOX: DOGFART NETWORK" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DOGFART NETWORK.png" group-title="☘️泰语频道",PORNBOX: DOGFART NETWORK
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138837
+#EXTINF:-1 tvg-name="PORNBOX: DORCEL CLUB" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DORCEL CLUB.png" group-title="☘️泰语频道",PORNBOX: DORCEL CLUB
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138838
+#EXTINF:-1 tvg-name="PORNBOX: DREAMROOM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: DREAMROOM.png" group-title="☘️泰语频道",PORNBOX: DREAMROOM
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138839
+#EXTINF:-1 tvg-name="PORNBOX: EROTIKVONBENAN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: EROTIKVONBENAN.png" group-title="☘️泰语频道",PORNBOX: EROTIKVONBENAN
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138840
+#EXTINF:-1 tvg-name="PORNBOX: FAKE HOSTEL" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FAKE HOSTEL.png" group-title="☘️泰语频道",PORNBOX: FAKE HOSTEL
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138843
+#EXTINF:-1 tvg-name="PORNBOX: FAKE TAXI" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FAKE TAXI.png" group-title="☘️泰语频道",PORNBOX: FAKE TAXI
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138844
+#EXTINF:-1 tvg-name="PORNBOX: FAMILY STROKES" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FAMILY STROKES.png" group-title="☘️泰语频道",PORNBOX: FAMILY STROKES
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138845
+#EXTINF:-1 tvg-name="PORNBOX: FAMILY SWAP XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FAMILY SWAP XXX.png" group-title="☘️泰语频道",PORNBOX: FAMILY SWAP XXX
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138846
+#EXTINF:-1 tvg-name="PORNBOX: FAPADOO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FAPADOO.png" group-title="☘️泰语频道",PORNBOX: FAPADOO
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138847
+#EXTINF:-1 tvg-name="PORNBOX: FILTHY POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FILTHY POV.png" group-title="☘️泰语频道",PORNBOX: FILTHY POV
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138848
+#EXTINF:-1 tvg-name="PORNBOX: FIRST ANAL QUEST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FIRST ANAL QUEST.png" group-title="☘️泰语频道",PORNBOX: FIRST ANAL QUEST
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138849
+#EXTINF:-1 tvg-name="PORNBOX: FIT 18" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: FIT 18.png" group-title="☘️泰语频道",PORNBOX: FIT 18
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138850
+#EXTINF:-1 tvg-name="PORNBOX: GOTMYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: GOTMYLF.png" group-title="☘️泰语频道",PORNBOX: GOTMYLF
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138851
+#EXTINF:-1 tvg-name="PORNBOX: HENTAINED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: HENTAINED.png" group-title="☘️泰语频道",PORNBOX: HENTAINED
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138852
+#EXTINF:-1 tvg-name="PORNBOX: HER LIMIT" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: HER LIMIT.png" group-title="☘️泰语频道",PORNBOX: HER LIMIT
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138853
+#EXTINF:-1 tvg-name="PORNBOX: HOLED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: HOLED.png" group-title="☘️泰语频道",PORNBOX: HOLED
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138854
+#EXTINF:-1 tvg-name="PORNBOX: HOT WIFE XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: HOT WIFE XXX.png" group-title="☘️泰语频道",PORNBOX: HOT WIFE XXX
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138855
+#EXTINF:-1 tvg-name="PORNBOX: HUSSIE PASS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: HUSSIE PASS.png" group-title="☘️泰语频道",PORNBOX: HUSSIE PASS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138856
+#EXTINF:-1 tvg-name="PORNBOX: INTERRACIAL PASS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: INTERRACIAL PASS.png" group-title="☘️泰语频道",PORNBOX: INTERRACIAL PASS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138857
+#EXTINF:-1 tvg-name="PORNBOX: JAYS POV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: JAYS POV.png" group-title="☘️泰语频道",PORNBOX: JAYS POV
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138858
+#EXTINF:-1 tvg-name="PORNBOX: JESH BY JESH" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: JESH BY JESH.png" group-title="☘️泰语频道",PORNBOX: JESH BY JESH
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138859
+#EXTINF:-1 tvg-name="PORNBOX: JOI BABES" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: JOI BABES.png" group-title="☘️泰语频道",PORNBOX: JOI BABES
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138860
+#EXTINF:-1 tvg-name="PORNBOX: JULES JORDAN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: JULES JORDAN.png" group-title="☘️泰语频道",PORNBOX: JULES JORDAN
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138861
+#EXTINF:-1 tvg-name="PORNBOX: KINKY FAMILY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: KINKY FAMILY.png" group-title="☘️泰语频道",PORNBOX: KINKY FAMILY
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138862
+#EXTINF:-1 tvg-name="PORNBOX: KINKY INLAWS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: KINKY INLAWS.png" group-title="☘️泰语频道",PORNBOX: KINKY INLAWS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138863
+#EXTINF:-1 tvg-name="PORNBOX: LETHAL HARDCORE" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LETHAL HARDCORE.png" group-title="☘️泰语频道",PORNBOX: LETHAL HARDCORE
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138865
+#EXTINF:-1 tvg-name="PORNBOX: LETHAL TEENS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LETHAL TEENS.png" group-title="☘️泰语频道",PORNBOX: LETHAL TEENS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138866
+#EXTINF:-1 tvg-name="PORNBOX: LETS DOE IT" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LETS DOE IT.png" group-title="☘️泰语频道",PORNBOX: LETS DOE IT
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138867
+#EXTINF:-1 tvg-name="PORNBOX: LIFE SELECTOR" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LIFE SELECTOR.png" group-title="☘️泰语频道",PORNBOX: LIFE SELECTOR
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138868
+#EXTINF:-1 tvg-name="PORNBOX: LOVE HER FEET" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LOVE HER FEET.png" group-title="☘️泰语频道",PORNBOX: LOVE HER FEET
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138869
+#EXTINF:-1 tvg-name="PORNBOX: LOVE HOME PORN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LOVE HOME PORN.png" group-title="☘️泰语频道",PORNBOX: LOVE HOME PORN
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138870
+#EXTINF:-1 tvg-name="PORNBOX: LUBED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LUBED.png" group-title="☘️泰语频道",PORNBOX: LUBED
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138871
+#EXTINF:-1 tvg-name="PORNBOX: LUXURE" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: LUXURE.png" group-title="☘️泰语频道",PORNBOX: LUXURE
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138872
+#EXTINF:-1 tvg-name="PORNBOX: MAMACITAZ" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MAMACITAZ.png" group-title="☘️泰语频道",PORNBOX: MAMACITAZ
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138873
+#EXTINF:-1 tvg-name="PORNBOX: MASSAGE ROOMS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MASSAGE ROOMS.png" group-title="☘️泰语频道",PORNBOX: MASSAGE ROOMS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138874
+#EXTINF:-1 tvg-name="PORNBOX: MODEL MEDIA ASIA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MODEL MEDIA ASIA.png" group-title="☘️泰语频道",PORNBOX: MODEL MEDIA ASIA
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138875
+#EXTINF:-1 tvg-name="PORNBOX: MOM TEACH SEX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MOM TEACH SEX.png" group-title="☘️泰语频道",PORNBOX: MOM TEACH SEX
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138876
+#EXTINF:-1 tvg-name="PORNBOX: MOM XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MOM XXX.png" group-title="☘️泰语频道",PORNBOX: MOM XXX
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/163490
+#EXTINF:-1 tvg-name="PORNBOX: MOMMY BLOWS BEST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MOMMY BLOWS BEST.png" group-title="☘️泰语频道",PORNBOX: MOMMY BLOWS BEST
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138877
+#EXTINF:-1 tvg-name="PORNBOX: MUST NOT FAP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MUST NOT FAP.png" group-title="☘️泰语频道",PORNBOX: MUST NOT FAP
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138878
+#EXTINF:-1 tvg-name="PORNBOX: MY DIRTY HOBBY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY DIRTY HOBBY.png" group-title="☘️泰语频道",PORNBOX: MY DIRTY HOBBY
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138879
+#EXTINF:-1 tvg-name="PORNBOX: MY FAMILY PIES" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY FAMILY PIES.png" group-title="☘️泰语频道",PORNBOX: MY FAMILY PIES
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138880
+#EXTINF:-1 tvg-name="PORNBOX: MY LIFE IN MIAMI" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY LIFE IN MIAMI.png" group-title="☘️泰语频道",PORNBOX: MY LIFE IN MIAMI
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138881
+#EXTINF:-1 tvg-name="PORNBOX: MY PERVY FAMILY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY PERVY FAMILY.png" group-title="☘️泰语频道",PORNBOX: MY PERVY FAMILY
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138882
+#EXTINF:-1 tvg-name="PORNBOX: MY TINY WISH" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MY TINY WISH.png" group-title="☘️泰语频道",PORNBOX: MY TINY WISH
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138883
+#EXTINF:-1 tvg-name="PORNBOX: MYLF" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: MYLF.png" group-title="☘️泰语频道",PORNBOX: MYLF
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138884
+#EXTINF:-1 tvg-name="PORNBOX: NEW SENSATIONS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NEW SENSATIONS.png" group-title="☘️泰语频道",PORNBOX: NEW SENSATIONS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138885
+#EXTINF:-1 tvg-name="PORNBOX: NF BUSTY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NF BUSTY.png" group-title="☘️泰语频道",PORNBOX: NF BUSTY
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138886
+#EXTINF:-1 tvg-name="PORNBOX: NUBILE FILMS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NUBILE FILMS.png" group-title="☘️泰语频道",PORNBOX: NUBILE FILMS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138887
+#EXTINF:-1 tvg-name="PORNBOX: NURU MASSAGE" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: NURU MASSAGE.png" group-title="☘️泰语频道",PORNBOX: NURU MASSAGE
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138888
+#EXTINF:-1 tvg-name="PORNBOX: PASSION" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PASSION.png" group-title="☘️泰语频道",PORNBOX: PASSION
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138889
+#EXTINF:-1 tvg-name="PORNBOX: PERV CITY" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PERV CITY.png" group-title="☘️泰语频道",PORNBOX: PERV CITY
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138890
+#EXTINF:-1 tvg-name="PORNBOX: PERV MOM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PERV MOM.png" group-title="☘️泰语频道",PORNBOX: PERV MOM
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138891
+#EXTINF:-1 tvg-name="PORNBOX: PORN WORLD HARDCORE" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PORN WORLD HARDCORE.png" group-title="☘️泰语频道",PORNBOX: PORN WORLD HARDCORE
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138892
+#EXTINF:-1 tvg-name="PORNBOX: PORNHOCHIC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PORNHOCHIC.png" group-title="☘️泰语频道",PORNBOX: PORNHOCHIC
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138893
+#EXTINF:-1 tvg-name="PORNBOX: POVD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: POVD.png" group-title="☘️泰语频道",PORNBOX: POVD
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138894
+#EXTINF:-1 tvg-name="PORNBOX: PRENCESS CUM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PRENCESS CUM.png" group-title="☘️泰语频道",PORNBOX: PRENCESS CUM
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138895
+#EXTINF:-1 tvg-name="PORNBOX: PRIVATE" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PRIVATE.png" group-title="☘️泰语频道",PORNBOX: PRIVATE
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138896
+#EXTINF:-1 tvg-name="PORNBOX: PROPERTY SEX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PROPERTY SEX.png" group-title="☘️泰语频道",PORNBOX: PROPERTY SEX
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138897
+#EXTINF:-1 tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PUBLIC AGENT.png" group-title="☘️泰语频道",PORNBOX: PUBLIC AGENT
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138898
+#EXTINF:-1 tvg-name="PORNBOX: PURE MATURE" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: PURE MATURE.png" group-title="☘️泰语频道",PORNBOX: PURE MATURE
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138899
+#EXTINF:-1 tvg-name="PORNBOX: REAL DIRTY VIDEOS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REAL DIRTY VIDEOS.png" group-title="☘️泰语频道",PORNBOX: REAL DIRTY VIDEOS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138900
+#EXTINF:-1 tvg-name="PORNBOX: REALITY JUNKIES" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REALITY JUNKIES.png" group-title="☘️泰语频道",PORNBOX: REALITY JUNKIES
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138902
+#EXTINF:-1 tvg-name="PORNBOX: REALITY KINGS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: REALITY KINGS.png" group-title="☘️泰语频道",PORNBOX: REALITY KINGS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138903
+#EXTINF:-1 tvg-name="PORNBOX: SLIM 4K" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: SLIM 4K.png" group-title="☘️泰语频道",PORNBOX: SLIM 4K
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138904
+#EXTINF:-1 tvg-name="PORNBOX: STROKIES" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: STROKIES.png" group-title="☘️泰语频道",PORNBOX: STROKIES
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138905
+#EXTINF:-1 tvg-name="PORNBOX: SUGAR BABES TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: SUGAR BABES TV.png" group-title="☘️泰语频道",PORNBOX: SUGAR BABES TV
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138906
+#EXTINF:-1 tvg-name="PORNBOX: SWEET SINNER" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: SWEET SINNER.png" group-title="☘️泰语频道",PORNBOX: SWEET SINNER
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138907
+#EXTINF:-1 tvg-name="PORNBOX: THROATED" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: THROATED.png" group-title="☘️泰语频道",PORNBOX: THROATED
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138908
+#EXTINF:-1 tvg-name="PORNBOX: TRUE AMATUERS" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: TRUE AMATUERS.png" group-title="☘️泰语频道",PORNBOX: TRUE AMATUERS
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138909
+#EXTINF:-1 tvg-name="PORNBOX: X CHIMERA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/PORNBOX: X CHIMERA.png" group-title="☘️泰语频道",PORNBOX: X CHIMERA
+http://xplatinmedia.com:8080/@JKDpros/2jLwS6gtxZ2a/138910
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6164/index.m3u8
 #EXTINF:-1 tvg-name="21 Sextury" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/21 Sextury.png" group-title="☘️葡萄牙语频道",21 Sextury
