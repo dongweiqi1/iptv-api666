@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-07 17:57:29,http://112.46.105.20:8009/hls/501/index.m3u8
+2026-07-08 04:08:27,http://112.46.105.20:8009/hls/501/index.m3u8
 
 ☘️央视频道,#genre#
 CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
@@ -65,11 +65,11 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 📡卫视频道,#genre#
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
@@ -117,6 +117,7 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 陕西卫视,http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
@@ -155,8 +156,8 @@ CNN,https://jmp2.uk/stvp-ATBD800001VA
 CNN,https://jmp2.uk/stvp-CHBD800001D0
 CNN,https://jmp2.uk/stvp-DEBD800001S4
 CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 BBC News,https://jmp2.uk/stvp-US4000033L
 ABC News Live,https://jmp2.uk/stvp-USBC39000171G
 FRANCE 24 FAST,https://jmp2.uk/stvp-ATBD1100002TA
@@ -297,11 +298,11 @@ Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6242/index.m3u8
 Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6242/index.m3u8
 Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/244/index.m3u8
 Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/244/index.m3u8
-Blue Hustler,https://z3.ubtvfans.com/live/rx4/3077/a17d8a372ba2c3c1923bd06c669a663e/index.m3u8
 Blue Hustler,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1064/index.m3u8
-Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Blue Hustler,https://z3.ubtvfans.com/live/rx4/3077/a17d8a372ba2c3c1923bd06c669a663e/index.m3u8
 Brazzers,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6182/index.m3u8
 Brazzers,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6182/index.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12113/index.m3u8
 Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12113/index.m3u8
 Brazzers TV Europe Россия,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/910/index.m3u8
@@ -313,9 +314,9 @@ XXX BRAZZERS 2,http://conecdg.me:80/Andrielly.Silva/Br131221/3954317
 XXX BRAZZERS 3,http://conecdg.me:80/Andrielly.Silva/Br131221/3954316
 XXX BRAZZERS 4,http://conecdg.me:80/Andrielly.Silva/Br131221/3954315
 XXX BRAZZERS 5,http://conecdg.me:80/Andrielly.Silva/Br131221/3959204
-Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 Reality Kings,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6247/index.m3u8
 Reality Kings,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6247/index.m3u8
+Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 RK Prime,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6248/index.m3u8
 RK Prime,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6248/index.m3u8
 RK TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6249/index.m3u8
@@ -451,22 +452,22 @@ French Lover,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12124/index.m3u8
 French Lover,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/12124/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6270/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6270/index.m3u8
-Extasy HD,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 Extasy HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
 Extasy HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/11051/index.m3u8
+Extasy HD,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 Redlight HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/242/index.m3u8
 Redlight HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/242/index.m3u8
 Red Lips,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6271/index.m3u8
 Red Lips,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6271/index.m3u8
 Red XXX,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6281/index.m3u8
 Red XXX,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6281/index.m3u8
-Erox HD,https://z3.ubtvfans.com/live/rx4/3079/5e7d86b8132fec2fa9c3efeeded38f23/index.m3u8
-Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6296/index.m3u8
 Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6296/index.m3u8
-Eroxxx HD,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+Erox HD,https://z3.ubtvfans.com/live/rx4/3079/5e7d86b8132fec2fa9c3efeeded38f23/index.m3u8
+Erox HD,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5015/index.m3u8
 Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/5015/index.m3u8
+Eroxxx HD,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
 ☘️明星 / 特定系列,#genre#
@@ -512,10 +513,6 @@ Digital Desire,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6195/index.m3u
 Digital Desire,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6195/index.m3u8
 Lust Cinema,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6232/index.m3u8
 Lust Cinema,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6232/index.m3u8
-EroLuxe Anal,http://u.vipl.one/high/ierw63qgf1/1685.m3u8
-EroLuxe Babysitter,http://u.vipl.one/high/ierw63qgf1/1707.m3u8
-EroLuxe Creampie,http://u.vipl.one/high/ierw63qgf1/1713.m3u8
-EroLuxe Shemale,http://u.vipl.one/high/ierw63qgf1/1701.m3u8
 XXX LEGALPORNO,http://conecdg.me:80/Andrielly.Silva/Br131221/3933287
 XXX LEGALPORNO 2,http://conecdg.me:80/Andrielly.Silva/Br131221/3933288
 XXX BDSM BOXXX,http://conecdg.me:80/Andrielly.Silva/Br131221/3935065
@@ -656,11 +653,11 @@ Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6168/index.m3u8
 Analized HD,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6168/index.m3u8
 AST TV,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 AST TV 2,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
-Babes,https://z3.ubtvfans.com/live/rx4/3088/dd5c30f75c5d6b18d32dfd9c97a3b09e/index.m3u8
-Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6171/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6172/index.m3u8
 Babes,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6172/index.m3u8
+Babes,https://z3.ubtvfans.com/live/rx4/3088/dd5c30f75c5d6b18d32dfd9c97a3b09e/index.m3u8
+Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 Babes TV HD,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2161/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6270/index.m3u8
 Balkan Erotic,http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/6270/index.m3u8
