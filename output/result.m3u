@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-20 03:18:52
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-20 17:31:07
 http://103.72.172.253:8041/hls/218855428/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://103.72.172.253:8041/hls/218855428/index.m3u8
@@ -728,9 +728,9 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/527/index.m3u8
 #EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy TV.png" group-title="☘️欧美MBB",Playboy TV
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/527/index.m3u8
 #EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6280/index.m3u8
+#EXTINF:-1 tvg-name="Playboy LA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy LA.png" group-title="☘️欧美MBB",Playboy LA
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6242/index.m3u8
 #EXTINF:-1 tvg-name="Playboy Plus" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Playboy Plus.png" group-title="☘️欧美MBB",Playboy Plus
@@ -742,11 +742,11 @@ http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/244/index.m3u8
 #EXTINF:-1 tvg-name="Blue Hustler" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Blue Hustler.png" group-title="☘️欧美MBB",Blue Hustler
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/1064/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6182/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/6182/index.m3u8
+#EXTINF:-1 tvg-name="Brazzers" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers.png" group-title="☘️欧美MBB",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/12113/index.m3u8
 #EXTINF:-1 tvg-name="Brazzers TV Europe" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Brazzers TV Europe.png" group-title="☘️欧美MBB",Brazzers TV Europe
@@ -770,11 +770,11 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3954315
 #EXTINF:-1 tvg-name="XXX BRAZZERS 5" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX BRAZZERS 5.png" group-title="☘️欧美MBB",XXX BRAZZERS 5
 http://conecdg.me:80/Andrielly.Silva/Br131221/3959204
 #EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
-http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6247/index.m3u8
 #EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/6247/index.m3u8
+#EXTINF:-1 tvg-name="Reality Kings" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Reality Kings.png" group-title="☘️欧美MBB",Reality Kings
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK Prime.png" group-title="☘️欧美MBB",RK Prime
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6248/index.m3u8
 #EXTINF:-1 tvg-name="RK Prime" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/RK Prime.png" group-title="☘️欧美MBB",RK Prime
@@ -1022,11 +1022,11 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6270/index.m3u8
 #EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️European Local",Balkan Erotic
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/6270/index.m3u8
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6201/index.m3u8
 #EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/11051/index.m3u8
+#EXTINF:-1 tvg-name="Extasy HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Extasy HD.png" group-title="☘️European Local",Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Redlight HD.png" group-title="☘️European Local",Redlight HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/242/index.m3u8
 #EXTINF:-1 tvg-name="Redlight HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Redlight HD.png" group-title="☘️European Local",Redlight HD
@@ -1040,17 +1040,17 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6281/index.m3u8
 #EXTINF:-1 tvg-name="Red XXX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red XXX.png" group-title="☘️European Local",Red XXX
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/6281/index.m3u8
 #EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6296/index.m3u8
 #EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/6296/index.m3u8
-#EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Erox HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Erox HD.png" group-title="☘️European Local",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/5015/index.m3u8
 #EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/5015/index.m3u8
+#EXTINF:-1 tvg-name="Eroxxx HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Eroxxx HD.png" group-title="☘️European Local",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Desire" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Desire.png" group-title="☘️European Local",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="XXX MIA KHALIFA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/XXX MIA KHALIFA.png" group-title="☘️明星 / 特定系列",XXX MIA KHALIFA
@@ -1414,13 +1414,13 @@ http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6169/index.m3u8
 #EXTINF:-1 tvg-name="AST TV 2" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AST TV 2.png" group-title="☘️葡萄牙语频道",AST TV 2
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6170/index.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
-http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6171/index.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/6172/index.m3u8
 #EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/6172/index.m3u8
+#EXTINF:-1 tvg-name="Babes" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes.png" group-title="☘️葡萄牙语频道",Babes
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="Babes TV HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Babes TV HD.png" group-title="☘️葡萄牙语频道",Babes TV HD
 http://a0bn5xro.rostelekom.xyz/iptv/AHMQNVLWUTM5PW/2161/index.m3u8
 #EXTINF:-1 tvg-name="Balkan Erotic" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Balkan Erotic.png" group-title="☘️葡萄牙语频道",Balkan Erotic
